@@ -6,6 +6,9 @@ layout: base
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
+      {%- if page.doi -%}
+        <span class="post-meta"><i class="fa-solid fa-file"></i> <a style="color: #828282" href="https://doi.org/{{ page.doi }}">https://doi.org/{{ page.doi }}</a></span><br />
+      {%- endif -%}
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <i class="fa-regular fa-calendar-days"></i>
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
@@ -27,6 +30,9 @@ layout: base
       {%- endif -%}
       &nbsp;<a class="u-url" href="https://github.com/egonw/blog/commits/main/{{ page.path }}"><i class="fa-solid fa-timeline"></i></a>
       &nbsp;<a class="u-url" href="https://github.com/egonw/blog/blob/main/{{ page.path }}"><i class="fa-solid fa-pen-to-square"></i></a>
+      {%- if page.doi -%}
+        <br /><span class="post-meta">Download as:&nbsp;<a href="https://api.rogue-scholar.org/posts/{{ page.doi }}?format=pdf"><i class="fa-solid fa-file-pdf"></i></a></span>
+      {%- endif -%}
     </p>   
   </header>
 

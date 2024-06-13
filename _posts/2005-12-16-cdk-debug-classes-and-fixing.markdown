@@ -4,6 +4,7 @@ title:  "CDK Debug classes and fixing the ModelBuilder3D bug"
 date:   2005-12-16
 blogger-link: https://chem-bla-ics.blogspot.com/2005/12/cdk-debug-classes-and-fixing.html
 tags: cdk cheminf
+doi: 10.59350/6p49t-sj396
 ---
 
 For some weeks now I have been thinking about bug [1309731](https://sourceforge.net/tracker/index.php?func=detail&aid=1309731&group_id=20024&atid=120024):

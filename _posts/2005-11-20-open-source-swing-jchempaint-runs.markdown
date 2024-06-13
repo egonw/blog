@@ -4,6 +4,7 @@ title:  "Open Source Swing: JChemPaint runs!"
 date:   2005-11-20
 blogger-link: https://chem-bla-ics.blogspot.com/2005/11/open-source-swing-jchempaint-runs.html
 tags: jchempaint java jmol linux
+doi: 10.59350/4dgp8-dtq30
 ---
 
 Thanx to [Mark's encouragements](https://chem-bla-ics.blogspot.com/2005/11/goal-live-chemblaics-cd.html?showComment=1132422120000), I tried to run

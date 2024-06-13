@@ -4,6 +4,7 @@ title:  "UML diagram of CDK module dependencies"
 date:   2005-12-06
 blogger-link: https://chem-bla-ics.blogspot.com/2005/12/uml-diagram-of-cdk-module-dependencies.html
 tags: cdk
+doi: 10.59350/a3r1n-72841
 ---
 
 The code clean up after [CDK](http://cdk.sf.net/)'s interfaces transition is in progress, and two

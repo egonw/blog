@@ -8,7 +8,7 @@
   {%- feed_meta -%}
 
   {% if site.tags != "" %}
-    {% include collecttags.html %}
+    {% include_cached collecttags.html %}
   {% endif %}
 
   <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>

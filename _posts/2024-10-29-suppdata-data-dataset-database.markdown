@@ -6,6 +6,7 @@ tags: data doi:10.6084/m9.figshare.7075214.v1 doi:10.5281/zenodo.13933046 doi:10
   doi:10.6084/m9.figshare.26931712.v1 doi:10.6084/m9.figshare.c.3696370_D1.v1
   doi:10.6084/m9.figshare.c.3698536_D1.v1 doi:10.1186/1758-2946-5-23 doi:10.1186/s13321-021-00573-5
 image: /assets/images/figshare_bridgedb.png
+doi: 10.59350/acrqt-9y217
 ---
 
 Open Science doesn't make publishing easier. That that's all for the better: our research efforts are complex,

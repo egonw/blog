@@ -2,9 +2,11 @@
 layout: post
 title:  "Additional files, data, datasets, databases, and published data"
 date:   2024-10-29
-tags: data doi:10.6084/m9.figshare.7075214.v1 doi:10.5281/zenodo.13933046 doi:10.6084/m9.figshare.681678
-  doi:10.6084/m9.figshare.26931712.v1 doi:10.6084/m9.figshare.c.3696370_D1.v1
-  doi:10.6084/m9.figshare.c.3698536_D1.v1 doi:10.1186/1758-2946-5-23 doi:10.1186/s13321-021-00573-5
+modified_date: 2024-11-02
+tags: data doi:10.6084/M9.FIGSHARE.7075214.V1 doi:10.5281/ZENODO.13933046 doi:10.6084/M9.FIGSHARE.681678
+  doi:10.6084/M9.FIGSHARE.26931712.V1 doi:10.6084/M9.FIGSHARE.C.3696370_D1.V1
+  doi:10.6084/M9.FIGSHARE.C.3698536_D1.V1 doi:10.1186/1758-2946-5-23 doi:10.1186/S13321-021-00573-5
+  doi:10.1186/1758-2946-5-23
 image: /assets/images/figshare_bridgedb.png
 doi: 10.59350/acrqt-9y217
 ---

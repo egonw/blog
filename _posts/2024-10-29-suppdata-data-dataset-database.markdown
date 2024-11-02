@@ -72,7 +72,7 @@ of all my raw data. As an academic community, we have been focusing too much on 
 article as the center of the research system (more on that later, because there is awesome
 research presented at the Dutch National Open Science Festival).
 
-* [pKa values](https://chem-bla-ics.blogspot.com/2016/03/migrating-pka-data-from-drugmet-to.html?q=drugmet) (not archive, no DOI)
+* [pKa values](https://chem-bla-ics.linkedchemistry.org/03/27/migrating-pka-data-from-drugmet-to.html) (not archived, no DOI)
 * [NanoWiki 5](https://doi.org/10.6084/m9.figshare.7075214.v1) (archived, with DOI)
 
 ## Processed data

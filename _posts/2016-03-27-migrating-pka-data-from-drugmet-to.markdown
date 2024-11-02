@@ -2,6 +2,7 @@
 layout: post
 title:  "Migrating pKa data from DrugMet to Wikidata"
 date:   2016-03-27
+modified_date: 2024-11-02
 blogger-link: https://chem-bla-ics.blogspot.com/2016/03/migrating-pka-data-from-drugmet-to.html
 tags: wikidata chemistry doi:10.3897/RIO.1.E7573 doi:10.1371/JOURNAL.PONE.0025513
   justdoi:10.1093/DATABASE/BAW015 justdoi:10.1021/ED050P510 justdoi:10.1021/JA01489A008
@@ -70,8 +71,8 @@ you should track, anyway). I am using it myself as source of identifier mappings
 and more. So, migrating the previously collected data to Wikidata makes perfect
 sense to me:
 
-1. if a compound is missing, I can easily [create a new one using Bioclipse](http://chem-bla-ics.blogspot.nl/2016/03/adding-disclosures-to-wikidata-with.html)
-2. if a paper is missing, I can easily [create a new one using Magnus Manske's QuickStatements](http://chem-bla-ics.blogspot.nl/2016/03/adding-disclosures-to-wikidata-with.html)
+1. if a compound is missing, I can easily [create a new one using Bioclipse <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2016/03/20/adding-disclosures-to-wikidata-with.html)
+2. if a paper is missing, I can easily [create a new one using Magnus Manske's QuickStatements <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2016/03/20/adding-disclosures-to-wikidata-with.html)
 3. Wikidata has a pretty decent provenance model
 
 I can annotate data with the data source (paper) it came from and also experimental conditions:

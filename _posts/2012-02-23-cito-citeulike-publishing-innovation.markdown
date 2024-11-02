@@ -2,6 +2,7 @@
 layout: post
 title:  "CiTO / CiteULike: publishing innovation"
 date:   2012-02-23
+modified_date: 2024-11-02
 blogger-link: https://chem-bla-ics.blogspot.com/2012/02/cito-citeulike-publishing-innovation.html
 tags: citeulike cito justdoi:10.1186/2041-1480-1-S1-S6 rdf
 image: /assets/images/culcito1.png
@@ -10,8 +11,8 @@ doi: 10.59350/25dgb-j2y93
 
 Readers of my blog know I have been using the Citation Typing Ontology, CiTO (doi:[10.1186/2041-1480-1-S1-S6](http://dx.doi.org/10.1186/2041-1480-1-S1-S6)).
 I allows me to see [how the CDK](http://chem-bla-ics.blogspot.com/2010/02/citing-chemistry-development-kit.html) is
-[cited and used](http://chem-bla-ics.blogspot.com/2010/10/citeulike-cito-use-case-1-wordles.html). CiteULike is currently adding more CiTO more functionality,
-which they [started](http://chem-bla-ics.blogspot.com/2010/09/list-of-things-i-miss-in-citeulike.html) doing almost one and a half years ago.
+[cited and used <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/10/31/citeulike-cito-use-case-1-wordles.html). CiteULike is currently adding more CiTO more functionality,
+which they [started <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/09/17/list-of-things-i-miss-in-citeulike.html) doing almost one and a half years ago.
 
 One of the things, is that the CiTO data added via a certain account, can be downloaded as triples:
 
@@ -28,7 +29,7 @@ they show up with the cited paper too, which is less suitable for the top-down f
 
 ![](/assets/images/culcito1.png)
 
-To make this advertorial a bit balanced, not all [my wishes](http://chem-bla-ics.blogspot.com/2010/09/list-of-things-i-miss-in-citeulike.html) have been
+To make this advertorial a bit balanced, not all [my wishes <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/09/17/list-of-things-i-miss-in-citeulike.html) have been
 implemented yet, and the next up from my perspective should be Linked Data. There is some Linked Data embedded as RDFa, but the latter is not turning out
 to be the killer I had hoped, and regular RDF entry points should be used.
 

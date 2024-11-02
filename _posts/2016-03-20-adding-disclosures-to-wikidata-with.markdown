@@ -2,6 +2,7 @@
 layout: post
 title:  "Adding disclosures to Wikidata with Bioclipse"
 date:   2016-03-20
+modified_date: 2024-11-02
 blogger-link: https://chem-bla-ics.blogspot.com/2016/03/adding-disclosures-to-wikidata-with.html
 tags: acs bioclipse chembl inchi pubchem wikidata acssandiego doi:10.1186/1471-2105-8-59 doi:10.3897/RIO.1.E7573
 ---
@@ -22,7 +23,7 @@ I redrew the structure:
 
 ![](/assets/images/strucutre.png)
 
-I previously blogged about how to [add chemicals to Wikidata](http://chem-bla-ics.blogspot.nl/2016/01/adding-chemical-compound-to-wikidata.html),
+I previously blogged about how to [add chemicals to Wikidata <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2016/01/27/adding-chemical-compound-to-wikidata.html),
 but I realized that I wanted to also use Bioclipse to automate this process a bit. So, I wrote this script to generated the SMILES, InChI,
 InChIKey, double check the compound is not already in Wikidata (using the [Wikidata SPARQL endpoint](https://query.wikidata.org/)),
 an look up the [PubChem](https://pubchem.ncbi.nlm.nih.gov/) compound identifier (example SMILES).

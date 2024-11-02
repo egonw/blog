@@ -2,7 +2,7 @@
 layout: post
 title:  "Twitter exits FAIR and is no longer a dissemination solution"
 date:   2023-07-01
-modified_date: 2023-08-13
+modified_date: 2024-11-02
 blogger-link: https://chem-bla-ics.blogspot.com/2023/07/twitter-exits-fair-and-is-no-longer.html
 tags: twitter mastodon wikipathways
 ---
@@ -21,7 +21,7 @@ that anyone can see without having a Mastodon account. You can even follow WikiP
 
 Maybe Musk has been talking to Elsevier and Springer Nature.
 
-Tip: [Finding Mastodon accounts with Wikidata (a few SPARQL queries)](https://chem-bla-ics.blogspot.com/2022/11/finding-mastodon-accounts-with-wikidata.html)
+Tip: [Finding Mastodon accounts with Wikidata (a few SPARQL queries) <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2022/11/21/finding-mastodon-accounts-with-wikidata.html)
 
 **Update**: [Musk](https://tweakers.net/nieuws/211364/musk-blokkeren-van-niet-ingelogde-gebruikers-op-twitter-is-tijdelijke-maatregel.html) said this
 was a temporary measure. The problem was scraping of content, you know, the content we openly share on Twitter. Maybe they could have done this

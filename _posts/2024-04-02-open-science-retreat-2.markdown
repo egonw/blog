@@ -2,7 +2,7 @@
 layout: post
 title:  "Open Science Retreat #2: CiTO Nanopublications"
 date:   2024-04-02
-modified_date: 2024-04-06
+modified_date: 2024-11-02
 doi: 10.59350/n39kz-48173
 tags: osr24nl openscience cito nanopub justdoi:10.3233/ISU-2010-0613 doi:10.1109/ESCIENCE.2018.00024 doi:10.1186/S13321-023-00683-2 wikidata
 image: /assets/images/citoPub.png
@@ -25,7 +25,7 @@ currently 22 journal articles with explicit CiTO annoation, largely thanks to a 
 the preprint/report server [BioHackrXiv](https://biohackrxiv.org/discover) started
 [CiTO support](https://github.com/biohackrxiv/publication-template) too, also visible in the statistics
 on Scholia with another 17 papers. A third source is data sets from bibliometric-like studies, as explained
-in [this post](https://chem-bla-ics.blogspot.com/2023/04/cito-updates-4-annotations-in-datasets.html). Nanopublications
+in [this post <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2023/04/02/cito-updates-4-annotations-in-datasets.html). Nanopublications
 would be a fourth solution.
 
 So, why another solutions? Like the datasets, assuming DataCite approaches, have clear provenance, but the overhead

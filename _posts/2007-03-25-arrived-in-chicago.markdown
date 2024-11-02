@@ -11,7 +11,7 @@ I arrived in Chicago yesterday afternoon. Much warmed than the cold Chicago the 
 so my winter coat was really not necessary. Is this global warming? Or was the ACS simply wrong?
 Anyway, very foggy indeed, just like the [Chemistry World blog wrote](http://wiki.cubic.uni-koeln.de/cb/blog_search.php?timeframe=10y&blog_id=44):
 
-![](/blog/assets/images/dsci0027.jpg)
+![](/assets/images/dsci0027.jpg)
 
 There were several other Dutch chemists on the plane, among which a few formed postdocs from Nijmegen,
 who I knew from the time I was still a M.Sc. student in organic chemistry. The plane was nice too, a

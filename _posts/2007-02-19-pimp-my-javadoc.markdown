@@ -4,7 +4,7 @@ title:  "Pimp my JavaDoc"
 date:   2007-02-19
 blogger-link: https://chem-bla-ics.blogspot.com/2007/02/pimp-my-javadoc.html
 tags: cdk javadoc literature
-image: /blog/assets/images/pimpedJavaDoc.png
+image: /assets/images/pimpedJavaDoc.png
 ---
 
 [Jörg](http://miningdrugs.blogspot.com/)'s PhD book *Data Mining und Graph Mining auf molekularen Graphen - Chemoinformatik und
@@ -21,4 +21,4 @@ mechanism we were using.
 This weekend I hacked up a nice CDKCiteDoclet that would read the BibTeXML file with [XOM](http://www.xom.nu/),
 and convert items to HTML to put into the pimped JavaDoc:
 
-![](/blog/assets/images/pimpedJavaDoc.png)
+![](/assets/images/pimpedJavaDoc.png)

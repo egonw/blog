@@ -3,7 +3,7 @@ layout: post
 title:  "Chicago (Bulls), here I come!"
 date:   2007-03-22
 blogger-link: https://chem-bla-ics.blogspot.com/2007/03/chicago-bulls-here-i-come.html
-tags: acs chemistry blueobelisk
+tags: acs chemistry blue-obelisk
 ---
 
 I had some fun today with making prints of reservations etcetera for my trip to the

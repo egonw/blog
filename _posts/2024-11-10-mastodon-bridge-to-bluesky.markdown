@@ -15,7 +15,8 @@ platform. I prefer [Mastodon](https://chem-bla-ics.linkedchemistry.info/tag/mast
 This is important to me. I have a LinkedIn account too, but you can only follow me there if you have an account there too. To me,
 that does not align with the Open Science ideals.
 
-But while you can follow me Mastodon accounts with RSS (or just by checking the two webpages), this is a read-only access. That is,
+But while you can follow me Mastodon accounts [with](https://social.edu.nl/@egonw.rss) [RSS](https://mastodon.social/@egonw.rss)
+(or just by checking the [two](https://social.edu.nl/@egonw) [webpages](https://mastodon.social/@egonw), this is a read-only access. That is,
 you cannot reply. For that, you still need an Mastodon (or Fediverse) account too.
 
 But then there is [Bridgy Fed](https://fed.brid.gy/docs). It *"is a decentralized social network bridge. It connects the fediverse,
@@ -25,6 +26,6 @@ to follow and reply to BlueSky users (if they have enabled the bridge), and Blue
 So, if you have BlueSky and want to follow one or both of my Mastodon accounts, check out:
 
 * [@egonw.social.edu.nl.ap.brid.gy](https://bsky.app/profile/egonw.social.edu.nl.ap.brid.gy) (focused on my research)
-* [egonw.mastodon.social.ap.brid.gy](https://bsky.app/profile/egonw.mastodon.social.ap.brid.gy) (more general open science)
+* [@egonw.mastodon.social.ap.brid.gy](https://bsky.app/profile/egonw.mastodon.social.ap.brid.gy) (more general open science)
 
 But only if they enabled the bridge too, I can follow them back.

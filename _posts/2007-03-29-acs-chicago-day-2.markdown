@@ -4,13 +4,13 @@ title:  "ACS Chicago - Day #2"
 date:   2007-03-29 00:10:00
 blogger-link: https://chem-bla-ics.blogspot.com/2007/03/acs-chicago-day-2.html
 tags: acs
-image: /blog/assets/images/dsci0028.jpg
+image: /assets/images/dsci0028.jpg
 ---
 
 The wetter was much better today. This is a view on downtown from the walking bridge between Lake Side and McCormick
 buildings of the conference site:
 
-![](/blog/assets/images/dsci0028.jpg)
+![](/assets/images/dsci0028.jpg)
 
 ## CINF morning
 
@@ -33,7 +33,7 @@ And somewhere that day, [Jean-Claude](http://usefulchem.blogspot.com/) pointed m
 [the blog/wiki session by CHED yesterday](http://chem-bla-ics.blogspot.com/2007/03/acs-chicago-day-1.html)!
 Around 17:00 we left for one of the receptions in the W hotel in one of the WOW rooms, though the view was not that spectacular:
 
-![](/blog/assets/images/dsci0037.jpg)
+![](/assets/images/dsci0037.jpg)
 
 ## Bulls
 
@@ -42,4 +42,4 @@ If I knew my first breakfast was going to cost 22 dollar, I would have bought a 
 *Stand 1* ticket which is so high up in the stadium that even the security people had not idea where to send
 me :) The view was still more than good enough to feel the pain/joy of the blocks and dunks-in-your-face:
 
-![](/blog/assets/images/dsci0042.jpg)
+![](/assets/images/dsci0042.jpg)

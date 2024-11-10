@@ -4,14 +4,14 @@ title:  "Clustering web search results"
 date:   2007-04-21
 blogger-link: https://chem-bla-ics.blogspot.com/2007/04/clustering-web-search-results.html
 tags: google cheminfo
-image: /blog/assets/images/clusty1.png
+image: /assets/images/clusty1.png
 ---
 
 The Dutch [Intermediair](http://www.intermediair.nl/) magazine of this week had a letter sent by a reader introducing
 [Clusty](http://clusty.com/), a web search engine that clusters the results. It does a pretty good job for
 '[egon willighagen](http://clusty.com/search?input-form=clusty-simple&v%3Asources=webplus&query=egon+willighagen)':
 
-![](/blog/assets/images/clusty1.png)
+![](/assets/images/clusty1.png)
 
 It seems to use other engine to do the searching and focus on the clustering. Source engine exclude Google, and include
 [Gigablast](http://gigablast.com/), [MSN](http://www.msn.com/) and [Wikipedia](http://wikipedia.org/).

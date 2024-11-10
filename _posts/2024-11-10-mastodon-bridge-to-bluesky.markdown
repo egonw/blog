@@ -3,8 +3,10 @@ layout: post
 title:  "Mastodon, RSS, BlueSky"
 date:   2024-11-10
 tags: mastodon
+image: /assets/images/bluesky.png
 ---
 
+<img style="float: right;" src="/assets/images/bluesky.png" width="200" />
 The x-odus continues and there is a wave of researchers moving from X to another walled-garden called [Bluesky](https://en.wikipedia.org/wiki/Bluesky).
 This is good and bad. First, it is good that people are leaving X (imho) and it is good that they move to a platform that supports
 open standards, the [AT Protocol](https://en.wikipedia.org/wiki/AT_Protocol). But I am less sure, about moving to another closed source

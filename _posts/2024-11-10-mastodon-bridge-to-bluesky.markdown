@@ -4,6 +4,7 @@ title:  "Mastodon, RSS, BlueSky"
 date:   2024-11-10
 tags: mastodon
 image: /assets/images/bluesky.png
+doi: 10.59350/yxxp4-r5j24
 ---
 
 <img style="float: right;" src="/assets/images/bluesky.png" width="200" />

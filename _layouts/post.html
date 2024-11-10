@@ -71,9 +71,9 @@ layout: base
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
 
-    {{ if page.blogger-link }}
+    {% if page.blogger-link %}
     <p class="post-meta"><i>This post was originally posted as {{ page.blogger-link }}.</i></p>
-    {{ endif }}
+    {% endif %}
   </div>
 
 {% if page.tags.size > 0 %}

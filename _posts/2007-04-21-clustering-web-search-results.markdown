@@ -3,7 +3,7 @@ layout: post
 title:  "Clustering web search results"
 date:   2007-04-21
 blogger-link: https://chem-bla-ics.blogspot.com/2007/04/clustering-web-search-results.html
-tags: google cheminfo
+tags: google cheminf
 image: /assets/images/clusty1.png
 ---
 

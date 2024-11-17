@@ -2,6 +2,7 @@
 layout: post
 title:  "SPARQL examples: SIB model, software, and patches"
 date:   2024-11-17 00:00
+doi: 10.59350/djm89-5nb39
 tags: sparql doi:10.32388/ZNWI7T justdoi:10.48550/arXiv.2410.06010 wikipathways vhp4safety chembl scholia
 image: /assets/images/sparql-examples-tgx.png
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "SPARQL examples: SIB model, software, and patches"
 date:   2024-11-17 00:00
-tags: sparql doi:10.32388/ZNWI7T justdoi:10.48550/arXiv.2410.06010 wikipathways vhp4safety chembl
+tags: sparql doi:10.32388/ZNWI7T justdoi:10.48550/arXiv.2410.06010 wikipathways vhp4safety chembl scholia
 image: /assets/images/sparql-examples-tgx.png
 ---
 
@@ -16,7 +16,7 @@ this may work well, and that it may support our [VHP4Safety](https://vhp4safety.
 
 But in addition to the data model for SPARQL as research output (see doi:[10.32388/ZNWI7T.2](https://doi.org/10.32388/ZNWI7T.2)),
 the paper also introduces the [sparql-example-utils](https://github.com/sib-swiss/sparql-examples-utils) software that I was
-first introduced with at the recent October Scholia hackathon.
+first introduced with at [the recent October Scholia hackathon](https://www.wikidata.org/wiki/Wikidata:Scholia/Events/Hackathon_October_2024).
 
 But I have/had some features I like to see added. The first is provenance. Who is the author/contributor of the SPARQL
 query? Is there a open license for it, or perhaps public domain? How do I give attribution if I reuse the SPARQL query?

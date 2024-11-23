@@ -2,6 +2,7 @@
 layout: post
 title: "Version of record, and what Open Access must learn from Open Science"
 date: 2024-11-23
+modified_data: 2024-11-23
 tags: publishing openaccess openscience justdoi:10.1371/JOURNAL.PCBI.1007513
 ---
 
@@ -32,7 +33,7 @@ But as an openscientist, I have the urge to keep research output relevant. We do
 do this for community standards, and we do this for research code. Routinely. Again, for decades.
 Must open access not learn from open science here?
 
-I asked that recently on Mastodon (I need to find the thread again and will add that later).
+I [asked that recently on Mastodon](https://mastodon.social/@egonw/113252951241453752).
 Specifically, should the *Ten simple rules for getting started on Twitter as a scientist* article
 (doi:[10.1371/journal.pcbi.1007513](https://doi.org/10.1371/journal.pcbi.1007513)) not be updated?
 Looking at the number of scientific papers that discuss social media in scientific

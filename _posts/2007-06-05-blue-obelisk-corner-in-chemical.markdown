@@ -2,8 +2,9 @@
 layout: post
 title:  "A Blue Obelisk corner in Chemical Blogspace"
 date:   2007-06-05
+modified_date: 2007-06-06
 blogger-link: https://chem-bla-ics.blogspot.com/2007/06/blue-obelisk-corner-in-chemical.html
-tags:
+tags: cb blue-obelisk
 image: /blog/assets/images/cbbo.png
 ---
 
@@ -18,3 +19,7 @@ For now, you will have to do with [this page](http://wiki.cubic.uni-koeln.de/cb/
 ![](/blog/assets/images/cbbo.png)
 
 An additional flaw is that it also shows molecules for other blogs.
+
+***Update***: the RSS feed for a specific category was already available, but just not from the FireFox URL bar. Instead, it is
+given on the right side of the posts page when you selected a category. Here a shortcut for the RSS for
+[posts from the Blue Obelisk category](http://wiki.cubic.uni-koeln.de/cb/atom.php?category=Blue%20Obelisk&type=latest_posts).

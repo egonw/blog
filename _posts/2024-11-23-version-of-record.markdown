@@ -2,8 +2,9 @@
 layout: post
 title: "Version of record, and what Open Access must learn from Open Science"
 date: 2024-11-23
-modified_data: 2024-11-23
+modified_data: 2024-11-23 09:51
 tags: publishing openaccess openscience justdoi:10.1371/JOURNAL.PCBI.1007513
+doi: 10.59350/9mb5c-y3a10
 ---
 
 Before we go into the learning bit, let's just revisit what a *version of record* is. Wikipedia

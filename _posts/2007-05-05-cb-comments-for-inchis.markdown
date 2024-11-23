@@ -4,7 +4,7 @@ title:  "Cb comments for InChI's"
 date:   2007-05-05
 blogger-link: https://chem-bla-ics.blogspot.com/2007/05/cb-comments-for-inchis.html
 tags: cb inchi userscript rdf
-image: /blog/assets/images/cb_inchi_greasemonkey1.png
+image: /assets/images/cb_inchi_greasemonkey1.png
 ---
 
 About a year ago [Pedro wrote a Greasemonkey script](http://pbeltrao.blogspot.com/2006/05/postgenomics-script-for-firefox-i-am.html)
@@ -20,7 +20,7 @@ Euan, why not invite me to London HQ in, say, June?).
 So, when we can show comments from blogosphere for journal articles, why can't we do that for molecules too? Sure we can.
 Just needs some hacking. Right, and done that today. The scripts works for [PubChem](http://pubchem.ncbi.nlm.nih.gov/):
 
-![](/blog/assets/images/cb_inchi_greasemonkey1.png)
+![](/assets/images/cb_inchi_greasemonkey1.png)
 
 Works for any `<a href>` element with an URL to PubChem like *http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pccompound&term=%22InChI=1/CH4/h1H4%22[InChI]*.
 BTW, while the URL is not very readable, this might actually be a good way to [hide InChIs](http://chem-bla-ics.blogspot.com/2007/02/invisible-inchis.html),
@@ -28,7 +28,7 @@ though I am sure Google will not index this InChI either.
 
 And it also works for [semantically marked up InChI's (using either microformats or RDFa)](http://chem-bla-ics.blogspot.com/2006/12/including-smiles-cml-and-inchi-in.html):
 
-![](/blog/assets/images/cb_inchi_greasemonkey.png)
+![](/assets/images/cb_inchi_greasemonkey.png)
 
 You'll notice here that it is friendly with my
 [Sechemtic script to make links to Google and PubChem](http://chem-bla-ics.blogspot.com/2006/12/smiles-cas-and-inchi-in-blogs.html).

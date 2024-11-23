@@ -5,7 +5,7 @@ date:   2007-06-05
 modified_date: 2007-06-06
 blogger-link: https://chem-bla-ics.blogspot.com/2007/06/blue-obelisk-corner-in-chemical.html
 tags: cb blue-obelisk
-image: /blog/assets/images/cbbo.png
+image: /assets/images/cbbo.png
 ---
 
 I just finished setting up a [Blue Obelisk](http://www.blueobelisk.org/) section for [Chemical blogspace](http://wiki.cubic.uni-koeln.de/cb/),
@@ -16,7 +16,7 @@ listed as BO member with your blog too; the BO community is very open!).
 
 For now, you will have to do with [this page](http://wiki.cubic.uni-koeln.de/cb/index.php?category=Blue%20Obelisk):
 
-![](/blog/assets/images/cbbo.png)
+![](/assets/images/cbbo.png)
 
 An additional flaw is that it also shows molecules for other blogs.
 

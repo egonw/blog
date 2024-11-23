@@ -2,7 +2,7 @@
 layout: post
 title: "Version of record, and what Open Access must learn from Open Science"
 date: 2024-11-23
-modified_data: 2024-11-23 09:51
+modified_data: 2024-11-23 09:54
 tags: publishing openaccess openscience justdoi:10.1371/JOURNAL.PCBI.1007513
 doi: 10.59350/9mb5c-y3a10
 ---
@@ -10,7 +10,7 @@ doi: 10.59350/9mb5c-y3a10
 Before we go into the learning bit, let's just revisit what a *version of record* is. Wikipedia
 [describes it](https://en.wikipedia.org/wiki/Version_of_record) as
 "the fully copyedited, typeset and formatted copy of a manuscript as published" (with two references).
-Basically, in the whole scheme of research output, it is a *release*. Is is a tagged version of the
+Basically, in the whole scheme of research output, it is a *release*. It is a tagged version of the
 output, allowing people to discuss that version specifically, so that we do not run into endless "oh, but
 I meant version `manuscript_rewrite_V2_AE_MB_Fixed.docx`". Really, publishing is not unique at all and
 publishers are doing it wrong.

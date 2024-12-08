@@ -44,7 +44,9 @@ Here is the JChemPaint generator PNG image for [benzophenone](http://en.wikipedi
 
 ![](/assets/images/amdlTest.png)
 
-Another issue, unrelated to this patch, is that writing PNG images changes the location of the structure in the JChemPaint editor, and that the placing of the element symbol in image writing is seriously broken. But that will soon be solved with Niels' new renderer.
+Another issue, unrelated to this patch, is that writing PNG images changes the location of the structure in the JChemPaint editor,
+and that the placing of the element symbol in image writing is seriously broken. But that will soon be solved with
+[Niels' new renderer](https://progz-jchem.blogspot.com/).
 
 The metadata looks like:
 

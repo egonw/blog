@@ -2,6 +2,7 @@
 layout: post
 title:  "Richard L. Apodaca"
 date:   2024-12-08
+doi: 10.59350/myaw4-dtg76
 tags: openscience cheminf justdoi:10.26434/chemrxiv-2022-01ltp
 image: /assets/images/depth_first.png
 ---

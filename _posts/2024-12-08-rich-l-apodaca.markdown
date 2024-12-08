@@ -2,6 +2,7 @@
 layout: post
 title:  "Richard L. Apodaca"
 date:   2024-12-08
+modified_date: 2024-12-08
 doi: 10.59350/myaw4-dtg76
 tags: openscience cheminf justdoi:10.26434/chemrxiv-2022-01ltp
 image: /assets/images/depth_first.png
@@ -15,7 +16,7 @@ Rich [started blogging in 2006](https://depth-first.com/articles/2006/08/12/chan
 how I discovered his work originally. I know that we at least already had contact in 2005,
 because that is when he wrote about an integration between his Octet library and the Chemistry Development Kit
 in the [CDK News](https://sourceforge.net/projects/cdk/files/CDK%20News/) (volume 2, issue 2),
-*CDKTools: The CDK-Octet Bridge*. In 2006 [reviewed our use of the Open Journal System for CDK News](https://depth-first.com/articles/2006/10/19/disruptive-innovation-in-scientific-publishing-free-journal-management-systems/).
+*CDKTools: The CDK-Octet Bridge*. In 2006 he [reviewed our use of the Open Journal System for CDK News](https://depth-first.com/articles/2006/10/19/disruptive-innovation-in-scientific-publishing-free-journal-management-systems/).
 
 But I did find we have been blogging about our work a lot. [Searching for Rich](https://www.google.com/search?q=site%3Achem-bla-ics.blogspot.com+rich)
 gives false positives, but plenty of discussions of his work. At the same time, [my name shows up multiple times](https://www.google.com/search?q=site:depth-first.com+egon)

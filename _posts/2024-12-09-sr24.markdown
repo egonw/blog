@@ -1,0 +1,59 @@
+---
+layout: post
+title:  "Serious Request: \"WikiPathways in actie voor MetaKids\""
+date:   2024-12-09
+tags: wikipathways sr24 doi:10.1038/S41597-020-0477-8 justdoi:10.26481/DIS.20240624DS doi:10.1007/978-3-030-67727-5_73
+image: /assets/images/sr24.png
+---
+
+<a href="https://sr24.wikipathways.org/"><img src="/assets/images/sr24.png" style="width: 40%; display: block; margin-left: auto; margin-right: auto; float: right"
+     alt="Screenshot of the 'WikiPathways in actie voor MetaKids' action page." /></a>
+Every day a child is born with an [inherited metabolic disorder](https://imd.wikipathways.org/), and many do not grow old.
+[MetaKids](https://metakids.nl/) is a Dutch foundation that collects money and raises awareness and the charity selected
+this year for the [NPO](https://npo.nl/) (Dutch national radio/tv) [3FM](https://en.wikipedia.org/wiki/NPO_3FM)
+[Serious Request](https://www.npo3fm.nl/kominactie). This has become [a Dutch tradition](https://en.wikipedia.org/wiki/Serious_Request).
+Serious Request will play music on the radio, when people contributed to the fundraiser, and the more money, the
+more often the music gets played.
+
+But besides this, Serious Request also encourages people to jump into action. And we have jumped into action.
+
+## What we will do
+
+In the week when the [DJ](https://en.wikipedia.org/wiki/Disc_jockey)s are locked up in their
+[glass house](https://en.wikipedia.org/wiki/Serious_Request#/media/File:Serious_Request_2008_-_20.jpg) in
+[Zwolle](https://en.wikipedia.org/wiki/Zwolle) just before christmas, [Dr Laura Steinbusch](https://scholia.toolforge.org/author/Q56868311),
+[Martina Kutmon](https://scholia.toolforge.org/author/Q27987764), [Daan van Beek](https://www.maastrichtuniversity.nl/d-van-beek),
+and I will work on making our open science [WikiPathways](https://wikipathways.org/) knowledgebase even better to support
+research into these disorders. Like we did for COVID-9/SARS-CoV-2 before (see doi:[10.1038/s41597-020-0477-8](https://doi.org/10.1038/s41597-020-0477-8)).
+Guided by experts, we will update existing maps (leveraging on the awesome work
+[by Denise Slenter in her PhD](https://doi.org/10.26481/dis.20240624ds)) with recent literature, supported by
+[computer-assisted data curation](https://www.wikipathways.org/sr24-curation/), and draw new maps where there
+are knowledge gaps.
+
+Read our full statements here: [https://www.npo3fm.nl/kominactie/acties/wikipathways-in-actie-voor-metakids](https://www.npo3fm.nl/kominactie/acties/wikipathways-in-actie-voor-metakids)
+
+Part of this will be a workshop day on Thursday 19th of December in Maastricht. Details about that will follow.
+
+In this way, we collect not only money to donate, but we also donate research.
+
+## How to donate
+
+Well, obviously, it is a fund-raiser. So, please [donate here](https://www.npo3fm.nl/kominactie/acties/wikipathways-in-actie-voor-metakids).
+We have at least one donation with PayPal (not a fan) from outside The Netherlands.
+
+We are currently at 405 euro of our 2500 euro goal. Please [help us a bit closer to that goal](https://www.npo3fm.nl/kominactie/acties/wikipathways-in-actie-voor-metakids).
+
+## How can you help
+
+You can help us enormously by spreading the news of the "kom in actie" in your social network, and raise awareness
+for the cause of MetaKids. For example, by sharing our action:
+
+* the action page: [https://www.npo3fm.nl/kominactie/acties/wikipathways-in-actie-voor-metakids](https://www.npo3fm.nl/kominactie/acties/wikipathways-in-actie-voor-metakids)
+* the "we are working on" and results page: [https://www.wikipathways.org/communities/sr24.html](https://www.wikipathways.org/communities/sr24.html)
+
+Second, in good open science practice, we welcome you to join our "kom in actie", and several other have
+alread indicated wanting to do so. There is plenty of work that can be done, and we are documenting
+[our activity on a project board](https://github.com/orgs/wikipathways/projects/2/views/1). Any work that will make
+the FAIR and open knowledge better or show the power will help. To get some ideas of how the knowledge can be used
+is written up in [this open access chapter](https://link.springer.com/chapter/10.1007/978-3-030-67727-5_73) by
+Denise, Tina, and me.

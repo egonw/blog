@@ -2,6 +2,7 @@
 layout: post
 title:  "Serious Request: \"WikiPathways in actie voor MetaKids\""
 date:   2024-12-09
+doi: 10.59350/b76wv-bbn97
 tags: wikipathways sr24 doi:10.1038/S41597-020-0477-8 justdoi:10.26481/DIS.20240624DS doi:10.1007/978-3-030-67727-5_73
 image: /assets/images/sr24.png
 ---

@@ -36,6 +36,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll/mastodon_webfinger
   - jekyll-paginate
+  - jekyll-json-feed
 
 feed:
   tags: true

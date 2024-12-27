@@ -2,6 +2,7 @@
 layout: post
 title:  "BridgeDb NWO grant update #2: building up momentum"
 date:   2022-04-17
+modified_date: 2024-12-27
 blogger-link: https://chem-bla-ics.blogspot.com/2022/04/bridgedb-nwo-grant-update-2-building-up.html
 tags: bridgedb openscience isaac doi:10.3897/rio.8.e83031 doi:10.5281/zenodo.6367091 justdoi:10.7717/peerj-cs.214
 image: /assets/images/bridgedb_nwo_isaac.png
@@ -9,7 +10,7 @@ image: /assets/images/bridgedb_nwo_isaac.png
 
 <a href="/assets/images/bridgedb_nwo_uml.png"><img src="/assets/images/bridgedb_nwo_uml.png" style="width: 40%; display: block; margin-left: auto; margin-right: auto; float: right"
      alt="UML diagram showing the steps in a BridgeDb webservice call." /></a>
-Last month I [reported](https://chem-bla-ics.blogspot.com/2022/03/bridgedb-nwo-grant-update-1-first-steps.html) on the start of the
+Last month I [reported <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2022/03/05/bridgedb-nwo-grant-update-1-first-steps.html) on the start of the
 [NWO Open Science grant](https://www.nwo.nl/en/researchprogrammes/open-science/open-science-fund) and it is time for an update. First,
 our grant now has a grant number, [203.001.121](https://www.nwo.nl/en/projects/203001121). For a project that is about identifiers,
 having a project identifier is a big deal.

@@ -2,13 +2,14 @@
 layout: post
 title:  "CDK Literature #2"
 date:   2007-07-14
+modified_date: 2024-12-27
 blogger-link: https://chem-bla-ics.blogspot.com/2007/07/cdk-literature-2.html
 tags: cdk doi:10.1186/1471-2105-8-59 justdoi:10.1021/ac070741j justdoi:10.1186/1471-2105-8-105
   justdoi:10.1002/qsar.200630101 justdoi:10.1021/ci600305h
 ---
 
 Second in a series of articles summarizing articles that cite one of the main CDK articles for
-[CDK News](http://www.cdknews.org/). The [first CDK Literature](http://chem-bla-ics.blogspot.com/2007/01/cdk-literature-1.html)
+[CDK News](http://www.cdknews.org/). The [first CDK Literature <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/01/14/cdk-literature-1.html)
 was already half a year ago, so it was about time.
 
 ## Bioclipse

@@ -2,6 +2,7 @@
 layout: post
 title:  "Including SMILES, CML and InChI in blogs"
 date:   2006-12-10
+modified_date: 2024-12-29
 blogger-link: https://chem-bla-ics.blogspot.com/2006/12/including-smiles-cml-and-inchi-in.html
 tags: cml inchi blog cb doi:10.1021/CI034244P microformat rdf html
 ---
@@ -17,9 +18,9 @@ It is up to us chemoinformaticians to write good documentation on how to do thin
 
 ## Including CML in blogs and other RSS feeds
 
-I blogged about including [CML in blogs](http://chem-bla-ics.blogspot.com/2006/02/blogging-chemistry-on-blogspotcom.html)
+I blogged about including [CML in blogs <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/02/18/blogging-chemistry-on-blogspotcom.html)
 last February, and can generally refer to this article published last year: *Chemical markup, XML, and the World Wide Web. 5.
-Applications of chemical metadata in RSS aggregators* (PMID:[15032525](https://chem-bla-ics.blogspot.com/2006/12/including-smiles-cml-and-inchi-in.html),
+Applications of chemical metadata in RSS aggregators* (PMID:[15032525](https://pubmed.ncbi.nlm.nih.gov/15032525),
 DOI:[10.1021/ci034244p](https://doi.org/10.1021/ci034244p)). Basically, it just comes down to putting the CML code into
 the HTML version of your blog content, though I appreciate the need for plugins.
 
@@ -31,9 +32,9 @@ did the same on ChemBark about CAS numbers.
 
 Now, users of [PostGenomic.com](http://postgenomic.com/) know how to [add markup to their blogs](http://postgenomic.com/wiki/doku.php?id=markup)
 to get PostGenomic index discussed literature, website and conferences. Something similar is easily done for chemistry
-things too, as I showed in [Hacking InChI support into postgenomic.com](http://chem-bla-ics.blogspot.com/2006/02/hacking-inchi-support-into.html)
+things too, as I showed in [Hacking InChI support into postgenomic.com <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/02/25/hacking-inchi-support-into.html)
 (which was put on lower priority because of finishing my PhD). PostGenomic.com basically uses microformats, which I
-blogged about just a few days ago in [Chemo::Blogs #2](http://chem-bla-ics.blogspot.com/2006/12/chemoblogs-2.html),
+blogged about just a few days ago in [Chemo::Blogs #2 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/12/06/chemoblogs-2.html),
 where I suggested the use of `<span class="chemicalcompound">asperin</span>`.
 
 And this is the way SMILES, CAS and InChI's can be tagged on blogs. The `<span>` element is HTML code to indicate

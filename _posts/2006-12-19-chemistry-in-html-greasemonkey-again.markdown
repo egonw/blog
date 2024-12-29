@@ -2,18 +2,19 @@
 layout: post
 title:  "Chemistry in HTML: Greasemonkey again"
 date:   2006-12-19
+modified_date: 2024-12-29
 blogger-link: https://chem-bla-ics.blogspot.com/2006/12/chemistry-in-html-greasemonkey-again.html
 tags: userscript html rdf doi:10.1021/CI034244P
 ---
 
-Here's a quick update on my blog about [SMILES, CAS and InChI in blogs: Greasemonkey](http://chem-bla-ics.blogspot.com/2006/12/smiles-cas-and-inchi-in-blogs.html)
+Here's a quick update on my blog about [SMILES, CAS and InChI in blogs: Greasemonkey <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/12/17/smiles-cas-and-inchi-in-blogs.html)
 last sunday. The original download was messed up :( You can download a new version at [userscripts.org](http://userscripts.org/scripts/show/6807).
 
 This new version also supports `chem:compound`, for any chemical. For example:
 
 * <span class="chem:compound">isopropyl alcohol</span>
 
-Remember that it only works for properly marked up content, as described in [Including SMILES, CML and InChI in blogs](http://chem-bla-ics.blogspot.com/2006/12/including-smiles-cml-and-inchi-in.html).
+Remember that it only works for properly marked up content, as described in [Including SMILES, CML and InChI in blogs <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/12/10/including-smiles-cml-and-inchi-in.html).
 The HTML source code of the above example looks like (in RDFa):
 
 ```html
@@ -46,7 +47,7 @@ Jmol or a message "Could not find 3D coordinates".
 This is likely the most exiting possibility. I blogged about CMLRSS [many times](http://search.blogger.com/?as_q=CMLRSS&ie=UTF-8&ui=blg&bl_url=chem-bla-ics.blogspot.com&x=0&y=0)
 now (check the AVI, the [article](https://doi.org/10.1021/ci034244p), etc), and combining these two
 technologies will take the semantic, chemistry internet to the next level. CMLRSS describes how CML
-can be embedded in blog items (e.g. [Blogging chemistry on blogspot.com](http://chem-bla-ics.blogspot.com/2006/02/blogging-chemistry-on-blogspotcom.html)),
+can be embedded in blog items (e.g. [Blogging chemistry on blogspot.com <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/02/18/blogging-chemistry-on-blogspotcom.html)),
 but really works for any [XHTML](http://www.w3.org/TR/xhtml1/).
 
 Consider this mockup: add CML content to your blog item, containing molecular properties, such as its

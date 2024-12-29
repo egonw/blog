@@ -2,7 +2,7 @@
 layout: post
 title:  "KDE desktop search: Kat, Strigi and Tenor"
 date:   2006-06-17
-modified-data: 2024-08-09
+modified_date: 2024-12-29
 blogger-link: https://chem-bla-ics.blogspot.com/2006/06/kde-desktop-search-kat-strigi-and.html
 tags: kde strigi kalzium linux technorati
 doi: 10.59350/9n9m7-y4v29
@@ -33,7 +33,7 @@ kfile is on its way.
 Getting back to Tenor, one might wonder how Strigi could implement Tenor concepts. A simple approach is at least to allow users to tag files,
 just like we have become used to with blogs (e.g. [Technorati.com](http://www.technorati.com/)) and websites (e.g.
 [Connotea](http://www.connotea.org/)). This could be easily implemented using [extended attributes](http://wiki.linuxquestions.org/wiki/Extended_attributes)
-(xattr), [already used by Beagle](http://chem-bla-ics.blogspot.com/2006/05/molecular-indexing-on-kde-and-osx.html):
+(xattr), [already used by Beagle <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/05/26/molecular-indexing-on-kde-and-osx.html):
 
 ```
 # file: home/egonw/1CRN.jpg

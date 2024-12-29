@@ -2,12 +2,13 @@
 layout: post
 title:  "Calculating geometrical properties with the CDK"
 date:   2006-09-02
+modified_date: 2024-12-29
 blogger-link: https://chem-bla-ics.blogspot.com/2006/09/calculating-geometrical-properties.html
 tags: cdk
 ---
 
 [ケムインフォマティクスに虚空投げ](http://cheminformatics.seesaa.net/) runs [a story on how to calculate geometrical
-properties of a 3D structure](https://chem-bla-ics.blogspot.com/2006/09/calculating-geometrical-properties.html) using
+properties of a 3D structure <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/09/02/calculating-geometrical-properties.html) using
 CDK's [ForceFieldTools](http://cdk.sourceforge.net/api/org/openscience/cdk/modeling/forcefield/ForceFieldTools.html).
 This class contains a few methods to calculate distances between atoms and angles between bonds.
 

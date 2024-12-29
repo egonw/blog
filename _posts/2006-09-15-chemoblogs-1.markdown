@@ -2,6 +2,7 @@
 layout: post
 title:  "Chemo::Blogs #1"
 date:   2006-09-15
+modified_date: 2024-12-29
 blogger-link: https://chem-bla-ics.blogspot.com/2006/09/chemoblogs-1.html
 tags: justdoi:10.1093/NAR/GKL385 justdoi:10.1093/NAR/GKL320 taverna cdk justdoi:10.1093/BIB/BBL025
   justdoi:10.1021/CG060313R
@@ -19,8 +20,8 @@ of CML, MathML and SVG (or any other [namespace](http://en.wikipedia.org/wiki/XM
 [have data loss](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=28).
 
 [Nucleic Acids Research](http://nar.oxfordjournals.org/) recently had a special issue on webservers
-(DOI:[10.1093/nar/gkl385](http://dx.doi.org/10.1093/nar/gkl385)), in which [Taverna](https://chem-bla-ics.blogspot.com/2006/09/chemoblogs-1.html)
-was featured (DOI:[10.1093/nar/gkl320](http://dx.doi.org/10.1093/nar/gkl320)). Just want to mention once more that Taverna has
+(DOI:[10.1093/nar/gkl385](http://dx.doi.org/10.1093/nar/gkl385)), in which [Taverna <i class="fa-solid fa-recycle fa-xs"></i>](https://incubator.apache.org/projects/taverna.html)
+was featured (DOI:[10.1093/nar/gkl320](https://doi.org/10.1093/nar/gkl320)). Just want to mention once more that Taverna has
 a chemoinformatics module: [CDK-Taverna](http://sourceforge.net/project/showfiles.php?group_id=20024&package_id=166755).
 
 Day and Motherwell published the paper *An Experiment in Crystal Structure Prediction by Popular Vote*

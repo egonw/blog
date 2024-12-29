@@ -2,12 +2,13 @@
 layout: post
 title:  "SMILES, CAS and InChI in blogs: Greasemonkey"
 date:   2006-12-17
+modified_date: 2024-12-29
 blogger-link: https://chem-bla-ics.blogspot.com/2006/12/smiles-cas-and-inchi-in-blogs.html
 tags: chemistry userscript smiles pubchem inchi
 image: /assets/images/sechemticWebScript.png
 ---
 
-As follow up on my [Including SMILES, CML and InChI in blogs](http://chem-bla-ics.blogspot.com/2006/12/including-smiles-cml-and-inchi-in.html)
+As follow up on my [Including SMILES, CML and InChI in blogs <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/12/10/including-smiles-cml-and-inchi-in.html)
 blog last week, I had a go at [Greasemonkey](http://en.wikipedia.org/wiki/Greasemonkey). Some time ago already,
 [Flags and Lollipops](http://www.ghastlyfop.com/blog/2006/09/postgenomic-pubmed-mashup.html) and
 [Nodalpoint](http://www.nodalpoint.org/2006/05/16/postgenomic_greasemonkey_script) showed with two cool mashups (one Connotea/Postgenomic
@@ -15,7 +16,7 @@ and one Pubmed/Postgenomic) that userscripts are rather useful in science too. I
 as PubMed has several organic chemistry journals indexed too!
 
 So, how does this relate to my blog of last week? Well, would it not be nice that if your blog uses the markup as suggested in that
-[blog](http://chem-bla-ics.blogspot.com/2006/12/including-smiles-cml-and-inchi-in.html), that you automatically get links to
+[blog <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/12/10/including-smiles-cml-and-inchi-in.html), that you automatically get links to
 [PubChem](http://pubchem.ncbi.nlm.nih.gov/) and [Google](http://google.com/)? That is now possible with a small GPL-ed Greasemonkey script
 called [blogchemistry.user.js](http://www.woc.science.ru.nl/devel/egonw/blogchemistry.user.js).
 

@@ -2,6 +2,7 @@
 layout: post
 title:  "Strigi gets kfile plugin support"
 date:   2006-06-20
+modified_date: 2024-12-29
 blogger-link: https://chem-bla-ics.blogspot.com/2006/06/strigi-gets-kfile-plugin-support.html
 tags: strigi kde
 ---
@@ -20,5 +21,5 @@ KInstance instance( "strigita_kfile" );
 ```
 
 Combine this with the [xattr](http://wiki.linuxquestions.org/wiki/Extended_attributes) support added by Jos earlier today, I hope to
-see an interesting new Strigi release soon! Now we only need to get [editing of keywords](http://chem-bla-ics.blogspot.com/2006/06/kde-desktop-search-kat-strigi-and.html)
+see an interesting new Strigi release soon! Now we only need to get [editing of keywords <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/06/17/kde-desktop-search-kat-strigi-and.html)
 into KDE4.

@@ -2,6 +2,7 @@
 layout: post
 title:  "New open access journal Source Code for Biology and Medicine"
 date:   2006-05-11
+modified_date: 2024-12-29
 blogger-link: https://chem-bla-ics.blogspot.com/2006/05/new-open-access-journal-source-code.html
 tags: openscience bioinfo
 ---
@@ -28,7 +29,7 @@ ended, and everyone is free to do with it whatever he wants, and, very important
 software is not in the public domain. Do they mean that they will not allow open source in the new journal?
 
 I also wonder wether we need a journal like this? Open source projects often have other resources available that
-serve as repository (e.g. [SourceForge](https://chem-bla-ics.blogspot.com/2006/05/SourceForge.net)), and the use
+serve as repository (e.g. [SourceForge <i class="fa-solid fa-recycle fa-xs"></i>](https://sourceForge.net)), and the use
 version control systems as repositories (like [CVS](http://www.nongnu.org/cvs/), [Subversion](http://subversion.tigris.org/))
 is widespread too, which takes care of the historical reflection. Indeed, many open source software is already
 published in other journals.
@@ -39,6 +40,6 @@ the right audience, or just by fellow bioinformaticians?
 
 Though I have my doubts about the success of this journal, I am looking forward to the first issue!
 
-**Update**: [Pedro](http://www.nodalpoint.org/user/pedrobeltrao) [pointed](http://www.nodalpoint.org/2006/05/12/source_code_for_biology_and_medicine)
-me to the [About page](https://chem-bla-ics.blogspot.com/2006/05/new-open-access-journal-source-code.html) of
+**Update**: [Pedro](http://www.nodalpoint.org/user/pedrobeltrao) [pointed <i class="fa-solid fa-box-archive fa-xs"></i>](https://web.archive.org/web/20060615123103/http://www.nodalpoint.org/2006/05/12/source_code_for_biology_and_medicine)
+me to the [About page <i class="fa-solid fa-box-archive fa-xs"></i>](https://web.archive.org/web/20060620202859/http://www.scfbm.org/info/about/) of
 the SCFBM, giving details on the types of articles taken into consideration.

@@ -2,7 +2,7 @@
 layout: post
 title:  "Open Text Mining Interface and Bioclipse"
 date:   2006-05-07
-modified_date: 2024-06-14
+modified_date: 2024-12-29
 blogger-link: https://chem-bla-ics.blogspot.com/2006/05/open-text-mining-interface-and.html
 tags: cml bioclipse xml textmining rss doi:10.1021/CI034244P
 image: /assets/images/otmiSupport.png
@@ -31,7 +31,7 @@ namespaces is trivial, and this morning I hacked in support for OTMI:
 
 ![](/assets/images/otmiSupport.png)
 
-This screenshot show the [original OTMI example](https://chem-bla-ics.blogspot.com/2006/05/open-text-mining-interface-and.html)
+This screenshot show the original OTMI example
 with the Atom 1.0 entry now wrapped in an Atom 1.0 `<feed>` element. There is no nice OTMI icon for the OTMI content in the
 Atom 1.0 entry, neither did I make a 'view' yet showing the actual vector's or the snippet's, but that's a piece of cake too.
 

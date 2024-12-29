@@ -2,7 +2,7 @@
 layout: post
 title:  "Protein support in Bioclipse using Jmol and the CDK"
 date:   2006-04-23
-modified_date: 2024-06-01
+modified_date: 2024-12-29
 blogger-link: https://chem-bla-ics.blogspot.com/2006/04/protein-support-in-bioclipse-using.html
 tags: bioclipse jmol cdk
 image: /assets/images/cdkpdbsupport800.png
@@ -10,8 +10,8 @@ doi: 10.59350/23wn4-1nt07
 ---
 
 I have not blogged for about a week now, and been too busy with other things, like finishing my PhD articles/manuscript,
-[my new job at the CUBIC](http://chem-bla-ics.blogspot.com/2006/03/cologne-university-bioinformatics.html) where I
-[continued the work](http://chem-bla-ics.blogspot.com/2006/04/getting-jmols-cartoon-on-to-work-in.html) on proper protein support in
+[my new job at the CUBIC <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/03/25/cologne-university-bioinformatics.html) where I
+[continued the work <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/04/10/getting-jmols-cartoon-on-to-work-in.html) on proper protein support in
 [Bioclipse](http://www.bioclipse.net/) using the [CDK](http://cdk.sf.net/) and
 [Jmol](http://www.jmol.org/):
 

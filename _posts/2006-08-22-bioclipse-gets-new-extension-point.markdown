@@ -2,13 +2,14 @@
 layout: post
 title:  "Bioclipse gets a new extension point"
 date:   2006-08-22
+modified_date: 2024-12-29
 blogger-link: https://chem-bla-ics.blogspot.com/2006/08/bioclipse-gets-new-extension-point.html
 tags: bioclipse feeds cml
 ---
 
 I hacked in a new extension point for [Bioclipse](http://www.bioclipse.net/) yesterday, based on a [proposal](http://wiki.bioclipse.net/index.php?title=ChildCreator_extension_point)
 I made earlier. The new extension point (EP) is called `ChildResourceCreator` and allows creating child resources for a given IBioResource. One application where this is very useful is the
-[CMLRSS application](http://dx.doi.org/10.1021/ci034244p) ([earlier blog](http://chem-bla-ics.blogspot.com/2006/07/avi-movies-of-cmlrss-howto-in.html)), or any
+[CMLRSS application](http://dx.doi.org/10.1021/ci034244p) ([earlier blog <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/07/03/avi-movies-of-cmlrss-howto-in.html)), or any
 [RSS](http://en.wikipedia.org/wiki/RSS_(file_format)) or [Atom](http://www.atomenabled.org/) enriched with any other XML language. Here, child resources are
 created for each feed entry resource with as content the foreign XML, e.g. the CML bits in the blog.
 

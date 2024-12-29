@@ -2,13 +2,14 @@
 layout: post
 title:  "KDE4 keyword support mockups"
 date:   2006-06-25
+modified_date: 2024-12-29
 blogger-link: https://chem-bla-ics.blogspot.com/2006/06/kde4-keyword-support-mockups.html
 tags: kde strigi technorati
 image: /assets/images/kfileXAttrSupport2.png
 doi: 10.59350/62e2c-ycj21
 ---
 
-In reply to interesting comments to [my previous blog](http://chem-bla-ics.blogspot.com/2006/06/strigi-gets-kfile-plugin-support.html)
+In reply to interesting comments to [my previous blog <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/06/20/strigi-gets-kfile-plugin-support.html)
 on [Strigi](http://www.vandenoever.info/software/strigi/) and xAttr support in [KDE](http://www.kde.org/)4, I would like to suggest
 the following mockups, which I would find very useful. The deal with the ability to store keywords, for example, not but necessarily
 using xAttr. I have no idea on how to implement these mockups, so any help or pointers are appreciated.

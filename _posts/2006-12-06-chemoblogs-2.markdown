@@ -2,12 +2,13 @@
 layout: post
 title:  "Chemo::Blogs #2"
 date:   2006-12-06
+modified_date: 2024-12-29
 blogger-link: https://chem-bla-ics.blogspot.com/2006/12/chemoblogs-2.html
 tags: blog rdf textmining cb justdoi:10.1371/journal.pcbi.0020121 justdoi:10.1186/1751-0473-1-1
   justdoi:10.1371/journal.pcbi.0020087
 ---
 
-Because no one picked up my [Chemo::Blogs](http://chem-bla-ics.blogspot.com/2006/09/chemoblogs-1.html) suggestion, I will now
+Because no one picked up my [Chemo::Blogs <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/09/15/chemoblogs-1.html) suggestion, I will now
 officially claim the blog series title. However, unlike the original [Bio::Blogs](http://bioblogs.wordpress.com/) series,
 I will not summarize interesting blogs, but just spam you with websites I recently marked as
 [toblog on del.icio.us](http://del.icio.us/egonw/toblog).
@@ -15,7 +16,7 @@ I will not summarize interesting blogs, but just spam you with websites I recent
 ## Semantics and Text Mining
 
 [Evan Prodromou](http://evan.prodromou.name/) wrote about [RDFa vs microformats](http://evan.prodromou.name/RDFa_vs_microformats).
-The latter are commonly used in [enhancing blog semantics](http://chem-bla-ics.blogspot.com/2006/02/tagging-blog-items.html), and
+The latter are commonly used in [enhancing blog semantics <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/02/06/tagging-blog-items.html), and
 for example used by [PostGenomic.com](http://postgenomic.com/wiki/doku.php?id=markup). While RDFa is more explicit, e.g. by using
 namespaced markup, we have to wait until XHTML2 to see it working. I do not think chemists are using tags a log yet, but let me
 propose the following microformats: <span class="inchi">[1/CH4/h1H4](http://google.com/search?q=1/CH4/h1H4)</span> and
@@ -23,15 +24,15 @@ propose the following microformats: <span class="inchi">[1/CH4/h1H4](http://goog
 auto [googling-for-inchi](http://wwmm-svc.ch.cam.ac.uk/wwmm/html/googleinchiserver.html), etc).
 
 The reason why using microformats is interesting, is text mining, of various kinds. Whether it is setting up a molecule-article
-link database, or [find hot molecules in blogspace](http://chem-bla-ics.blogspot.com/2006/02/hacking-inchi-support-into.html),
-adding semantics will help tools like [OSCAR3 to mine chemistry](http://chem-bla-ics.blogspot.com/2006/09/chemical-archeology-oscar3-to.html).
-Some time ago [OTMI was proposed by Nature](http://chem-bla-ics.blogspot.com/2006/05/open-text-mining-interface-and.html),
+link database, or [find hot molecules in blogspace <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/02/25/hacking-inchi-support-into.html),
+adding semantics will help tools like [OSCAR3 to mine chemistry <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/09/08/chemical-archeology-oscar3-to.html).
+Some time ago [OTMI was proposed by Nature <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/05/07/open-text-mining-interface-and.html),
 and they now set up a [dedicated web site](http://www.opentextmining.org/wiki/Main_Page) to explain there view on text mining.
 [Zack Rosen](http://www.zacker.com/) has a good idea why [RDF Semantic web research isn't working](http://www.zacker.org/semantic-web-research-isnt-working).
 
 ## Blogspace
 
-There are a few new chemistry blogs I want to mention (and already added to [Chemical blogspace](http://chem-bla-ics.blogspot.com/2006/08/chemical-blogspace.html)):
+There are a few new chemistry blogs I want to mention (and already added to [Chemical blogspace <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/08/25/chemical-blogspace.html)):
 [ChemBark](http://blog.chembark.com/), [lirico](http://www.lirico.co.uk/wp/) which has an interesting
 [chemoinformatics section](http://www.lirico.co.uk/wp/?cat=8), and [The Curious Wavefunction](http://ashutoshchemist.blogspot.com/).
 Worth reading indeed.
@@ -58,7 +59,7 @@ The IRC session was logged and is [available here](http://virtualsymposium.predo
 Finally, I want to mention three recent articles. First one is a recent write up by Bourne and Friedberg about
 *Ten Simple Rules for Selecting a Postdoctoral Position* (DOI: [10.1371/journal.pcbi.0020121](https://doi.org/10.1371/journal.pcbi.0020121)).
 With the end of my current postdoc position nearing, rather useful reading. Some time ago I blogged about a
-[New open access journal Source Code for Biology and Medicine](http://chem-bla-ics.blogspot.com/2006/05/new-open-access-journal-source-code.html),
+[New open access journal Source Code for Biology and Medicine <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/05/11/new-open-access-journal-source-code.html),
 and the journal is now up and running. Details can be read in the first editorial (DOI: [10.1186/1751-0473-1-1](https://doi.org/10.1186/1751-0473-1-1)).
 The third article I would like to mention is *Scientific Software Development Is Not an Oxymoron* by Baxter
 (DOI: [10.1371/journal.pcbi.0020087](https://doi.org/10.1371/journal.pcbi.0020087)), though I do not think it has new insights.

@@ -2,11 +2,12 @@
 layout: post
 title:  "CDK Bug Squash Party - Day 2"
 date:   2006-09-20
+modified_date: 2024-12-29
 blogger-link: https://chem-bla-ics.blogspot.com/2006/09/cdk-bug-squash-party-day-2.html
 tags: cdk bsp conference
 ---
 
-Like [yesterday](http://chem-bla-ics.blogspot.com/2006/09/cdk-bug-squash-party-day-1.html) I will give short overview of things done at the
+Like [yesterday <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/09/18/cdk-bug-squash-party-day-1.html) I will give short overview of things done at the
 [Chemistry Development Kit](http://cdk.sf.net/) [Bug Squash Party](http://wiki.cubic.uni-koeln.de/cdkwiki/doku.php?id=bsp200609) (BSP).
 I think Stefan was the only to fix and close a bug report yesterday. Rajarshi added the
 [MDE descriptor](http://cheminfo.informatics.indiana.edu/~rguha/code/java/nightly/api/org/openscience/cdk/qsar/descriptors/molecular/MDEDescriptor.html)

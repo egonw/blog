@@ -2,6 +2,7 @@
 layout: post
 title:  "Blue Obelisk in Obernai at Chemoinformatics in Europe"
 date:   2006-05-28
+modified_date: 2024-12-29
 blogger-link: https://chem-bla-ics.blogspot.com/2006/05/blue-obelisk-in-obernai-at.html
 tags: cdk bioclipse cheminf bioinfo
 ---
@@ -13,7 +14,7 @@ Though I wonder what this theme excludes? Development? Can't imagine that commer
 represented as usual. Moreover, it will likely include some bioinformatics too, unless you consider that to
 deal with sequences only.
 
-I have my laptop with me, and, of course, the [Blue Obelisk Live CD 2](http://chem-bla-ics.blogspot.com/2006/05/live-life-sciences-cd.html)
+I have my laptop with me, and, of course, the [Blue Obelisk Live CD 2 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/05/22/live-life-sciences-cd.html)
 on which the mouse now actually works. [Bioclipse 0.9.1](http://bioclipse.blogspot.com/2006/05/bioclipse-091-released.html)
 does not work, though; will report that bug later.
 

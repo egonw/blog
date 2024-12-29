@@ -2,6 +2,7 @@
 layout: post
 title:  "ChemPedia-RDF #2: Kasabi"
 date:   2011-07-06
+modified_date: 2024-12-29
 blogger-link: https://chem-bla-ics.blogspot.com/2011/07/chempedia-rdf-2-kasabi.html
 tags: semweb kasabi chemistry
 image: /assets/images/kasabi.png
@@ -10,7 +11,7 @@ doi: 10.59350/f95v6-r1630
 
 <img style="float: right;" src="/assets/images/kasabi.png" width="200" />
 [Kasabi](http://beta.kasabi.com/) is a new, RDF hosting service by [Talis](http://www.talis.com/). It's still in beta, and I have been testing
-their beta service with the [RDF version](http://chem-bla-ics.blogspot.com/2009/11/chempedia-rdf-1-sparql-end-point.html) I created of
+their beta service with the [RDF version <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/11/19/chempedia-rdf-1-sparql-end-point.html) I created of
 [ChemPedia Substances](http://metamolecular.com/chempedia/) (the now no longer existing cool web service from
 [MetaMolecular](http://metamolecular.com/) to draw and name organic molecules).
 

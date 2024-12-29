@@ -2,7 +2,7 @@
 layout: post
 title:  "cdk2024 #1: NWO Open Science grant for the Chemistry Development Kit"
 date:   2024-04-07
-modified_date: 2024-11-02
+modified_date: 2024-12-29
 tags: grant cdk cdk2024 justdoi:10.1093/bioinformatics/btz037 justdoi:10.1021/ml100016x
 doi: 10.59350/ytkmr-0vv92
 image: /assets/images/smartcyp.png
@@ -14,7 +14,7 @@ this time for the [Chemistry Development Kit](https://cdk.github.io/) (CDK).
 "We" here is me and [Alyanne de Haan](https://orcid.org/0000-0003-0896-0906), René van der Ploeg, and
 [Marc Teunis](https://orcid.org/0000-0002-3496-6669) from Hogeschool Utrecht.
 The proposal has been submitted for public dissemination in [RIO Journal](https://riojournal.com/), like
-[we did](https://chem-bla-ics.blogspot.com/2022/04/bridgedb-nwo-grant-update-2-building-up.html?q=bridgedb)
+[we did <i class="fa-solid fa-recycle fa-xs"></i>](http://localhost:4000/2022/04/17/bridgedb-nwo-grant-update-2-building-up.html)
 with the first NWO Open Science grant.
 
 The project formally started on April 1 but we had our kick-off meeting in Maastricht on April 4-5.

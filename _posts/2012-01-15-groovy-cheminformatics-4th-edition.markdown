@@ -2,6 +2,7 @@
 layout: post
 title:  "Groovy Cheminformatics 4th edition"
 date:   2012-01-15
+modified_date: 2024-12-29
 blogger-link: https://chem-bla-ics.blogspot.com/2012/01/groovy-cheminformatics-4th-edition.html
 tags: cdk cdkbook java cheminf
 ---
@@ -11,7 +12,7 @@ to upload edition 1.4.7-0 of my [Groovy Cheminformatics](http://www.lulu.com/pro
 book. The first three editions sold 37 copies, including two for myself. Enough to feel supported and to continue working on it.
 
 So, this new edition is again thicker, summing up to 152 pages now, which is 28 pages more than
-[the 3rd edition](http://chem-bla-ics.blogspot.com/2011/07/groovy-cheminformatics-3rd-edition.html). Indeed, the table of contents
+[the 3rd edition <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2011/07/31/groovy-cheminformatics-3rd-edition.html). Indeed, the table of contents
 is more than half a page longer in itself, though, just barely, still fitting on four pages. In fact, I had to remove one (new)
 subsection title, because it would take otherwise two further pages.
 

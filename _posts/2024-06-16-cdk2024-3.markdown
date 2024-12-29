@@ -2,6 +2,7 @@
 layout: post
 title:  "cdk2024 #3: an unexpected downstream project"
 date:   2024-06-16
+modified_date: 2024-12-29
 tags: cdk grant cdk2024 doi:10.6084/M9.FIGSHARE.2057790.V1
 image: /assets/images/cdkDepictChapter.png
 doi: 10.59350/dtfq8-5x011
@@ -25,7 +26,7 @@ Date:   Fri Apr 10 12:34:42 2009 +0200
 ```
 
 The original version was in LaTeX and
-[sold online via Lulu.com](https://chem-bla-ics.blogspot.com/2011/02/groovy-cheminformatics.html).
+[sold online via Lulu.com <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2011/02/06/groovy-cheminformatics.html).
 Because all code examples were run (the first public edition had 72 pages with 75 code examples),
 like RMarkdown of Jupyter Notebooks by design, I was able to
 make [many releases](https://chem-bla-ics.blogspot.com/search?q=lulu).

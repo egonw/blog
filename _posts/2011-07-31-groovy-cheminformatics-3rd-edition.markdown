@@ -2,16 +2,16 @@
 layout: post
 title:  "Groovy Cheminformatics 3rd edition"
 date:   2011-07-31
-modified_date: 2012-01-15
+modified_date: 2024-12-29
 blogger-link: https://chem-bla-ics.blogspot.com/2011/07/groovy-cheminformatics-3rd-edition.html
 tags: cdk cdkbook java cheminf
 ---
 
-**Update**: the [fourth edition](https://chem-bla-ics.blogspot.com/2012/01/groovy-cheminformatics-4th-edition.html) is out.
+**Update**: the [fourth edition <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2012/01/15/groovy-cheminformatics-4th-edition.html) is out.
 
 I am starting to get the hang of this publishing soon, publishing often thing, and
 [just uploaded](http://www.lulu.com/product/paperback/groovy-cheminformatics-with-the-chemistry-development-kit/16378378)
-edition 1.4.1-0 of the [Groovy Cheminformatics](http://chem-bla-ics.blogspot.com/2011/02/groovy-cheminformatics.html) book.
+edition 1.4.1-0 of the [Groovy Cheminformatics <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2011/02/06/groovy-cheminformatics.html) book.
 The cover is the same (with one typo fix), and the content is 20 pages thicker. True, six of those pages are isotope
 masses of all natural isotopes. That leaves 14 pages with this new content:
 

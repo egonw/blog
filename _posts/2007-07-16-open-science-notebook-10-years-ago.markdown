@@ -3,7 +3,7 @@ layout: post
 title:  "The Open Science Notebook 10 years ago"
 date:   2007-07-16
 blogger-link: https://chem-bla-ics.blogspot.com/2007/07/open-science-notebook-10-years-ago.html
-tags: cdk openscience
+tags: cdk openscience justdoi:10.1038/npre.2007.39.1
 ---
 
 So, with [all](http://mndoci.com/blog/2007/07/14/does-the-open-research-world-need-a-single-access-point/)
@@ -35,7 +35,7 @@ that reproducibility of a procedure is **much** easier,
 
 Just wanted to say that OSN is really nothing new, not to chemistry anyway. Maybe for lab chemists.
 [Jean-Claude](http://drexel-coas-talks-mp3-podcast.blogspot.com/) has shown to be very successful in
-[promoting these open science ideas](http://dx.doi.org/10.1038/npre.2007.39.1) among lab chemists,
+[promoting these open science ideas](https://doi.org/10.1038/npre.2007.39.1) among lab chemists,
 and congratulate him with the exposure in all those magazine interviews lately. Cheers!
 
 ## Open Science versus Open Source

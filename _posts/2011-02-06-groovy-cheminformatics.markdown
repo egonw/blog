@@ -2,10 +2,13 @@
 layout: post
 title:  "Groovy Cheminformatics..."
 date:   2011-02-06
+modified_date: 2012-01-15
 blogger-link: https://chem-bla-ics.blogspot.com/2011/02/groovy-cheminformatics.html
 tags: cdk java cheminf cdkbook
 image: /assets/images/cdkBook.png
 ---
+
+**Update**: the [fourth edition](https://chem-bla-ics.blogspot.com/2012/01/groovy-cheminformatics-4th-edition.html) is out.
 
 Some project are never finished. Neither is this one, but it is never too late to change how things work, so, taking advantage of
 publishing-on-demand, here I introduce the release-soon, release-often equivalent of cheminformatics books, my

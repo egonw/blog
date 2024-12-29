@@ -2,15 +2,17 @@
 layout: post
 title:  "Screencasts for life science informatics"
 date:   2007-07-20
+modified_date: 2024-12-29
 blogger-link: https://chem-bla-ics.blogspot.com/2007/07/screencasts-for-life-science.html
 tags: bioinfo
 ---
 
 [Deepak](http://mndoci.com/blog/) blogged about [screencasting for bio topics](http://mndoci.com/blog/2007/07/18/bioscreencastcom-02/),
-concentrated at [bioscreencast.com](http://bioscreencast.com/) of which he is co-owner. I guess it is like a YouTube for
+concentrated at [bioscreencast.com <i class="fa-solid fa-box-archive fa-xs"></i>](https://web.archive.org/web/20070701050807/http://bioscreencast.com/)
+of which he is co-owner. I guess it is like a YouTube for
 bioinformatics thingies. [Jean-Claude](http://usefulchem.blogspot.com/) picked this up very quickly (seen on
 [Cb](http://cb.openmolecules.net/)? At least I did.), and already uploaded a screencast,
-[demoing JSpecView](http://bioscreencast.com/bsc_movwin.html?var1=58&var2=e222d63dc3a1251f097cd1e5bb8d5318.flv&var3=640&var4=496)
+[demoing JSpecView <i class="fa-solid fa-link-slash fa-xs"></i>](https://web.archive.org/web/*/http://bioscreencast.com/bsc_movwin.html*)
 written by [Robert](http://wwwchem.uwimona.edu.jm:1104/chrl.html). I wonder if he will upload the
 [screencasts he made for](http://usefulchem.blogspot.com/2006/07/cml-in-rss-feeds.html)
 [Bioclipse](http://www.bioclipse.net/) too? (hint, hint ... :)

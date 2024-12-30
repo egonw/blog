@@ -2,14 +2,15 @@
 layout: post
 title:  "ChemPedia RDF #1: the SPARQL end point"
 date:   2009-11-19
+modified_date: 2024-12-30
 blogger-link: https://chem-bla-ics.blogspot.com/2009/11/chempedia-rdf-1-sparql-end-point.html
-tags: rdf sparql chempedia
+tags: rdf sparql chempedia justdoi:10.59350/kprj3-gyg97
 ---
 
 Well, you might spot a pattern here; yes, another chemical [SPARQL end point](http://pele.farmbio.uu.se/cc0/sparql)
 (actually, it shares the end point with the [Solubility data](http://chem-bla-ics.blogspot.com/2009/11/open-notebook-science-solubility-sparql.html)).
 This time around [Rich](http://depth-first.com/)'s [ChemPedia](http://chempedia.com/substances). Taking advantage of the
-[CC0-licensed downloads](http://depth-first.com/articles/2009/11/10/chempedia-data-downloads-free-as-in-free),
+[CC0-licensed downloads <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/kprj3-gyg97),
 I have created a small [Groovy](http://groovy.codehaus.org/) script (using this [JSON library](http://json-lib.sourceforge.net/))
 to convert the ChemPedia [JSON](http://en.wikipedia.org/wiki/Json) into
 [Notation3](http://en.wikipedia.org/wiki/Notation3):

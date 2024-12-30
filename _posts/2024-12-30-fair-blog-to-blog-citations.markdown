@@ -44,8 +44,10 @@ the blog to blog citation. While an URL is a unique, global identifier, the digi
 on a lot of things. On the other hand, a DOI with the associated metadata is easier to preserve. For example,
 because it can be spread more easily than the digital object itself.
 
-So, when [Martin Fenner](https://blog.front-matter.io/author/martin/) and I
-[started}(https://chem-bla-ics.linkedchemistry.info/2024/12/08/rich-l-apodaca.html) [archiving](https://doi.org/10.53731/3c6pm-xbp04)
+So, when [Martin Fenner](https://blog.front-matter.io/author/martin/) and
+[I](https://chem-bla-ics.linkedchemistry.info/2024/12/08/rich-l-apodaca.html)
+[started](https://chem-bla-ics.linkedchemistry.info/2024/12/27/archiving_blogs.html)
+[archiving](https://doi.org/10.53731/3c6pm-xbp04)
 the [Depth-First blog of Rich Apodaca](https://depth-first.com/) to digitally preserve his blog,
 it also automatically gave the blog posts DOIs. This makes the blog more FAIR, just like it does
 for my blog. And being more FAIR, we can use the DOIs for other things too, like blog to blog

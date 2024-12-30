@@ -4,7 +4,7 @@ title:  "BridgeDb NWO grant update #2: building up momentum"
 date:   2022-04-17
 modified_date: 2024-12-30
 blogger-link: https://chem-bla-ics.blogspot.com/2022/04/bridgedb-nwo-grant-update-2-building-up.html
-tags: bridgedb openscience isaac doi:10.3897/RIO.8.E83031 doi:10.5281/ZENODO.6367091 justdoi:10.7717/peerj-cs.214
+tags: bridgedb openscience isaac doi:10.3897/RIO.8.E83031 justdoi:10.5281/ZENODO.6367091 justdoi:10.7717/peerj-cs.214
 image: /assets/images/bridgedb_nwo_isaac.png
 ---
 

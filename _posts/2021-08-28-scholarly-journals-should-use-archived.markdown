@@ -2,7 +2,7 @@
 layout: post
 title:  "Scholarly journals should use \"Archived on\" instead of \"Accessed on\""
 date:   2021-08-28
-blogger-link: https://chem-bla-ics.blogspot.com/2021/08/scholarly-journals-should-use-archived.html?q=%22archived+on%22
+blogger-link: https://chem-bla-ics.blogspot.com/2021/08/scholarly-journals-should-use-archived.html
 tags: publishing justdoi:10.3998/3336451.0004.210 justdoi:10.1353/pla.2003.0098 justdoi:10.1002/bmb.2003.494031010165
   justdoi:10.1300/J123v49n03_10 justdoi:10.1371/journal.pone.0115253 justdoi:10.18329/09757597/2015/8105
   justdoi:10.1108/GKMC-06-2019-0067
@@ -42,7 +42,7 @@ because the Internet Archive has no trouble handling this:
 
 ![](/assets/images/Screenshot_20210828_102732.png)
 
-<ul>Screenshot of the WaybackMachine showing many captures of the sci.kun.nl domain.</ul>
+<center>Screenshot of the WaybackMachine showing <a href="https://web.archive.org/web/19990615000000*/sci.kun.nl">many captures of the sci.kun.nl domain.</a></center><br />
 
 BTW, projects like Wikipedia have [automated the process](https://meta.wikimedia.org/wiki/InternetArchiveBot) of
 archiving URLs and I see no reason why publishers could not do this.

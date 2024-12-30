@@ -4,6 +4,7 @@ title:  "FAIR blog-to-blog citations"
 date:   2024-12-30
 tags: cito blog publishing justdoi:10.59348/1z1p2-nn569 justdoi:10.59350/1nmwy-nhk20 justdoi:10.53731/3c6pm-xbp04
 image: /assets/images/nanopub1.png
+doi: 10.59350/er1mn-m5q69
 ---
 
 [Linkrot is real](https://chem-bla-ics.linkedchemistry.info/2021/08/28/scholarly-journals-should-use-archived.html) and

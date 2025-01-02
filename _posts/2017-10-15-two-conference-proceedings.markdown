@@ -2,6 +2,7 @@
 layout: post
 title:  "Two conference proceedings: nanopublications and Scholia"
 date:   2017-10-15
+modified_date: 2025-01-02
 blogger-link: https://chem-bla-ics.blogspot.com/2017/10/two-conference-proceedings.html
 tags: scholia nanopub doi:10.48550/ARXIV.1703.04222 doi:10.1007/978-3-319-68288-4_26
 image: /assets/images/Screenshot_20171015_131507.png
@@ -19,7 +20,8 @@ recently published their work as conference proceedings: [Tobias Kuhn](http://ww
 
 ## Nanopublications
 
-Tobias works on [nanopublications](http://nanopub.org/wordpress/) which innovates how we make knowledge machine
+Tobias works on [nanopublications <i class="fa-solid fa-box-archive fa-xs"></i>](https://web.archive.org/web/20171004200524/http://nanopub.org/wordpress/)
+which innovates how we make knowledge machine
 readable. And I have stressed how important this is in my blog for years. Nanopublications describe how
 knowledge is captures, makes it FAIR, but importantly, it links the knowledge to the research that led to the
 knowledge. His [recent conference proceedings](https://doi.org/10.1007/978-3-319-68288-4_26)
@@ -30,7 +32,7 @@ it can help establish an efficient change history.
 
 ## Scholia
 
-And Finn developed [Scholia](https://tools.wmflabs.org/scholia/), an interface not unlike Web-of-Science. But
+And Finn developed [Scholia <i class="fa-solid fa-recycle fa-xs"></i>](https://scholia.toolforge.org/), an interface not unlike Web-of-Science. But
 then based on [Wikidata](http://wikidata.org/) and therefore fully on CCZero data. And, with a community
 actively adding the full history of scholarly literature and the citations between papers, courtesy to the
 [Initiative for Open Citations](https://i4oc.org/). This is opening up a lot of possibilities: from keeping

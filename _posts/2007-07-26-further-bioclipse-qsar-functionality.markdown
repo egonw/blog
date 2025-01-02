@@ -2,6 +2,7 @@
 layout: post
 title:  "Further Bioclipse QSAR functionality development"
 date:   2007-07-26
+modified_date: 2025-01-02
 blogger-link: https://chem-bla-ics.blogspot.com/2007/07/further-bioclipse-qsar-functionality.html
 tags: cdk qsar bioclipse joelib
 image: /blog/assets/images/qsarJob.png

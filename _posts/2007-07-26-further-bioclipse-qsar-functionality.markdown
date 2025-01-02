@@ -7,7 +7,7 @@ tags: cdk qsar bioclipse joelib
 image: /blog/assets/images/qsarJob.png
 ---
 
-I had some time to [work some more on the QSAR functionality](http://chem-bla-ics.blogspot.com/2007/06/qsar-plugin-for-bioclipse-getting-in.html)
+I had some time to [work some more on the QSAR functionality <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/06/27/qsar-plugin-for-bioclipse-getting-in.html)
 in [Bioclipse](http://www.bioclipse.net/). There is still much to do, but it is getting there. The calculation of a QSAR descriptor data matrix
 
 ![](/blog/assets/images/qsarJob.png)

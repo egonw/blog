@@ -25,5 +25,5 @@ The email does not give any information on the fail rate, but the demo they prov
 ![](/blog/assets/images/osra.png)
 
 The source reuses [OpenBabel](http://openbabel.sf.net/) and uses the GPL license. The value equal to that of text mining tools like
-[OSCAR3](http://chem-bla-ics.blogspot.com/2006/06/text-mining-for-chemistry-using-oscar3.html),
+[OSCAR3 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/06/22/text-mining-for-chemistry-using-oscar3.html),
 and together they sounds like the Jordan and Pippen of mining chemical literature.

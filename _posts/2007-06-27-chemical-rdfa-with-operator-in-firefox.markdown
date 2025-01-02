@@ -4,7 +4,7 @@ title:  "Chemical RDFa with Operator in the Firefox toolbar"
 date:   2007-06-27 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2007/06/chemical-rdfa-with-operator-in-firefox.html
 tags: pubchem rdf userscript inchi
-image: /blog/assets/images/pubchemRDFa.png
+image: /assets/images/pubchemRDFa.png
 ---
 
 December last year [I proposed the use of microformats and RDFa](http://chem-bla-ics.blogspot.com/2006/12/including-smiles-cml-and-inchi-in.html)
@@ -26,7 +26,7 @@ That was the idea, at least. I contacted Mike, and he asked me to wait until the
 [announced earlier this month](http://www.kaply.com/weblog/2007/06/04/operator-08a-is-available/).
 This version allows user scripts to be written, which define how RDFa should be handled. And with his patience and help, this was the result:
 
-![](/blog/assets/images/pubchemRDFa.png)
+![](/assets/images/pubchemRDFa.png)
 
 The HTML is almost [as explained before](http://chem-bla-ics.blogspot.com/2006/12/smiles-cas-and-inchi-in-blogs.html), and looks like:
 

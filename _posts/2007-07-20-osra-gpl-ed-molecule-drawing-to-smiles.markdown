@@ -4,7 +4,7 @@ title:  "OSRA: GPL-ed molecule drawing to SMILES convertor"
 date:   2007-07-20 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2007/07/osra-gpl-ed-molecule-drawing-to-smiles.html
 tags: cheminf openbabel
-image: /blog/assets/images/osra.png
+image: /assets/images/osra.png
 ---
 
 Igor wrote a message to the [CCL mailing list](http://www.ccl.net/chemistry/sub_unsub.shtml) about
@@ -22,7 +22,7 @@ generate the SMILES representation of the molecular structure images encountered
 The email does not give any information on the fail rate, but the demo they provide via the
 [webinterface](http://cactus.nci.nih.gov/cgi-bin/osra/index.cgi) does show some minor glitches (the bromine is not recognized):
 
-![](/blog/assets/images/osra.png)
+![](/assets/images/osra.png)
 
 The source reuses [OpenBabel](http://openbabel.sf.net/) and uses the GPL license. The value equal to that of text mining tools like
 [OSCAR3 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/06/22/text-mining-for-chemistry-using-oscar3.html),

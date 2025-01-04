@@ -2,11 +2,12 @@
 layout: post
 title:  "Molecular Connectivity Tables in Images"
 date:   2007-08-11 00:10
+modified_date: 2025-01-04
 blogger-link: https://chem-bla-ics.blogspot.com/2007/08/molecular-connectivity-tables-in-images.html
-tags: publishing chemistry inchi
+tags: publishing chemistry inchi justdoi:10.59350/wgy8j-brx45
 ---
 
-Rich blogged about to [Never Draw the Same Molecule Twice: Viewing Image Metadata](http://depth-first.com/articles/2007/08/08/never-draw-the-same-molecule-twice-viewing-image-metadata)
+Rich blogged about to [Never Draw the Same Molecule Twice: Viewing Image Metadata <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/wgy8j-brx45)
 in which he shows his molecular editor outputting images of molecular structure where the connectivity table
 of structure is embedded in the image. His molecular editor can read the image again, and will automatically
 pick up the embedded connection table. Noel showed that such can not only be done in Java, but

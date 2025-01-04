@@ -10,6 +10,7 @@ authors:
 tags: javascript justdoi:10.7717/peerj-cs.214 doi:10.5281/ZENODO.14562484
   doi:10.5281/ZENODO.14562504
 image: /assets/images/isaac2025_1.png
+doi: 10.59350/1cg8w-qth68
 ---
 
 In 2022 I had my first experience with the [ISAAC database](https://isaac.nwo.nl/)

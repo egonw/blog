@@ -21,18 +21,27 @@ layout: base
           {{ mdate | date: date_format }}
         </time>
       {%- endif -%}
-      {%- if page.author -%}
-        • {% for author in page.author %}
-          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-            <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
-            {%- if forloop.last == false %}, {% endif -%}
-        {% endfor %}
-      {%- endif -%}
       &nbsp;<a class="u-url" href="https://github.com/egonw/blog2/commits/new/{{ page.path }}"><i class="fa-solid fa-timeline"></i></a>
       &nbsp;<a class="u-url" href="https://github.com/egonw/blog2/blob/new/{{ page.path }}"><i class="fa-solid fa-pen-to-square"></i></a>
       {%- if page.doi -%}
         <br /><span class="post-meta">Download as:&nbsp;<a href="https://api.rogue-scholar.org/posts/{{ page.doi }}?format=pdf"><i class="fa-solid fa-file-pdf"></i></a></span>
       {%- endif -%}
+      {% assign authorCount = page.authors | size %}
+      {% if authorCount == 0 %}{% elsif authorCount == 1 %}
+      {% else %}
+        <br/><span class="post-meta">
+        {% for author in page.authors %}
+          {% if forloop.first %}
+            {{ author.name }}
+          {% elsif forloop.last %}
+            and {{ author.name  }}
+          {% else %}
+            , {{ author.name }}
+          {% endif %}
+          <a class="u-url" style="color:grey" href="https://orcid.org/{{ author.orcid }}"><i class="fa-brands fa-orcid" aria-hidden="true"></i></a>
+        {% endfor %}
+        </span>
+      {% endif %}
 
       {% if page.tags.size > 0 %}
         <br /><br /><span class="post-meta">

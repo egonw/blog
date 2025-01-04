@@ -2,14 +2,15 @@
 layout: post
 title:  "Molecules in Wikipedia without InChIs"
 date:   2007-08-11
+modified_date: 2025-01-04
 blogger-link: https://chem-bla-ics.blogspot.com/2007/08/molecules-in-wikipedia-without-inchis.html
 tags: wikipedia inchi
 ---
 
-I reported last week about the [Molecules in Wikipedia](http://chem-bla-ics.blogspot.com/2007/08/molecules-in-wikipedia.html)
+I reported last week about the [Molecules in Wikipedia <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/08/02/molecules-in-wikipedia.html)
 and the plethora of templates used. [Chemical blogspace](http://cb.openmolecules.net/) has also been using
 [Wikipedia](http://en.wikipedia.org/) URLs as molecular identifier and extracting InChIs from the wiki pages (see
-[Using Wikipedia to recognize Molecules in Blogspace](http://chem-bla-ics.blogspot.com/2007/06/using-wikipedia-to-recognize-molecules.html)).
+[Using Wikipedia to recognize Molecules in Blogspace <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/06/19/using-wikipedia-to-recognize-molecules.html)).
 Several people have shown interest in adding InChIs for molecules in Wikipedia, so here's a new version of a
 list it molecules without InChIs:
 
@@ -41,4 +42,4 @@ http://www.en.wikipedia.org/wiki/Sulfur_hexafluoride -> but no InChI/CID
 
 Strictly speaking, the list should be longer, as the code that produced this list actually is also happy
 when a PubChem compound identifier (CID) is given. The previous list is also
-[still online](http://chem-bla-ics.blogspot.com/2007/06/using-wikipedia-to-recognize-molecules.html).
+[still online <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/06/19/using-wikipedia-to-recognize-molecules.html).

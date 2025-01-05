@@ -2,6 +2,7 @@
 layout: post
 title:  "Serious Request: the results"
 date:   2025-01-05
+doi:10.59350/fjbv7-53d20
 tags: sr24 justdoi:10.1002/jimd.12348 doi:10.1007/978-3-030-67727-5_73 justdoi:10.1186/s13059-020-02181-2
   justdoi:10.1093/bioinformatics/btad118
 image: /assets/images/b0fbb7ea135318b9.png

@@ -2,11 +2,12 @@
 layout: post
 title:  "My Open Laboratory 2007 submissions"
 date:   2007-12-04
+modified_date: 2025-01-05
 blogger-link: https://chem-bla-ics.blogspot.com/2007/12/my-open-laboratory-2007-submissions.html
 tags: openlab
 ---
 
-[As promised](http://chem-bla-ics.blogspot.com/2007/11/last-call-for-open-laboratory-2007.html), here is my
+[As promised <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/11/14/last-call-for-open-laboratory-2007.html), here is my
 list of submission for the [Open Laboratory 2007](http://scienceblogs.com/clock/2007/11/open_laboratory_2008_last_call.php):
 
 * [Open Data is critical for Reproducible Research](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=412)

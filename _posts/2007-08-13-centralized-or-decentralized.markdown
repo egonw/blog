@@ -2,6 +2,7 @@
 layout: post
 title:  "Centralized or decentralized?"
 date:   2007-08-13
+modified_date: 2025-01-05
 blogger-link: https://chem-bla-ics.blogspot.com/2007/08/centralized-or-decentralized.html
 tags: inchi semweb doi:10.1021/ci050378m
 ---
@@ -11,7 +12,7 @@ when [Deepak](http://mndoci.com/blog/) [blogged](http://mndoci.com/blog/2007/08/
 [Freebase](http://freebase.com/) and [Metaweb](http://www.metaweb.com/). Now, I haven't really looked into these
 two projects, but the question of centralized versus decentralized is interesting. It's MySQL versus the world
 wide web; it's the PubChem compound ID versus the InChI; it's [http://cb.openmolecules.net/rdf/?InChI=1/CH4/h1H4](http://cb.openmolecules.net/rdf/?InChI=1/CH4/h1H4)
-versus `info:inchi/InChI=1/CH4/h1H4` (see [RDF-ing molecular space](http://chem-bla-ics.blogspot.com/2007/07/rdf-ing-molecular-space.html)).
+versus `info:inchi/InChI=1/CH4/h1H4` (see [RDF-ing molecular space <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/07/31/rdf-ing-molecular-space.html)).
 
 Both have advantages and disadvantages (everything does). Google has a huge experience with massive data, and
 is the centralized version of the distributed world wide web. Personally, I tend towards the decentralized

@@ -7,7 +7,8 @@ tags: blogging
 image: /blog/assets/images/touchGraph.png
 ---
 
-Via [SciFoo Planet](http://www.lexical.org.uk/planetscifoo/) (from [Partial immortalization](http://pimm.wordpress.com/2007/08/11/scifoo-links-visualized-by-touchgraph-google-browser/))
+Via [SciFoo Planet <i class="fa-solid fa-box-archive fa-xs"></i>](https://web.archive.org/web/20071101070909/http://www.lexical.org.uk/planetscifoo/)
+(from [Partial immortalization <i class="fa-solid fa-box-archive fa-xs"></i>](https://pimm.wordpress.com/2007/08/11/scifoo-links-visualized-by-touchgraph-google-browser/))
 I learned about [TouchGraph Google](http://www.touchgraph.com/TGGoogleBrowser.html) (Peter
 [brought it into Chemical blogspace](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=496)).
 It's cool, though not open source. Here's the touch graph for my blog:

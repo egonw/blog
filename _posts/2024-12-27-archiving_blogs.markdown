@@ -3,7 +3,7 @@ layout: post
 title:  "Archiving blogs"
 date:   2024-12-27
 doi: 10.59350/vjvdy-6p110
-tags: blog
+tags: blog openlab
 image: /assets/images/depth-first-on-rogue-scholar.png
 ---
 

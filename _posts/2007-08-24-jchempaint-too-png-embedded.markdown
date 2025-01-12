@@ -4,7 +4,7 @@ title:  "JChemPaint too: PNG embedded connectivity tables"
 date:   2007-08-24
 blogger-link: https://chem-bla-ics.blogspot.com/2007/08/jchempaint-too-png-embedded.html
 tags: jchempaint cheminf inchikey:RWCCWEUUXYIKHB-UHFFFAOYSA-N
-image: /assets/images/jcpPNGmolfile.png
+image: /blog/assets/images/jcpPNGmolfile.png
 ---
 
 Rich blogged about Firefly [embedding MDL molfiles in PNG images](http://depth-first.com/articles/2007/08/01/never-draw-the-same-molecule-twice-image-metadata-for-cheminformatics),
@@ -42,7 +42,7 @@ writer.write( meta, new IIOImage(awtImage, null, meta), null );
 Now I can create my own test files for the [Strigi's ability to extract chemical metadata from PNG images](http://neksa.blogspot.com/2007/08/strigi-now-extracts-chemical.html).
 Here is the JChemPaint generator PNG image for [benzophenone](http://en.wikipedia.org/wiki/Benzophenone):
 
-![](/assets/images/amdlTest.png)
+![](/blog/assets/images/mdlTest.png)
 
 Another issue, unrelated to this patch, is that writing PNG images changes the location of the structure in the JChemPaint editor,
 and that the placing of the element symbol in image writing is seriously broken. But that will soon be solved with
@@ -50,7 +50,7 @@ and that the placing of the element symbol in image writing is seriously broken.
 
 The metadata looks like:
 
-![](/assets/images/jcpPNGmolfile.png)
+![](/blog/assets/images/jcpPNGmolfile.png)
 
 (Newlines are lost in the XML display.)
 

@@ -1,0 +1,6 @@
+---
+layout: molecule
+title: "Molecule: VPUGDVKSAQVFFS-UHFFFAOYSA-N"
+tag: inchikey:VPUGDVKSAQVFFS-UHFFFAOYSA-N
+smiles: C1=CC2=C3C4=C1C=CC5=C4C6=C(C=C5)C=CC7=C6C3=C(C=C2)C=C7
+---

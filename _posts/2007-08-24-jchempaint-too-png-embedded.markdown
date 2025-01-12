@@ -42,7 +42,7 @@ writer.write( meta, new IIOImage(awtImage, null, meta), null );
 Now I can create my own test files for the [Strigi's ability to extract chemical metadata from PNG images](http://neksa.blogspot.com/2007/08/strigi-now-extracts-chemical.html).
 Here is the JChemPaint generator PNG image for [benzophenone](http://en.wikipedia.org/wiki/Benzophenone):
 
-![](/assets/images/amdlTest.png)
+![](/assets/images/mdlTest.png)
 
 Another issue, unrelated to this patch, is that writing PNG images changes the location of the structure in the JChemPaint editor,
 and that the placing of the element symbol in image writing is seriously broken. But that will soon be solved with

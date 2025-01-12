@@ -4,7 +4,7 @@ title:  "Centralized or decentralized?"
 date:   2007-08-13
 modified_date: 2025-01-05
 blogger-link: https://chem-bla-ics.blogspot.com/2007/08/centralized-or-decentralized.html
-tags: inchi semweb doi:10.1021/ci050378m
+tags: inchi semweb justdoi:10.1021/ci050378m
 ---
 
 [Peter](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/) wondered if data should be stored [centralized or decentralized](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=497),

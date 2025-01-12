@@ -1,0 +1,6 @@
+---
+layout: molecule
+title: "Molecule: BBEAQIROQSPTKN-UHFFFAOYSA-N"
+tag: inchikey:BBEAQIROQSPTKN-UHFFFAOYSA-N
+smiles: BBEAQIROQSPTKN-UHFFFAOYSA-N
+---

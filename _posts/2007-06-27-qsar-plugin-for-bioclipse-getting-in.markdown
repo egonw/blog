@@ -2,6 +2,7 @@
 layout: post
 title:  "QSAR plugin for Bioclipse getting in shape"
 date:   2007-06-27
+modified_date: 2025-01-17
 blogger-link: https://chem-bla-ics.blogspot.com/2007/06/qsar-plugin-for-bioclipse-getting-in.html
 tags: bioclipse qsar cdk ambit
 image: /assets/images/bioQSAR.png
@@ -27,4 +28,4 @@ qsarResult.jam), and which is opened in the Matrix editor:
 ![](/assets/images/bioQSAR1.png)
 
 There is still enough work left to do. For example, the columns are not yet labeled according to the descriptor name, and
-selecting more then one `CDKResource` in the navigator does not give a multirow matrix yet.
+selecting more than one `CDKResource` in the navigator does not give a multirow matrix yet.

@@ -2,8 +2,8 @@
 layout: post
 title:  "Blog updates"
 doi: 10.59350/cf885-kee54
-date:   2025-01-19 12:01
-modified_data: 2025-01-19
+date:   2025-01-19
+modified_date: 2025-01-19
 tags: blog justdoi:10.53731/m9d5v-xmr74 justdoi:10.53731/d6vdvbt-tffmezj justdoi:10.53731/3c6pm-xbp04
   justdoi:10.7717/peerj-cs.214
 image: /assets/images/rs_archives.png

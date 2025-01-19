@@ -5,6 +5,7 @@ date:   2023-07-27
 image: /assets/images/new_blog.png
 blogger-link: https://chem-bla-ics.blogspot.com/2023/07/archiving-and-updating-my-blog.html
 tags: markdown wikipathways
+doi: 10.59350/nfqxs-qs982
 ---
 
 This blog is [almost 18 years old](https://chem-bla-ics.blogspot.com/2005/10/chem-bla-ics.html) now. I have long wanted

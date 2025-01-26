@@ -1,9 +1,9 @@
-// Copyright (c) 2023  Egon Willighagen <egon.willighagen@gmail.com>
+// Copyright (c) 2023-2025  Egon Willighagen <egon.willighagen@gmail.com>
 //
 // GPL v3
 
-@Grab(group='io.github.egonw.bacting', module='managers-ui', version='0.3.4')
-@Grab(group='io.github.egonw.bacting', module='net.bioclipse.managers.jsoup', version='0.3.4')
+@Grab(group='io.github.egonw.bacting', module='managers-ui', version='1.0.4')
+@Grab(group='io.github.egonw.bacting', module='net.bioclipse.managers.jsoup', version='1.0.4')
 
 bioclipse = new net.bioclipse.managers.BioclipseManager("..");
 ui = new net.bioclipse.managers.UIManager("..");

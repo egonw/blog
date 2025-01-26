@@ -2,6 +2,7 @@
 layout: post
 title:  "Niche papers and citation intentions"
 date:   2025-01-26
+modified_date: 2025-01-26
 doi: 10.59350/am3yq-9xx77
 tags: publishing justdoi:10.59350/m6erd-7px95 doi:10.1021/CI025584Y justdoi:10.1186/1471-2105-11-395
   justdoi:10.1093/NAR/GKH081 justdoi:10.1002/anie.200503833 justdoi:10.1186/2041-1480-1-S1-S6

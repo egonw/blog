@@ -55,7 +55,8 @@ such a citations as
 This is someone I noted too when analyzing citations to the aforementioned CDK paper. Particularly in the
 early days, it was cited a lot in a similar way: it was not using the CDK, but ascribed some authority
 to the paper in a *very quick appearance, without really considering the cited work*. The
-[Citation Typing Ontology]() (CiTO, doi:) has *cito:citesAsAuthority* for that (not exactly the same thing,
+[Citation Typing Ontology](https://purl.org/spar/cito) (CiTO, doi:[10.1186/2041-1480-1-s1-s6](https://doi.org/10.1186/2041-1480-1-s1-s6))
+has *cito:citesAsAuthority* for that (not exactly the same thing,
 and maybe CiTO should have *cito:driveByCitation* too). And they happen a lot, and in the past I have
 guestimated them to make up 20-35% of the citations to an article, and I postulate that
 high-journal-impact-factor journals amass a higher ratio than specialistic (niche?) journals.

@@ -16,7 +16,7 @@ for free?"* (about open science cheminformatics research). Other times. Indeed, 
 articles. The above is one of them (still happens too often). But that's also an intrinsic property of the
 current publishing model: some papers get cited too much, others get cited too little.
 
-[Mark Dingemans](https://scholar.social/@dingemansemark) wrote up a post *[[i]n praise of niche papers](https://doi.org/10.59350/m6erd-7px95)*,
+[Mark Dingemanse](https://scholar.social/@dingemansemark) wrote up a post *[[i]n praise of niche papers](https://doi.org/10.59350/m6erd-7px95)*,
 suggesting people to highlight papers that are not cited enough (as proxy for not getting enough attention).
 They write:
 

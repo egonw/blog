@@ -29,7 +29,7 @@ They write:
 
 Before I move on to highlighting niche papers (from our group and from others), I want to ponder
 a bit more about the rest. The first I learned is that the citation count to articles is a bad measure
-for the impact ([2006 pondering](https://chem-bla-ics.linkedchemistry.info/2006/11/07/when-is-open-source-chemoinformatics.html):
+for the impact ([2006 pondering](https://chem-bla-ics.linkedchemistry.info/2006/11/07/when-is-open-source-chemoinformatics.html)):
 articles using your work may get more citations than your own article. For example, the first paper
 (doi:[10.1021/CI025584Y](https://doi.org/10.1021/CI025584Y)) about the open science cheminformatics
 about the [Chemistry Development Kit](https://cdk.github.io) (CDK) was originally cited less than

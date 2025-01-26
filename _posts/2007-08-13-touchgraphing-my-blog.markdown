@@ -4,7 +4,7 @@ title:  "Touchgraphing my blog"
 date:   2007-08-13 00:10
 modified_date: 2025-01-05
 blogger-link: https://chem-bla-ics.blogspot.com/2007/08/touchgraphing-my-blog.html
-tags: blogging
+tags: blog
 image: /blog/assets/images/touchGraph.png
 ---
 

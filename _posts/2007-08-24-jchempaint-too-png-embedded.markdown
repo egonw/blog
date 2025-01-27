@@ -2,6 +2,7 @@
 layout: post
 title:  "JChemPaint too: PNG embedded connectivity tables"
 date:   2007-08-24
+doi: 10.59350/rxpr6-t1772
 blogger-link: https://chem-bla-ics.blogspot.com/2007/08/jchempaint-too-png-embedded.html
 tags: jchempaint cheminf inchikey:RWCCWEUUXYIKHB-UHFFFAOYSA-N
 image: /assets/images/jcpPNGmolfile.png

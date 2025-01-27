@@ -2,6 +2,7 @@
 layout: post
 title:  "New InChI software beta: license issues resolved and InChIKey"
 date:   2007-09-07 00:10
+modified_date: 2025-01-27
 blogger-link: https://chem-bla-ics.blogspot.com/2007/09/new-inchi-software-beta-license-issues.html
 tags: inchi openscience
 ---
@@ -37,8 +38,8 @@ An interesting feature is that addition of a check character, which enables some
 about collision clashes there, which exist too. And the fixed length has its virtues too. That said, it certainly helps as
 [sort of prefiltering](http://www.chemspy.com/chemistry-news/googling-inchikeys.html).
 [Google does a quite decent lookup of InChIs nowadays](http://usefulchem.blogspot.com/2007/07/indexing-molecules-in-second-life.html#c9154415358635329736),
-and there is a growing amount of semantic markup of InChIs like [use of microformats](http://chem-bla-ics.blogspot.com/2006/12/including-smiles-cml-and-inchi-in.html),
-as RDF/RDFa, stored in HTML @alt attributes, [embedded in PNG images](http://chem-bla-ics.blogspot.com/2007/08/jchempaint-too-png-embedded.html)
+and there is a growing amount of semantic markup of InChIs like [use of microformats <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/12/10/including-smiles-cml-and-inchi-in.html),
+as RDF/RDFa, stored in HTML @alt attributes, [embedded in PNG images <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/08/24/jchempaint-too-png-embedded.html)
 to address the issues of the InChI length.
 
 Two final comments, and I hope Alan, Steve, Igor, Steve and Dmitrii will pick this up:

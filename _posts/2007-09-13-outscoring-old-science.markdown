@@ -2,6 +2,7 @@
 layout: post
 title:  "Outscoring old science"
 date:   2007-09-13
+doi: 10.59350/dze3k-zky17
 blogger-link: https://chem-bla-ics.blogspot.com/2007/09/outscoring-old-science.html
 tags: publishing
 ---

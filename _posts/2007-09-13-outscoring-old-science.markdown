@@ -3,11 +3,12 @@ layout: post
 title:  "Outscoring old science"
 date:   2007-09-13
 doi: 10.59350/dze3k-zky17
+modified_date: 2025-01-30
 blogger-link: https://chem-bla-ics.blogspot.com/2007/09/outscoring-old-science.html
-tags: publishing
+tags: publishing justdoi:10.59350/6aep1-v9455
 ---
 
-Rich [posted a nice quote](http://depth-first.com/articles/2007/09/12/the-forward-pass-has-been-legalized-will-you-use-it)
+Rich [posted a nice quote <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/6aep1-v9455)
 the other day on the introduction of the forward pass in football some 100 years ago, and linked that to sciences. I commented
 with the remark that the outscoring is the problem:
 

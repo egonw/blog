@@ -2,16 +2,15 @@
 layout: post
 title:  "Tagging Molecules: a mashup of Connotea and RDF"
 date:   2007-09-19
+modified_date: 2025-02-08
 blogger-link: https://chem-bla-ics.blogspot.com/2007/09/tagging-molecules-mashup-of-connotea.html
 tags: rdf connotea inchi justdoi:10.1107/S0108768104028344
 ---
 
-Using the InChI and the new [rdf.openmolecules.net](http://chem-bla-ics.blogspot.com/2007/07/rdf-ing-molecular-space.html)
+Using the InChI and the new [rdf.openmolecules.net <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/07/31/rdf-ing-molecular-space.html)
 website, it is now possible to tag molecules. And if you use [Connotea](http://www.connotea.org/) for that, your tags will
 even show up on the rdf.openmolecules.net website. For example, at the time of writing,
-[methane](http://en.wikipedia.org/wiki/Methane) was tagged with *alkanes* and *gas*:
-
-![]()
+[methane](http://en.wikipedia.org/wiki/Methane) was tagged with *alkanes* and *gas*.
 
 The trick I use, is that the rdf.openmolecules.net gives every molecule a unique HTTP [URL](http://en.wikipedia.org/wiki/URL).
 This simply web2.0 approach offers an enormous amount of possibilities. The simplest application is that you can tag your molecules

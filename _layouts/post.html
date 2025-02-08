@@ -62,6 +62,8 @@ layout: base
             {% elsif check[0] == "doi" %}
               {% assign type = "work" %}
               {% assign icon = "file" %}
+            {% elsif check[0] == "cito" %}
+              {% assign type = "skip" %}
             {% else %}
               {% assign type = "tag" %} <!-- failsafe -->
               {% assign icon = "tag" %}
@@ -93,6 +95,7 @@ layout: base
   <script>
 const cite = new Cite()
 dois = []
+intentionMap = new Map()
 {% for tag in page.tags %}
   {% assign check = tag | split:':' %}
   {% if check.size > 1 %}
@@ -102,6 +105,10 @@ dois.push("{{ doi }}")
     {% elsif check[0] == "justdoi" %}
       {% capture doi %}{{ check[1] }}{% endcapture %}
 dois.push("{{ doi }}")
+    {% elsif check[0] == "cito" %}
+      {% capture doi %}{{ check[2] }}{% endcapture %}
+dois.push("{{ doi }}")
+intentionMap.set("{{ doi }}", "{{ check[1] }}")
     {% endif %}
   {% endif %}
 {% endfor %}
@@ -113,7 +120,11 @@ if (dois.length > 0) {
         return '<i class="fa-solid fa-file fa-xs"></i>&nbsp;'
       },
       append: function (entry) {
-        return ' <a href="https://doi.org/' + entry.DOI + '">CrossRef</a> <a href="https://scholia.toolforge.org/doi/' + entry.DOI + '">Scholia</a>'
+        intentionStr = ""
+        if (intentionMap.has(entry.DOI)) {
+          intentionStr = " <b>[cito:" + intentionMap.get(entry.DOI) + "]</b>"
+        }
+        return intentionStr + ' <a href="https://doi.org/' + entry.DOI + '">CrossRef</a> <a href="https://scholia.toolforge.org/doi/' + entry.DOI + '">Scholia</a>'
       }
     })
     document.getElementById('bibliography').innerHTML = content

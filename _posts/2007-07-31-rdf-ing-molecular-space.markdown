@@ -2,6 +2,7 @@
 layout: post
 title:  "RDF-ing molecular space"
 date:   2007-07-31
+doi: 10.59350/9r29x-8y455
 blogger-link: https://chem-bla-ics.blogspot.com/2007/07/rdf-ing-molecular-space.html
 tags: chemistry rdf inchi
 ---

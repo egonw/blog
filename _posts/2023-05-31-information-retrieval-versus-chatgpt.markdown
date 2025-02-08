@@ -2,6 +2,7 @@
 layout: post
 title:  "Information Retrieval versus ChatGPT"
 date:   2023-05-31
+doi: 10.59350/r68sc-a1t25
 blogger-link: https://chem-bla-ics.blogspot.com/2023/05/information-retrieval-versus-chatgpt.html
 tags: ml rdf
 ---

@@ -3,6 +3,7 @@ layout: post
 title:  "Universities and open infrastructures"
 date:   2023-07-07
 modified_date: 2024-01-07
+doi: 10.59350/t1zwp-21x05
 blogger-link: https://chem-bla-ics.blogspot.com/2023/07/universities-and-open-infrastructures.html
 tags: openscience mastodon
 ---

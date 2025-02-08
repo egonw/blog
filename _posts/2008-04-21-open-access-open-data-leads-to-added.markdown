@@ -2,8 +2,9 @@
 layout: post
 title:  "Open Access / Open Data leads to added value"
 date:   2008-04-21
+modified_date: 2025-02-08
 blogger-link: https://chem-bla-ics.blogspot.com/2008/04/open-access-open-data-leads-to-added.html
-tags: chempedia openscience chemspider rdf
+tags: chempedia openscience chemspider rdf justdoi:10.59350/nef42-jrb26
 ---
 
 Two companies recently showed two things:
@@ -11,7 +12,7 @@ Two companies recently showed two things:
 * open access and open data allow adding value
 * adding value is easier by forking
 
-[Rich](http://depth-first.com/)' [MetaMolecular](http://metamolecular.com/) set up [Chempedia](http://depth-first.com/articles/2008/04/17/user-created-compound-monographs-on-chempedia-net-open-sourcing-the-collation-and-indexing-of-chemical-information)
+[Rich](http://depth-first.com/)' [MetaMolecular](http://metamolecular.com/) set up [Chempedia <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/nef42-jrb26)
 which combines a substructure-searchable chemical [Wikipedia](http://wikipedia.org/). There is also a
 [page to make links](http://chempedia.net/articles/new) to new Wikipedia monographs. Not sure why Rich chose CAS instead of the InChI,
 given the recent [controversy on validity of CAS numbers in Wikipedia](http://chem-bla-ics.blogspot.com/2008/03/chemical-object-identifier-or-freedom.html)...

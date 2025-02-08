@@ -2,12 +2,14 @@
 layout: post
 title:  "Quality of Chemical Database"
 date:   2007-06-19 00:10
+modified_date: 2025-02-08
 blogger-link: https://chem-bla-ics.blogspot.com/2007/06/quality-of-chemical-database.html
 tags: justdoi:10.1186/1471-2105-7-517 opendata chemistry doi:10.1021/CI034244P pubchem rdf
+  justdoi:10.59350/jy0f5-7m219 justdoi:10.59350/zwnp1-qy767
 ---
 
 Lately, [Chemical blogspace](http://cb.openmolecules.net/) has seen an interesting discussion on the quality of opendata and free chemical database (over
-[32 free resources now](http://depth-first.com/articles/2007/01/24/thirty-two-free-chemistry-databases)), such as the
+[32 free resources now <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/jy0f5-7m219)), such as the
 [NMRShiftDB.org](http://nmrshiftdb.org/). For example, see [Antony's view on the NMRShiftDB](http://www.chemspider.com/blog/?p=44)
 and [Robien's analysis](http://nmrpredict.orc.univie.ac.at/csearch_summary/more_or_less_than_250_errors.html).
 
@@ -31,7 +33,7 @@ which implements common patterns to find entries in the database that did not co
 Automated quality assurance requires a easy to use, machine-readable interface. For example, CMLRSS
 (DOI:[10.1021/ci034244p](https://doi.org/10.1021/ci034244p)) can be used for running new entries in databases
 against known patterns. But other interfaces are most welcome too. Rich recently
-[discussed the new PUG interface](http://depth-first.com/articles/2007/06/11/hacking-pubchem-learning-to-speak-pug),
+[discussed the new PUG interface <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/zwnp1-qy767),
 which offers an interface to [PubChem](http://pubchem.ncbi.nlm.nih.gov/).
 
 German scientists offer a RDF interface to [Wikipedia](http://wikipedia.org/): [DBPedia](http://dbpedia.org/).

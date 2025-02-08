@@ -2,8 +2,9 @@
 layout: post
 title:  "Scientific Literature: searching, ranking, storage"
 date:   2007-06-08
+modified_date: 2025-02-08
 blogger-link: https://chem-bla-ics.blogspot.com/2007/06/scientific-literature-searching-ranking.html
-tags: citeulike publishing chemistry
+tags: citeulike publishing chemistry justdoi:10.59350/6zgf4-2wb06
 ---
 
 Dealing with scientific literature has been one important theme in [Chemical blogspace](http://wiki.cubic.uni-koeln.de/cb/).
@@ -39,7 +40,7 @@ database, voting and commenting on articles.
 Apparently, [CiteULike](http://www.citeulike.org/) (CUL) supports this too. In contrast to ChemRank, CUL requires
 a login, which I personally see as an advantage, because I can browse literature bookmarked by other accounts I trust.
 There is also [Connotea](http://www.connotea.org/) but I never liked that site that much (e.g. is allows bookmarking
-any web page); [Rich has his comments too](http://depth-first.com/articles/2007/03/22/why-i-still-dont-use-connotea).
+any web page); [Rich has his comments too <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/6zgf4-2wb06).
 I would also like to mention [BioWizard](http://www.biowizard.com/) which is based on the PubMed content, which actually
 covers a good deal of chemistry literature nowadays too.
 

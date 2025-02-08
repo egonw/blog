@@ -2,14 +2,15 @@
 layout: post
 title:  "The Open Science Notebook 10 years ago"
 date:   2007-07-16
+modified_date: 2025-02-08
 blogger-link: https://chem-bla-ics.blogspot.com/2007/07/open-science-notebook-10-years-ago.html
-tags: cdk openscience justdoi:10.1038/npre.2007.39.1
+tags: cdk openscience justdoi:10.1038/npre.2007.39.1 justdoi:10.59350/sk1yv-zxp51
 ---
 
 So, with [all](http://mndoci.com/blog/2007/07/14/does-the-open-research-world-need-a-single-access-point/)
 [these](http://drexel-coas-elearning.blogspot.com/2006/09/open-notebook-science.html)
 [people](http://3quarksdaily.blogs.com/3quarksdaily/2006/11/the_future_of_s.html)
-[blogging](http://depth-first.com/articles/2007/06/21/open-notebook-science-using-inchimatic)
+[blogging <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/sk1yv-zxp51)
 [about](http://www.sennoma.net/main/archives/2007/07/giving_open_notebook_science_a.php)
 [the](http://scilib.typepad.com/science_library_pad/2007/06/thinking-about-.html)
 [Open](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=353)

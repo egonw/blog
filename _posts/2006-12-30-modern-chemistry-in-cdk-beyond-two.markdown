@@ -2,14 +2,16 @@
 layout: post
 title:  "Modern chemistry in the CDK: beyond the two-atom bond"
 date:   2006-12-30
+modified_date: 2025-02-08
 blogger-link: https://chem-bla-ics.blogspot.com/2006/12/modern-chemistry-in-cdk-beyond-two.html
 tags: cheminf cdk justdoi:10.1021/ci00027a001 justdoi:10.1021/ci9704423
+  justdoi:10.59350/pz3p6-fv247 justdoi:10.59350/xnt9b-80962 justdoi:10.59350/s1vtx-e9q82
 ---
 
-[Rich](http://depth-first.com/) [recently blogged](http://depth-first.com/articles/2006/12/19/ferrocene-and-beyond-a-solution-to-the-molecular-representation-problem)
+[Rich](http://depth-first.com/) [recently blogged <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/pz3p6-fv247)
 about the limitations of the two-atom bond representation often used in chemoinformatics,
-triggered by [the four ferrocene entries in PubChem](http://depth-first.com/articles/2006/12/12/the-problem-with-ferrocene).
-In reply to himself, [Rich described FlexMol](http://depth-first.com/articles/2006/12/20/a-molecular-language-for-modern-chemistry-getting-started-with-flexmol),
+triggered by [the four ferrocene entries in PubChem <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/xnt9b-80962).
+In reply to himself, [Rich described FlexMol <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/s1vtx-e9q82),
 an XML language that can describe bond systems that involve more than two atoms.
 
 Obviously, the problems originates from the lack of mathematical knowledge of chemists: the
@@ -34,7 +36,7 @@ representations.
 I will postpone analyzing the [CDK](http://cdk.sf.net/) for compatibility with such more modern
 representations (look out for a [CDK News](http://cdknews.org/) article), and now just describe
 how the CDK can be used for FlexMol/Dietz/Bauerschmidt representations. Consider
-[the four examples Rich gives](http://depth-first.com/articles/2006/12/20/a-molecular-language-for-modern-chemistry-getting-started-with-flexmol)
+[the four examples Rich gives <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/s1vtx-e9q82)
 in his blog. Here are the CDK ways of doing the same.
 
 For example, 1,3,5-cyclohexatriene:

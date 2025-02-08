@@ -2,8 +2,9 @@
 layout: post
 title:  "Clustering web search results"
 date:   2007-04-21
+modified_date: 2025-02-08
 blogger-link: https://chem-bla-ics.blogspot.com/2007/04/clustering-web-search-results.html
-tags: google cheminf
+tags: google cheminf justdoi:10.59350/evjkt-07173
 image: /assets/images/clusty1.png
 ---
 
@@ -20,5 +21,5 @@ For *chemoinformatics* it comes up with the following top 10 clusters: 'Drug Dis
 'Research', 'Books', 'Conference, German', 'Textbook, Gasteiger', 'Laboratory', 'Handbook of Chemoinformatics', and
 'School'. Quite acceptable and useful clustering.
 
-This might be the next step in googling. Rich, it also might solve [your problem](http://depth-first.com/articles/2007/04/20/self-referential):
+This might be the next step in googling. Rich, it also might solve [your problem <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/evjkt-07173):
 searching for 'ruby chemoinformatics' does **not** give a 'Depth First' or 'Rich Apodaca' cluster :)

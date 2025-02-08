@@ -2,15 +2,17 @@
 layout: post
 title:  "JChemPaint too: PNG embedded connectivity tables"
 date:   2007-08-24
+modified_date: 2025-02-08
 doi: 10.59350/rxpr6-t1772
 blogger-link: https://chem-bla-ics.blogspot.com/2007/08/jchempaint-too-png-embedded.html
-tags: jchempaint cheminf inchikey:RWCCWEUUXYIKHB-UHFFFAOYSA-N
+tags: jchempaint cheminf inchikey:RWCCWEUUXYIKHB-UHFFFAOYSA-N justdoi:10.59350/j026p-17z02
+  justdoi:10.59350/wgy8j-brx45
 image: /assets/images/jcpPNGmolfile.png
 ---
 
-Rich blogged about Firefly [embedding MDL molfiles in PNG images](http://depth-first.com/articles/2007/08/01/never-draw-the-same-molecule-twice-image-metadata-for-cheminformatics),
-which I found [really](http://depth-first.com/articles/2007/08/08/never-draw-the-same-molecule-twice-viewing-image-metadata) cool.
-Rich and Noel later showed how that metadata [can be retrieved again](http://depth-first.com/articles/2007/08/08/never-draw-the-same-molecule-twice-viewing-image-metadata),
+Rich blogged about Firefly [embedding MDL molfiles in PNG images <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/j026p-17z02),
+which I found [really <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/wgy8j-brx45) cool.
+Rich and Noel later showed how that metadata [can be retrieved again <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/wgy8j-brx45),
 possibly [with Python](http://baoilleach.blogspot.com/2007/08/access-embedded-molecular-information.html).
 
 But I did not like that [Firefly](http://depth-first.com/articles/tag/firefly) could do this, and [JChemPaint](http://www.mdpi.org/molecules/html/50100093.htm) not.

@@ -3,7 +3,7 @@ layout: post
 title:  "Preprint servers: the CPS failed, how will Nature Precedings do?"
 date:   2007-06-09
 blogger-link: https://chem-bla-ics.blogspot.com/2007/06/preprint-servers-cps-failed-how-will.html
-tags: publishing justdoi:10.1021/ci025627a justdoi:10.1038/447614a nature
+tags: publishing justdoi:10.1021/ci025627a justdoi:10.1038/447614a nature connotea
 ---
 
 Some 7 years ago, following successes in physics, [ChemWeb.com](http://chemweb.com/)

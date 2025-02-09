@@ -4,7 +4,7 @@ title:  "KDE desktop search: Kat, Strigi and Tenor"
 date:   2006-06-17
 modified_date: 2024-12-29
 blogger-link: https://chem-bla-ics.blogspot.com/2006/06/kde-desktop-search-kat-strigi-and.html
-tags: kde strigi kalzium linux technorati
+tags: kde strigi kalzium linux technorati connotea
 doi: 10.59350/9n9m7-y4v29
 ---
 

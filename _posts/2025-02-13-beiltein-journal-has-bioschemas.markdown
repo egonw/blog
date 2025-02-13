@@ -2,6 +2,7 @@
 layout: post
 title:  "Beilstein journals contain Bioschemas"
 date:   2025-02-13
+modified_date: 2025-02-13
 doi: 10.59350/yyjnz-n5j48
 tags: bioschemas rdf chemistry cito:citesForInformation:10.59350/ne4rf-wey66 cito:citesForInformation:10.1186/s13321-021-00520-4
   cito:citesForInformation:10.1021/jm5002056 cito:usesDataFrom:10.3762/bjoc.21.21 cito:usesMethodIn:10.21105/joss.02558
@@ -22,7 +23,7 @@ and *FAIR chemical structures in the Journal of Cheminformatics* (2021) (doi:[10
 
 But this announcement is a new step. I like how validation of the chemical structures is part of the approach, and I like
 how they use the [Bioschemas](https://bioschemas.org/) extention of [schema.org](https://schema.org/). The last because
-they use two Bioschemas types/profiles that contributed to on or initiated, respectively: [MolecularEntity](https://bioschemas.org/profiles/MolecularEntity/0.5-RELEASE)
+they use two Bioschemas types/profiles that contributed to or initiated, respectively: [MolecularEntity](https://bioschemas.org/profiles/MolecularEntity/0.5-RELEASE)
 and [ChemicalSubstance](https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE).
 
 First stop for me is to check the schema.org annotation with a validation tool, like [Google's Rich Results Test](https://search.google.com/test/rich-results).

@@ -2,6 +2,8 @@
 layout: post
 title:  "The CDK data classes and change notifications"
 date:   2006-04-12
+modified_date: 2025-02-13
+doi: 10.59350/3xsm0-bt478
 blogger-link: https://chem-bla-ics.blogspot.com/2006/04/cdk-data-classes-and-change.html
 tags: cdk cheminf jchempaint
 ---

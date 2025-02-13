@@ -2,6 +2,8 @@
 layout: post
 title:  "USPTO considers open source software prior art"
 date:   2006-01-11
+modified_date: 2025-02-13
+doi: 10.59350/737fz-e9f47
 blogger-link: https://chem-bla-ics.blogspot.com/2006/01/uspto-considers-open-source-software.html
 tags: openscience
 ---

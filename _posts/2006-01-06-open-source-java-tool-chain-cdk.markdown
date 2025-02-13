@@ -2,6 +2,8 @@
 layout: post
 title:  "Open Source Java tool chain: CDK compiles and JUnit tests run"
 date:   2006-01-06
+modified_date: 2025-02-13
+doi: 10.59350/933ah-c7f36
 blogger-link: https://chem-bla-ics.blogspot.com/2006/01/open-source-java-tool-chain-cdk.html
 tags: cdk java
 ---

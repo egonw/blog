@@ -2,7 +2,8 @@
 layout: post
 title:  "New open access journal Source Code for Biology and Medicine"
 date:   2006-05-11
-modified_date: 2024-12-29
+modified_date: 2025-02-13
+doi: 10.59350/4hf7p-hxt14
 blogger-link: https://chem-bla-ics.blogspot.com/2006/05/new-open-access-journal-source-code.html
 tags: openscience bioinfo
 ---

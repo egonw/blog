@@ -2,6 +2,8 @@
 layout: post
 title:  "An test suite for free, open source JVMs"
 date:   2006-02-06
+modified_date: 2025-02-13
+doi: 10.59350/2ky91-4yz69
 blogger-link: https://chem-bla-ics.blogspot.com/2006/02/test-suite-for-free-open-source-jvms.html
 tags: linux java cdk jmol
 ---

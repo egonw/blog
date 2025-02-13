@@ -2,6 +2,8 @@
 layout: post
 title:  "How to make money from Open Source scientific software"
 date:   2006-03-18
+modified_date: 2025-02-13
+doi: 10.59350/2f962-tpe07
 blogger-link: https://chem-bla-ics.blogspot.com/2006/03/how-to-make-money-from-open-source.html
 tags: jmol openscience
 ---

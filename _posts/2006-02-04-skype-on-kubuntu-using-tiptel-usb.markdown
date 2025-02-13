@@ -2,6 +2,8 @@
 layout: post
 title:  "Skype on Kubuntu using a Tiptel USB telephone"
 date:   2006-02-04
+modified_date: 2025-02-13
+doi: 10.59350/61fm6-pey06
 blogger-link: https://chem-bla-ics.blogspot.com/2006/02/skype-on-kubuntu-using-tiptel-usb.html
 tags: linux
 ---

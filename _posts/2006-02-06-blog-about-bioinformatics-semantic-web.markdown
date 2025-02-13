@@ -2,6 +2,8 @@
 layout: post
 title:  "A blog about bioinformatics, semantic web, comics and social networks."
 date:   2006-02-06
+modified_date: 2025-02-13
+doi: 10.59350/2rv6n-k4s95
 blogger-link: https://chem-bla-ics.blogspot.com/2006/02/blog-about-bioinformatics-semantic-web.html
 tags:
 ---

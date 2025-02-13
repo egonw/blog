@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "An test suite for free, open source JVMs"
+title:  "A test suite for free, open source JVMs"
 date:   2006-02-06
 modified_date: 2025-02-13
 doi: 10.59350/2ky91-4yz69

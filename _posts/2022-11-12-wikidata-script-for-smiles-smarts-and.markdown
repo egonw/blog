@@ -2,6 +2,8 @@
 layout: post
 title:  "Wikidata script for SMILES, SMARTS, and CXSMILES depiction"
 date:   2022-11-12
+modified_date: 2025-02-15
+doi: 10.59350/e0h5f-7cg90
 blogger-link: https://chem-bla-ics.blogspot.com/2022/11/wikidata-script-for-smiles-smarts-and.html
 tags: wikidata cdk cxsmiles dagstuhl smiles vhp4safety
 ---

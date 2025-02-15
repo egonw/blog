@@ -2,6 +2,8 @@
 layout: post
 title:  "Also new this week: \"Google Dataset Search\""
 date:   2018-09-08
+modified_date: 2025-02-15
+doi: 10.59350/e05yz-mhy44
 blogger-link: https://chem-bla-ics.blogspot.com/2018/09/also-new-this-week-google-dataset-search.html
 tags: data google
 image: /assets/images/google_dataset_search2.png

@@ -2,6 +2,8 @@
 layout: post
 title:  "Bioclipse git experiences #2: Create patches for individual plugins/features"
 date:   2020-07-03
+modified_date: 2025-02-15
+doi: 10.59350/7ts20-k7s71
 blogger-link: https://chem-bla-ics.blogspot.com/2020/07/bioclipse-git-experiences-2-create.html
 tags: bioclipse git
 ---

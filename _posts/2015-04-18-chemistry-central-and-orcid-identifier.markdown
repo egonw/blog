@@ -2,6 +2,8 @@
 layout: post
 title:  "Chemistry Central and the ORCID identifier"
 date:   2015-04-18
+modified_date: 2025-02-15
+doi: 10.59350/2kt7t-91257
 blogger-link: https://chem-bla-ics.blogspot.com/2015/04/chemistry-central-and-orcid-identifier.html
 tags: orcid wikidata wikipedia
 image: /assets/images/orcidTshirt.png

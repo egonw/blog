@@ -2,6 +2,8 @@
 layout: post
 title:  "Join me in encouraging the ACS to join the Initiative for Open Citations"
 date:   2018-11-17
+modified_date: 2025-02-15
+doi: 10.59350/bsvz8-n7h68
 blogger-link: https://chem-bla-ics.blogspot.com/2018/11/join-me-in-encouraging-acs-to-join.html
 tags: acs i4oc publishing
 image: /assets/images/exploring.png

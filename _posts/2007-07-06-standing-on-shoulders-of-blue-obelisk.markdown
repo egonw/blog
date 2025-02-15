@@ -2,6 +2,8 @@
 layout: post
 title:  "Standing on the shoulders of ... the Blue Obelisk"
 date:   2007-07-06
+modified_date: 2025-02-15
+doi: 10.59350/xfcxw-qf593
 blogger-link: https://chem-bla-ics.blogspot.com/2007/07/standing-on-shoulders-of-blue-obelisk.html
 tags: blue-obelisk justdoi:10.1038/448006a doi:10.1021/ci050400b
 ---

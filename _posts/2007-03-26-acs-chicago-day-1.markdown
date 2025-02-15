@@ -2,6 +2,8 @@
 layout: post
 title:  "ACS Chicago - Day #1"
 date:   2007-03-26
+modified_date: 2025-02-15
+doi: 10.59350/pjej9-6ab48
 blogger-link: https://chem-bla-ics.blogspot.com/2007/03/acs-chicago-day-1.html
 tags: acs
 ---

@@ -2,6 +2,8 @@
 layout: post
 title:  "Chicago (Bulls), here I come!"
 date:   2007-03-22
+modified_date: 2025-02-15
+doi: 10.59350/240x4-a7y42
 blogger-link: https://chem-bla-ics.blogspot.com/2007/03/chicago-bulls-here-i-come.html
 tags: acs chemistry blue-obelisk
 ---

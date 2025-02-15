@@ -2,6 +2,8 @@
 layout: post
 title:  "Is your research cited by a Nobel prize winner?"
 date:   2022-10-08
+modified_date: 2025-02-15
+doi: 10.59350/29mez-a1s32
 blogger-link: https://chem-bla-ics.blogspot.com/2022/10/is-your-research-cited-by-nobel-prize.html
 tags: wikidata sparql
 ---

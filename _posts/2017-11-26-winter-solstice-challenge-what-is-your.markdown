@@ -2,6 +2,8 @@
 layout: post
 title:  "Winter solstice challenge: what is your Open Knowledge score?"
 date:   2017-11-26
+modified_date: 2025-02-15
+doi: 10.59350/kmvrd-h9e71
 blogger-link: https://chem-bla-ics.blogspot.com/2017/11/winter-solstice-challenge-what-is-your.html
 tags: solstice altmetrics opencitations
 image: /assets/images/Robert_Snache_-_Spirithands.net_-_Winter_Solstice_Lunar_Eclipse_Startrails_(by).jpg

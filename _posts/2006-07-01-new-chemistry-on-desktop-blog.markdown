@@ -2,6 +2,8 @@
 layout: post
 title:  "New chemistry-on-the-desktop blog"
 date:   2006-07-01
+modified_date: 2025-02-15
+doi: 10.59350/c8ttv-08d66
 blogger-link: https://chem-bla-ics.blogspot.com/2006/07/new-chemistry-on-desktop-blog.html
 tags: kde
 ---

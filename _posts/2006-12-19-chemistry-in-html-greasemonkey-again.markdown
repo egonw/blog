@@ -2,7 +2,8 @@
 layout: post
 title:  "Chemistry in HTML: Greasemonkey again"
 date:   2006-12-19
-modified_date: 2024-12-29
+modified_date: 2025-02-15
+doi: 10.59350/qwtr4-v2q49
 blogger-link: https://chem-bla-ics.blogspot.com/2006/12/chemistry-in-html-greasemonkey-again.html
 tags: userscript html rdf doi:10.1021/CI034244P
 ---

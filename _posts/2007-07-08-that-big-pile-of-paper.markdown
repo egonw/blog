@@ -2,8 +2,9 @@
 layout: post
 title:  "That big pile of paper..."
 date:   2007-07-08
+modified_date: 2025-02-15
+doi: 10.59350/k7q92-prm35
 blogger-link: https://chem-bla-ics.blogspot.com/2007/07/that-big-pile-of-paper.html
-tags:
 ---
 
 Everyone of use knows that big pile of paper on your desk that contains the things we want to read, scan or just

@@ -2,6 +2,8 @@
 layout: post
 title:  "ACS Chicago - Day #3"
 date:   2007-03-29 00:20:00
+modified_date: 2025-02-15
+doi: 10.59350/fmqmf-03x28
 blogger-link: https://chem-bla-ics.blogspot.com/2007/03/acs-chicago-day-3.html
 tags: acs
 ---

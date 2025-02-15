@@ -2,6 +2,8 @@
 layout: post
 title:  "Bioclipse git experiences #1: Strip away unwanted plugins"
 date: 2020-07-02
+modified_date: 2025-02-15
+doi: 10.59350/a75k0-fjg73
 blogger-link: https://chem-bla-ics.blogspot.com/2020/07/bioclipse-git-experiences-1-strip-away.html
 tags: bioclipse git
 ---

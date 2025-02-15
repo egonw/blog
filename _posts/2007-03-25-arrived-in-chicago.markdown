@@ -2,6 +2,8 @@
 layout: post
 title:  "Arrived in Chicago..."
 date:   2007-03-25
+modified_date: 2025-02-15
+doi: 10.59350/fx8a8-qnp55
 blogger-link: https://chem-bla-ics.blogspot.com/2007/03/arrived-in-chicago.html
 tags: acs
 image: /blog//assets/images/dsci0024.jpg

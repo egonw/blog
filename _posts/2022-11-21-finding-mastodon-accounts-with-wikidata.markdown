@@ -2,6 +2,8 @@
 layout: post
 title:  "Finding Mastodon accounts with Wikidata (a few SPARQL queries)"
 date:   2022-11-21
+modified_date: 2025-02-15
+doi: 10.59350/v08gc-ney75
 blogger-link: https://chem-bla-ics.blogspot.com/2022/11/finding-mastodon-accounts-with-wikidata.html
 tags: mastodon sparql wikidata rdf orcid
 image: /assets/images/Screenshot_20221121_075015.png

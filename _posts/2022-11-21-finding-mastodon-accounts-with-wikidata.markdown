@@ -25,5 +25,5 @@ So, here are some [Wikidata SPARQL](https://query.wikidata.org/) queries to see 
 * [People with Mastodon that published in a PLOS journal](https://w.wiki/5$4a) (you can pick another publisher)
 * [Find your co-authors with your ORCID](https://w.wiki/5$4e) (just replace my ORCID with yours)
 
-If you find yourself missing, back in April I [tweeted](https://threadreaderapp.com/thread/1519193166188007424.html) (sorry)
+If you find yourself missing, back in April I [tweeted <i class="fa-solid fa-box-archive fa-xs"></i>](https://web.archive.org/web/20220428130716/https://threadreaderapp.com/thread/1519193166188007424.html) (sorry)
 how you can find yourself and others in Wikidata and how to add your or their Mastodon account.

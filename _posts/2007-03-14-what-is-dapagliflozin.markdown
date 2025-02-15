@@ -2,6 +2,8 @@
 layout: post
 title:  "What is dapagliflozin?"
 date:   2007-03-14
+modified_date: 2025-02-15
+doi: 10.59350/3et2a-pkv75
 blogger-link: https://chem-bla-ics.blogspot.com/2007/03/what-is-dapagliflozin.html
 tags: inchikey:JVHXJTBJCFBINQ-ADAARDCZSA-N
 ---

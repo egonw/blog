@@ -2,6 +2,8 @@
 layout: post
 title:  "CDK 1.0: a milestone after 7 year of development"
 date:   2007-04-23
+modified_date: 2025-02-15
+doi: 10.59350/qd21w-71g30
 blogger-link: https://chem-bla-ics.blogspot.com/2007/04/cdk-10-milestone-after-7-year-of.html
 tags: cdk cheminf junit
 ---

@@ -2,6 +2,8 @@
 layout: post
 title:  "CDK Workshop - Days #3 and #4"
 date:   2007-02-03
+modified_date: 2025-02-15
+doi: 10.59350/kvq10-snm07
 blogger-link: https://chem-bla-ics.blogspot.com/2007/02/cdk-workshop-days-3-and-4.html
 tags: cdk smiles
 ---

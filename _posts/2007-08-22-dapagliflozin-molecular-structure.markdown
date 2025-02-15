@@ -5,7 +5,7 @@ date:   2007-08-22 00:10
 modified_date: 2025-02-15
 doi: 10.59350/ve3jf-qk712
 blogger-link: https://chem-bla-ics.blogspot.com/2007/08/dapagliflozin-molecular-structure.html
-tags: inchikey:JVHXJTBJCFBINQ-ADAARDCZSA-N
+tags: inchikey:JVHXJTBJCFBINQ-ADAARDCZSA-N cito:repliesTo:10.59350/3et2a-pkv75
 image: /blog/assets/images/dapagliflozin.png
 ---
 

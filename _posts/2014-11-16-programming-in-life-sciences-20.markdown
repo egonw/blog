@@ -2,6 +2,8 @@
 layout: post
 title:  "Programming in the Life Sciences #20: extracting data from JSON"
 date:   2014-11-16
+modified_date: 2025-02-15
+doi: 10.59350/szpy6-v8c44
 blogger-link: https://chem-bla-ics.blogspot.com/2014/11/programming-in-life-sciences-20.html
 tags: pra3006 inchikey:MUMGGOZAMZWBJJ-DYKIIFRCSA-N
 image: /assets/images/debug3.png

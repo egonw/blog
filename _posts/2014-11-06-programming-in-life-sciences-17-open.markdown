@@ -2,6 +2,8 @@
 layout: post
 title:  "Programming in the Life Sciences #17: The Open PHACTS scientific questions"
 date:   2014-11-06
+modified_date: 2025-02-15
+doi: 10.59350/x11tv-jc874
 blogger-link: https://chem-bla-ics.blogspot.com/2014/11/programming-in-life-sciences-17-open.html
 tags: pra3006 justdoi:10.1016/j.drudis.2013.05.008
 image: /assets/images/opsSciencyQs.jpg

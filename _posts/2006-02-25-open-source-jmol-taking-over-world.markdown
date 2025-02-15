@@ -2,6 +2,8 @@
 layout: post
 title:  "Open source Jmol taking over the world"
 date:   2006-02-25
+modified_date: 2025-02-15
+doi: 10.59350/qft6n-ctj44
 blogger-link: https://chem-bla-ics.blogspot.com/2006/02/open-source-jmol-taking-over-world.html
 tags: jmol justdoi:10.1038/nsmb0206-93 justdoi:10.1038/nsmb1054
 ---

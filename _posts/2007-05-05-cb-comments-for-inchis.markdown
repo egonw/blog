@@ -2,6 +2,8 @@
 layout: post
 title:  "Cb comments for InChI's"
 date:   2007-05-05
+modified_date: 2025-02-15
+doi: 10.59350/z1vb6-w9v12
 blogger-link: https://chem-bla-ics.blogspot.com/2007/05/cb-comments-for-inchis.html
 tags: cb inchi userscript rdf
 image: /assets/images/cb_inchi_greasemonkey1.png

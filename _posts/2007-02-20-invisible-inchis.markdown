@@ -2,7 +2,8 @@
 layout: post
 title:  "Invisible InChI's"
 date:   2007-02-20
-modified_date: 2007-02-20
+modified_date: 2025-02-15
+doi: 10.59350/ezjxg-p8m13
 blogger-link: https://chem-bla-ics.blogspot.com/2007/02/invisible-inchis.html
 tags: inchi html
 ---

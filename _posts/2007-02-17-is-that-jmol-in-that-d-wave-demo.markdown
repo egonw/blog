@@ -2,6 +2,8 @@
 layout: post
 title:  "Is that Jmol in that D-Wave demo?"
 date:   2007-02-17
+modified_date: 2025-02-15
+doi: 10.59350/5w2j5-jfr13
 blogger-link: https://chem-bla-ics.blogspot.com/2007/02/is-that-jmol-in-that-d-wave-demo.html
 tags: jmol quantum
 image: /assets/images/dwaveDemo.png

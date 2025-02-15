@@ -2,6 +2,8 @@
 layout: post
 title:  "Nature Network v2: cannot create a new group"
 date:   2007-02-23
+modified_date: 2025-02-15
+doi: 10.59350/7dazs-avy60
 blogger-link: https://chem-bla-ics.blogspot.com/2007/02/nature-network-v2-cannot-create-new.html
 tags: nature connotea
 ---

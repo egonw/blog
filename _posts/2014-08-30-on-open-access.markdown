@@ -2,6 +2,8 @@
 layout: post
 title:  "On Open Access in The Netherlands"
 date:   2014-08-30
+modified_date: 2025-02-15
+doi: 10.59350/3r6kd-ev543
 blogger-link: https://chem-bla-ics.blogspot.com/2014/08/on-open-access.html
 tags: openaccess openscience
 image: /assets/images/vsnu.png

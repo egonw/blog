@@ -2,6 +2,8 @@
 layout: post
 title:  "Writing up my PhD introduction chapter..."
 date:   2007-02-04
+modified_date: 2025-02-15
+doi: 10.59350/k9nar-6wt60
 blogger-link: https://chem-bla-ics.blogspot.com/2007/02/writing-up-my-phd-introduction-chapter.html
 tags:
 image: /assets/images/rodeDraad.png

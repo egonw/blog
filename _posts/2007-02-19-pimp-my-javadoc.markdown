@@ -2,6 +2,8 @@
 layout: post
 title:  "Pimp my JavaDoc"
 date:   2007-02-19
+modified_date: 2025-02-15
+doi: 10.59350/bpnj5-40e86
 blogger-link: https://chem-bla-ics.blogspot.com/2007/02/pimp-my-javadoc.html
 tags: cdk javadoc literature
 image: /assets/images/pimpedJavaDoc.png

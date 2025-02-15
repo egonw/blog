@@ -2,6 +2,8 @@
 layout: post
 title:  "Programming in the Life Sciences #19: debugging"
 date:   2014-11-16
+modified_date: 2025-02-15
+doi: 10.59350/m3gc1-3mv56
 blogger-link: https://chem-bla-ics.blogspot.com/2014/11/programming-in-life-sciences-19.html
 tags: pra3006
 image: /assets/images/debug2.png

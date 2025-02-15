@@ -2,7 +2,8 @@
 layout: post
 title:  "Looking for a PhD and a Postdoc to work on Open Science Nanosafety"
 date:   2013-11-08
-modified_date: 2024-06-01
+modified_date: 2025-02-15
+doi: 10.59350/s6am1-1sa79
 blogger-link: https://chem-bla-ics.blogspot.com/2013/11/looking-for-phd-and-postdoc-to-work-on.html
 tags: nanosafety enanomapper opentox ontology
 image: /assets/images/vac1.png

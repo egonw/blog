@@ -2,6 +2,8 @@
 layout: post
 title:  "OSMB2007 Day #1: venture capital, scientific blogger and Kepler"
 date:   2007-01-24
+modified_date: 2025-02-15
+doi: 10.59350/ccz4k-vge50
 blogger-link: https://chem-bla-ics.blogspot.com/2007/01/osmb2007-day-1-venture-capital.html
 tags: cdk acs cheminf
 ---

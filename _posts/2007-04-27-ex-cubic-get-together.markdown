@@ -2,6 +2,8 @@
 layout: post
 title:  "Ex-CUBIC get-together"
 date:   2007-04-27
+modified_date: 2025-02-15
+doi: 10.59350/vw63b-w5m79
 blogger-link: https://chem-bla-ics.blogspot.com/2007/04/ex-cubic-get-together.html
 tags: cheminf
 image: /assets/images/DSCI0173.JPG

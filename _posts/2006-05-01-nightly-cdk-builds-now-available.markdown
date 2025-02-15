@@ -2,7 +2,8 @@
 layout: post
 title:  "Nightly CDK builds now available"
 date:   2006-05-01
-modified_date: 2024-06-12
+modified_date: 2025-02-15
+doi: 10.59350/s63wt-hbx56
 blogger-link: https://chem-bla-ics.blogspot.com/2006/05/nightly-cdk-builds-now-available.html
 tags: cdk junit pmd opensource
 doi: 10.59350/s63wt-hbx56

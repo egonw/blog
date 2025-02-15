@@ -2,6 +2,8 @@
 layout: post
 title:  "Bioclipse now allows QSAR descriptor selection"
 date:   2007-04-24
+modified_date: 2025-02-15
+doi: 10.59350/hs2p8-r1c84
 blogger-link: https://chem-bla-ics.blogspot.com/2007/04/bioclipse-now-allows-qsar-descriptor.html
 tags:
 image: /assets/images/bioclipseDescriptorSelection.png

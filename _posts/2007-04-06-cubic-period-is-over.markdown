@@ -2,6 +2,8 @@
 layout: post
 title:  "CUBIC period is over"
 date:   2007-04-06
+modified_date: 2025-02-15
+doi: 10.59350/z8a1a-5vh57
 blogger-link: https://chem-bla-ics.blogspot.com/2007/04/cubic-period-is-over.html
 tags: doi:10.1186/1471-2105-8-59 justdoi:10.1021/ci000407n bioclipse cml
 ---

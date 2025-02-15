@@ -2,6 +2,8 @@
 layout: post
 title:  "Archiving spectra: use InChI and CML"
 date:   2007-06-22
+modified_date: 2025-02-15
+doi: 10.59350/4n5zx-19r45
 blogger-link: https://chem-bla-ics.blogspot.com/2007/06/archiving-spectra-use-inchi-and-cml.html
 tags: cml inchi nmr
 ---

@@ -2,7 +2,8 @@
 layout: post
 title:  "Groovy Cheminformatics..."
 date:   2011-02-06
-modified_date: 2024-12-29
+modified_date: 2025-02-15
+doi: 10.59350/8my4k-rfz51
 blogger-link: https://chem-bla-ics.blogspot.com/2011/02/groovy-cheminformatics.html
 tags: cdk java cheminf cdkbook
 image: /assets/images/cdkBook.png

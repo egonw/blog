@@ -2,8 +2,10 @@
 layout: post
 title:  "re: ACS RSS feeds are messed up"
 date:   2007-09-21 00:10
+modified_date: 2025-02-15
+doi: 10.59350/bqg35-shz93
 blogger-link: https://chem-bla-ics.blogspot.com/2007/09/re-acs-rss-feeds-are-messed-up.html
-tags: acs rss
+tags: acs rss cito:repliesTo:10.59350/xtm6b-5gf91
 image: /blog/assets/images/acsRSSproblem.png
 ---
 

@@ -2,7 +2,8 @@
 layout: post
 title:  "OSRA: GPL-ed molecule drawing to SMILES convertor"
 date:   2007-07-20 00:10
-modified_date: 2025-01-02
+modified_date: 2025-02-15
+doi: 10.59350/arc2j-1ha32
 blogger-link: https://chem-bla-ics.blogspot.com/2007/07/osra-gpl-ed-molecule-drawing-to-smiles.html
 tags: cheminf openbabel
 image: /assets/images/osra.png

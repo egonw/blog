@@ -2,7 +2,8 @@
 layout: post
 title:  "Protein support in Bioclipse using Jmol and the CDK"
 date:   2006-04-23
-modified_date: 2024-12-29
+modified_date: 2025-02-15
+doi: 10.59350/23wn4-1nt07
 blogger-link: https://chem-bla-ics.blogspot.com/2006/04/protein-support-in-bioclipse-using.html
 tags: bioclipse jmol cdk
 image: /assets/images/cdkpdbsupport800.png

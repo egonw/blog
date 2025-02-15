@@ -2,6 +2,8 @@
 layout: post
 title:  "Payed summer jobs in chemoinformatics"
 date:   2007-06-16
+modified_date: 2025-02-15
+doi: 10.59350/yt9bg-zdp74
 blogger-link: https://chem-bla-ics.blogspot.com/2007/06/payed-summer-jobs-in-chemoinformatics.html
 tags: jmol bioclipse
 ---

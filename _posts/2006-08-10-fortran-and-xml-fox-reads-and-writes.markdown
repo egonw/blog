@@ -2,6 +2,8 @@
 layout: post
 title:  "Fortran and XML: FoX reads and writes CML"
 date:   2006-08-10
+modified_date: 2025-02-15
+doi: 10.59350/m201y-8xs64
 blogger-link: https://chem-bla-ics.blogspot.com/2006/08/fortran-and-xml-fox-reads-and-writes.html
 tags: cml
 ---

@@ -2,7 +2,8 @@
 layout: post
 title:  "Molecules in Wikipedia without InChIs"
 date:   2007-08-11
-modified_date: 2025-01-04
+modified_date: 2025-02-15
+doi: 10.59350/qkszs-g5j41
 blogger-link: https://chem-bla-ics.blogspot.com/2007/08/molecules-in-wikipedia-without-inchis.html
 tags: wikipedia inchi
 ---

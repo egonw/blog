@@ -2,6 +2,8 @@
 layout: post
 title:  "Chemical RDFa with Operator in the Firefox toolbar"
 date:   2007-06-27 00:10
+modified_date: 2025-02-15
+doi: 10.59350/8hkrb-cb907
 blogger-link: https://chem-bla-ics.blogspot.com/2007/06/chemical-rdfa-with-operator-in-firefox.html
 tags: pubchem rdf userscript inchi
 image: /assets/images/pubchemRDFa.png

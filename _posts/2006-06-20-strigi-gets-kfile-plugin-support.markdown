@@ -2,7 +2,8 @@
 layout: post
 title:  "Strigi gets kfile plugin support"
 date:   2006-06-20
-modified_date: 2024-12-29
+modified_date: 2025-02-15
+doi: 10.59350/6gyk7-hsk38
 blogger-link: https://chem-bla-ics.blogspot.com/2006/06/strigi-gets-kfile-plugin-support.html
 tags: strigi kde
 ---

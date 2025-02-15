@@ -2,7 +2,8 @@
 layout: post
 title:  "A Blue Obelisk corner in Chemical Blogspace"
 date:   2007-06-05
-modified_date: 2007-06-06
+modified_date: 2025-02-15
+doi: 10.59350/z2dqj-ejb68
 blogger-link: https://chem-bla-ics.blogspot.com/2007/06/blue-obelisk-corner-in-chemical.html
 tags: cb blue-obelisk
 image: /assets/images/cbbo.png

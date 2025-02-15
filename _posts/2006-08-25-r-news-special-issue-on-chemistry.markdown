@@ -2,6 +2,8 @@
 layout: post
 title:  "R News special issue on chemistry"
 date:   2006-08-25
+modified_date: 2025-02-15
+doi: 10.59350/e8r2m-ja015
 blogger-link: https://chem-bla-ics.blogspot.com/2006/08/r-news-special-issue-on-chemistry.html
 tags: rstats chemistry
 ---

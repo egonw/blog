@@ -2,6 +2,8 @@
 layout: post
 title:  "SWT View with the new JChemPaint"
 date:   2007-09-20
+modified_date: 2025-02-15
+doi: 10.59350/cwqb0-3yj62
 blogger-link: https://chem-bla-ics.blogspot.com/2007/09/swt-view-with-new-jchempaint.html
 tags: bioclipse jchempaint
 image: /blog/assets/images/swtJCP.png

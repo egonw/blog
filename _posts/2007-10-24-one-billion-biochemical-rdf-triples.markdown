@@ -2,6 +2,8 @@
 layout: post
 title:  "One Billion Biochemical RDF Triples!"
 date:   2007-10-24
+modified_date: 2025-02-15
+doi: 10.59350/t5hwa-4eg16
 blogger-link: https://chem-bla-ics.blogspot.com/2007/10/one-billion-biochemical-rdf-triples.html
 tags: uniprot rdf
 ---

@@ -2,8 +2,10 @@
 layout: post
 title:  "Programming in the Life Sciences #11: HTML"
 date:   2013-10-30
+modified_date: 2025-02-15
+doi: 10.59350/tqs3s-x7289
 blogger-link: https://chem-bla-ics.blogspot.com/2013/10/programming-in-life-sciences-11-html.html
-tags: pra3006
+tags: pra3006 html
 ---
 
 [HTML](https://en.wikipedia.org/wiki/HTML) (HyperText Markup Language), the language of the web,

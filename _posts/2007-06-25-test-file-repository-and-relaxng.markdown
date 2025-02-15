@@ -2,6 +2,8 @@
 layout: post
 title:  "Test File Repository and RelaxNG"
 date:   2007-06-25
+modified_date: 2025-02-15
+doi: 10.59350/a1np2-c3x03
 blogger-link: https://chem-bla-ics.blogspot.com/2007/06/test-file-repository-and-relaxng.html
 tags: blue-obelisk openscience
 ---

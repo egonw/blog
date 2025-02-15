@@ -2,6 +2,8 @@
 layout: post
 title:  "NXClient on Ubuntu Gutsy"
 date:   2007-08-28
+modified_date: 2025-02-15
+doi: 10.59350/ppk0b-r0607
 blogger-link: https://chem-bla-ics.blogspot.com/2007/08/nxclient-on-ubuntu-gutsy.html
 tags: linux kde
 ---

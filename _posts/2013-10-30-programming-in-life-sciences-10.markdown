@@ -2,8 +2,10 @@
 layout: post
 title:  "Programming in the Life Sciences #10: JavaScript Object Notation (JSON)"
 date:   2013-10-30
+modified_date: 2025-02-15
+doi: 10.59350/xdnrb-rrc91
 blogger-link: https://chem-bla-ics.blogspot.com/2013/10/programming-in-life-sciences-10.html
-tags: pra3006
+tags: pra3006 json
 ---
 
 As said, [JSON](https://en.wikipedia.org/wiki/JSON) is the format we will use as serialization format

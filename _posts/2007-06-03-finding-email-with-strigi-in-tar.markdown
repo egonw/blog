@@ -2,6 +2,8 @@
 layout: post
 title:  "Finding email with Strigi in .tar backups"
 date:   2007-06-03
+modified_date: 2025-02-15
+doi: 10.59350/t125s-b8827
 blogger-link: https://chem-bla-ics.blogspot.com/2007/06/finding-email-with-strigi-in-tar.html
 tags: kde
 ---

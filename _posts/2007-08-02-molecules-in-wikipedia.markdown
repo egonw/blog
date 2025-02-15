@@ -2,7 +2,8 @@
 layout: post
 title:  "Molecules in Wikipedia"
 date:   2007-08-02
-modified_date: 2025-01-03
+modified_date: 2025-02-15
+doi: 10.59350/jv7te-h3w77
 blogger-link: https://chem-bla-ics.blogspot.com/2007/08/molecules-in-wikipedia.html
 tags: chemistry wikipedia rdf inchi
 ---

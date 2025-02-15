@@ -2,6 +2,8 @@
 layout: post
 title:  "Inter- and Extrapolation: the NMR shift prediction debate"
 date:   2007-07-13
+modified_date: 2025-02-15
+doi: 10.59350/tbd0q-67564
 blogger-link: https://chem-bla-ics.blogspot.com/2007/07/inter-and-extrapolation-nmr-shift.html
 tags: nmr
 ---

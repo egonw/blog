@@ -2,6 +2,8 @@
 layout: post
 title:  "Weka Decision Trees to Java Conversion"
 date:   2007-05-30 00:10
+modified_date: 2025-02-15
+doi: 10.59350/bnwdb-pa057
 blogger-link: https://chem-bla-ics.blogspot.com/2007/05/weka-decision-trees-to-java-conversion.html
 tags: java cheminf cdk
 ---

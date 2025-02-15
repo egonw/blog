@@ -2,6 +2,8 @@
 layout: post
 title:  "Bioclipse and SPARQL end points #2: MyExperiment"
 date:   2009-08-21
+modified_date: 2025-02-15
+doi: 10.59350/qyshc-pn870
 blogger-link: https://chem-bla-ics.blogspot.com/2009/08/bioclipse-and-sparql-end-points-2.html
 tags: bioclipse rdf foaf myexperiment rdf sparql
 image: /assets/images/myExp890.png

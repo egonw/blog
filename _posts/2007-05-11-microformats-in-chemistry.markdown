@@ -2,6 +2,8 @@
 layout: post
 title:  "Microformats in chemistry..."
 date:   2007-05-11 00:00
+modified_date: 2025-02-15
+doi: 10.59350/rt0kd-kdw56
 blogger-link: https://chem-bla-ics.blogspot.com/2007/05/microformats-in-chemistry.html
 tags: rdf microformat chemistry
 ---

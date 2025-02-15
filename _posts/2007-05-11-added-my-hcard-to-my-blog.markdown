@@ -2,6 +2,8 @@
 layout: post
 title:  "Added my hCard to my blog"
 date:   2007-05-11 00:10
+modified_date: 2025-02-15
+doi: 10.59350/d3fty-h1t71
 blogger-link: https://chem-bla-ics.blogspot.com/2007/05/added-my-hcard-to-my-blog.html
 tags: microformat blog
 image: /blog//assets/images/hCard1.png

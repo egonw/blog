@@ -2,7 +2,8 @@
 layout: post
 title:  "Groovy Cheminformatics 4th edition"
 date:   2012-01-15
-modified_date: 2024-12-29
+modified_date: 2025-02-15
+doi: 10.59350/yve3j-c9015
 blogger-link: https://chem-bla-ics.blogspot.com/2012/01/groovy-cheminformatics-4th-edition.html
 tags: cdk cdkbook java cheminf
 ---

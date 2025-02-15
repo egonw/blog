@@ -2,6 +2,8 @@
 layout: post
 title:  "SMILES to become an Open Standard"
 date:   2007-09-28
+modified_date: 2025-02-15
+doi: 10.59350/8c47c-8dq17
 blogger-link: https://chem-bla-ics.blogspot.com/2007/09/smiles-to-become-open-standard.html
 tags: smiles blue-obelisk
 ---

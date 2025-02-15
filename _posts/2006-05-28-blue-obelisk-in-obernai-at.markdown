@@ -2,7 +2,8 @@
 layout: post
 title:  "Blue Obelisk in Obernai at Chemoinformatics in Europe"
 date:   2006-05-28
-modified_date: 2024-12-29
+modified_date: 2025-02-15
+doi: 10.59350/y3kng-8yq60
 blogger-link: https://chem-bla-ics.blogspot.com/2006/05/blue-obelisk-in-obernai-at.html
 tags: cdk bioclipse cheminf bioinfo
 ---

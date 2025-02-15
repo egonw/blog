@@ -2,6 +2,8 @@
 layout: post
 title:  "Janocchio: Jmol and CDK based 1H coupling constant prediction"
 date:   2007-06-10
+modified_date: 2025-02-15
+doi: 10.59350/rxzh8-9yr48
 blogger-link: https://chem-bla-ics.blogspot.com/2007/06/janocchio-jmol-and-cdk-based-1h.html
 tags: jmol cdk nmr justdoi:10.1002/mrc.2016
 ---

@@ -2,6 +2,8 @@
 layout: post
 title:  "Programming in the Life Sciences #3: the assessment"
 date:   2013-10-09
+modified_date: 2025-02-15
+doi: 10.59350/yvptc-3vm13
 blogger-link: https://chem-bla-ics.blogspot.com/2013/10/programming-in-life-sciences-3.html
 tags: pra3006
 ---

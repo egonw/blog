@@ -2,6 +2,8 @@
 layout: post
 title:  "A new job: post-doc at the WUR on MS based structure elucidation"
 date:   2007-06-19 00:20
+modified_date: 2025-02-15
+doi: 10.59350/yeg40-ebt62
 blogger-link: https://chem-bla-ics.blogspot.com/2007/06/new-job-post-doc-at-wur-on-ms-based.html
 ---
 

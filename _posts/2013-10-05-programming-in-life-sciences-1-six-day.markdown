@@ -2,6 +2,8 @@
 layout: post
 title:  "Programming in the Life Sciences #1: a six day course"
 date:   2013-10-05
+modified_date: 2025-02-15
+doi: 10.59350/shsz6-67p30
 blogger-link: https://chem-bla-ics.blogspot.com/2013/10/programming-in-life-sciences-1-six-day.html
 tags: pra3006 javascript openphacts
 ---

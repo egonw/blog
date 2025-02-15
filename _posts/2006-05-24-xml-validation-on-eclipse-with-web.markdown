@@ -2,6 +2,8 @@
 layout: post
 title:  "XML validation on Eclipse with Web Tools Platform"
 date:   2006-05-24
+modified_date: 2025-02-15
+doi: 10.59350/59vwx-e6a02
 blogger-link: https://chem-bla-ics.blogspot.com/2006/05/xml-validation-on-eclipse-with-web.html
 tags: xml bioclipse cml
 ---

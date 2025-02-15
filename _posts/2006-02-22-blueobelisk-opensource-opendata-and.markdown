@@ -2,6 +2,8 @@
 layout: post
 title:  "BlueObelisk: OpenSource, OpenData and OpenStandards"
 date:   2006-02-22
+modified_date: 2025-02-15
+doi: 10.59350/nt2z0-80x71
 blogger-link: https://chem-bla-ics.blogspot.com/2006/02/blueobelisk-opensource-opendata-and.html
 tags: blue-obelisk openscience doi:10.1021/CI050400B cdk cml bioclipse kde jmol
 ---

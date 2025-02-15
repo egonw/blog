@@ -2,8 +2,10 @@
 layout: post
 title:  "Using Wikipedia to recognize Molecules in Blogspace"
 date:   2007-06-19
+modified_date: 2025-02-15
+doi: 10.59350/c0pvq-c1988
 blogger-link: https://chem-bla-ics.blogspot.com/2007/06/using-wikipedia-to-recognize-molecules.html
-tags:
+tags: wikipedia inchi
 ---
 
 Only few people are [using InChI's to indicate the molecules the blog about](http://chem-bla-ics.blogspot.com/2006/12/including-smiles-cml-and-inchi-in.html)

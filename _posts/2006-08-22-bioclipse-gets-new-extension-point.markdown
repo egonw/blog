@@ -2,7 +2,8 @@
 layout: post
 title:  "Bioclipse gets a new extension point"
 date:   2006-08-22
-modified_date: 2024-12-29
+modified_date: 2025-02-15
+doi: 10.59350/x2d47-s7776
 blogger-link: https://chem-bla-ics.blogspot.com/2006/08/bioclipse-gets-new-extension-point.html
 tags: bioclipse feeds cml
 ---

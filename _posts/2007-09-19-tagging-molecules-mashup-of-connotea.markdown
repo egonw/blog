@@ -2,7 +2,8 @@
 layout: post
 title:  "Tagging Molecules: a mashup of Connotea and RDF"
 date:   2007-09-19
-modified_date: 2025-02-08
+modified_date: 2025-02-15
+doi: 10.59350/dvdc0-ps191
 blogger-link: https://chem-bla-ics.blogspot.com/2007/09/tagging-molecules-mashup-of-connotea.html
 tags: rdf connotea inchi justdoi:10.1107/S0108768104028344
 ---

@@ -2,7 +2,8 @@
 layout: post
 title:  "The JCIM is linking to Planet Blue Obelisk??"
 date:   2007-05-29
-modified_date: 2007-06-08
+modified_date: 2025-02-15
+doi: 10.59350/whq65-gdm56
 blogger-link: https://chem-bla-ics.blogspot.com/2007/05/jcim-is-linking-to-planet-blue-obelisk.html
 tags: blue-obelisk
 image: /assets/images/jcim-bo-link.png

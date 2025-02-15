@@ -2,6 +2,8 @@
 layout: post
 title:  "CML Explained"
 date:   2006-08-21
+modified_date: 2025-02-15
+doi: 10.59350/k7h76-cy148
 blogger-link: https://chem-bla-ics.blogspot.com/2006/08/cml-explained.html
 tags: cml
 ---

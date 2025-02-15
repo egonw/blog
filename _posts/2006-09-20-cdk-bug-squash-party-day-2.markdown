@@ -2,7 +2,8 @@
 layout: post
 title:  "CDK Bug Squash Party - Day 2"
 date:   2006-09-20
-modified_date: 2024-12-29
+modified_date: 2025-02-15
+doi: 10.59350/wzs4m-9ky43
 blogger-link: https://chem-bla-ics.blogspot.com/2006/09/cdk-bug-squash-party-day-2.html
 tags: cdk bsp conference
 ---

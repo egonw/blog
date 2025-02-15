@@ -2,6 +2,8 @@
 layout: post
 title:  "Google's view in history"
 date:   2007-09-24
+modified_date: 2025-02-15
+doi: 10.59350/48njk-xw931
 blogger-link: https://chem-bla-ics.blogspot.com/2007/09/googles-view-in-history.html
 tags: google cdk
 image: /blog/assets/images/googleTimeline.png

@@ -2,6 +2,8 @@
 layout: post
 title:  "Operator 0.8 released: a new Sechemtic user script"
 date:   2007-08-22
+modified_date: 2025-02-15
+doi: 10.59350/w3eex-30y69
 blogger-link: https://chem-bla-ics.blogspot.com/2007/08/operator-08-released-new-sechemtic-user.html
 tags: semweb chemistry
 image: /blog/assets/images/options1.png

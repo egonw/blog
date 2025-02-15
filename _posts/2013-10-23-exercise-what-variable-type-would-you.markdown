@@ -2,6 +2,8 @@
 layout: post
 title:  "Programming in the Life Sciences #7: theory"
 date:   2013-10-23
+modified_date: 2025-02-15
+doi: 10.59350/7yb0k-mwq04
 blogger-link: https://chem-bla-ics.blogspot.com/2013/10/exercise-what-variable-type-would-you.html
 tags: pra3006
 image: /assets/images/theorySlide.png

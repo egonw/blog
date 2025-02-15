@@ -2,6 +2,8 @@
 layout: post
 title:  "XCMS on Ubuntu Feisty"
 date:   2007-08-27
+modified_date: 2025-02-15
+doi: 10.59350/3j307-5v841
 blogger-link: https://chem-bla-ics.blogspot.com/2007/08/xcms-on-ubuntu-feisty.html
 tags: linux metabolomics
 ---

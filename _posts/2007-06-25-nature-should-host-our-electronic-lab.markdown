@@ -2,6 +2,8 @@
 layout: post
 title:  "Nature should host our Electronic Lab Notebooks"
 date:   2007-06-25
+modified_date: 2025-02-15
+doi: 10.59350/mbw05-t5888
 blogger-link: https://chem-bla-ics.blogspot.com/2007/06/nature-should-host-our-electronic-lab.html
 tags: nature eln openscience
 ---

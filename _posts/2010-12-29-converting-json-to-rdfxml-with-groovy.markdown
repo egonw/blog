@@ -2,6 +2,8 @@
 layout: post
 title:  "Converting JSON to RDF/XML with Groovy"
 date:   2010-12-29
+modified_date: 2025-02-15
+doi: 10.59350/2repm-7m232
 blogger-link: https://chem-bla-ics.blogspot.com/2010/12/converting-json-to-rdfxml-with-groovy.html
 tags: groovy chemistry rdf json
 ---

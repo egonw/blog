@@ -2,6 +2,8 @@
 layout: post
 title:  "Last Call for Open Laboratory 2007"
 date:   2007-11-14
+modified_date: 2025-02-15
+doi: 10.59350/krkta-dya88
 blogger-link: https://chem-bla-ics.blogspot.com/2007/11/last-call-for-open-laboratory-2007.html
 tags: openlab
 ---

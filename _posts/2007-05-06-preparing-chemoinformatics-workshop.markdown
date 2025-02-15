@@ -2,6 +2,8 @@
 layout: post
 title:  "Preparing a Chemoinformatics workshop"
 date:   2007-05-06
+modified_date: 2025-02-15
+doi: 10.59350/tsx3t-7tp17
 blogger-link: https://chem-bla-ics.blogspot.com/2007/05/preparing-chemoinformatics-workshop.html
 tags:
 ---

@@ -2,7 +2,8 @@
 layout: post
 title:  "My Open Laboratory 2007 submissions"
 date:   2007-12-04
-modified_date: 2025-02-08
+modified_date: 2025-02-15
+doi: 10.59350/btg4h-bg647
 blogger-link: https://chem-bla-ics.blogspot.com/2007/12/my-open-laboratory-2007-submissions.html
 tags: openlab justdoi:10.59350/rpn9h-qay37
 ---

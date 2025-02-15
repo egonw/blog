@@ -2,6 +2,8 @@
 layout: post
 title:  "new Atom(Elements.CARBON);"
 date:   2006-08-06
+modified_date: 2025-02-15
+doi: 10.59350/m0wwb-ty759
 blogger-link: https://chem-bla-ics.blogspot.com/2006/08/new-atomelementscarbon.html
 tags: cdk
 doi: 10.59350/m0wwb-ty759

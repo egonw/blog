@@ -2,6 +2,8 @@
 layout: post
 title:  "An R-based genetic algorithm"
 date:   2007-11-19
+modified_date: 2025-02-15
+doi: 10.59350/hfw6p-d6p02
 blogger-link: https://chem-bla-ics.blogspot.com/2007/11/r-based-genetic-algorithm.html
 tags: rstats chemometrics
 ---

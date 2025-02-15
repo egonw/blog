@@ -2,6 +2,8 @@
 layout: post
 title:  "CDK and the Java 6 beta"
 date:   2006-08-01
+modified_date: 2025-02-15
+doi: 10.59350/6az21-1dt76
 blogger-link: https://chem-bla-ics.blogspot.com/2006/08/cdk-and-java-6-beta.html
 tags: cdk java debian
 ---

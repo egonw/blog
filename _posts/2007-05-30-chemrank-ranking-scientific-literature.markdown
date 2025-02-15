@@ -2,6 +2,8 @@
 layout: post
 title:  "ChemRank: ranking scientific literature"
 date:   2007-05-30 00:20
+modified_date: 2025-02-15
+doi: 10.59350/6fa88-qpk80
 blogger-link: https://chem-bla-ics.blogspot.com/2007/05/chemrank-ranking-scientific-literature.html
 tags:
 ---

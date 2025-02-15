@@ -2,7 +2,8 @@
 layout: post
 title:  "Double-charging your readers: quite unacceptable indeed"
 date:   2007-09-07
-modified_date: 2025-01-26
+modified_date: 2025-02-15
+doi: 10.59350/5q96w-9e910
 blogger-link: https://chem-bla-ics.blogspot.com/2007/09/double-charging-your-readers-quite.html
 tags: openaccess publishing
 ---

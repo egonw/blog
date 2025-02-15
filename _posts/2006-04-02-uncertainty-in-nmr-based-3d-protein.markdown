@@ -2,6 +2,8 @@
 layout: post
 title:  "Uncertainty in NMR based 3D protein models"
 date:   2006-04-02
+modified_date: 2025-02-15
+doi: 10.59350/we1qn-tq260
 blogger-link: https://chem-bla-ics.blogspot.com/2006/04/uncertainty-in-nmr-based-3d-protein.html
 tags: pdb crystal pdb cif justdoi:10.1371/JOURNAL.PCBI.0020009
 ---

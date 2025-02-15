@@ -2,6 +2,8 @@
 layout: post
 title:  "The CDK data model #1"
 date:   2007-07-16 00:10
+modified_date: 2025-02-15
+doi: 10.59350/4xfms-7nn46
 blogger-link: https://chem-bla-ics.blogspot.com/2007/07/cdk-data-model-1.html
 tags: cdk cheminf
 ---

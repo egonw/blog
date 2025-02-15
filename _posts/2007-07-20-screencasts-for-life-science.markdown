@@ -2,7 +2,8 @@
 layout: post
 title:  "Screencasts for life science informatics"
 date:   2007-07-20
-modified_date: 2024-12-29
+modified_date: 2025-02-15
+doi: 10.59350/1wgmy-mfr06
 blogger-link: https://chem-bla-ics.blogspot.com/2007/07/screencasts-for-life-science.html
 tags: bioinfo
 ---

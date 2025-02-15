@@ -2,6 +2,8 @@
 layout: post
 title:  "Programming in the Life Sciences #5: converting the results into HTML"
 date:   2013-10-09
+modified_date: 2025-02-15
+doi: 10.59350/7yj2v-4sz07
 blogger-link: https://chem-bla-ics.blogspot.com/2013/10/programming-in-life-sciences-5.html
 tags: pra3006 html javascript
 image: /assets/images/mscpils1_output.png

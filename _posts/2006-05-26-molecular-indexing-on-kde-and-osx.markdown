@@ -2,7 +2,8 @@
 layout: post
 title:  "Molecular indexing on the KDE and OS/X desktops"
 date:   2006-05-26
-modified_date: 2024-12-29
+modified_date: 2025-02-15
+doi: 10.59350/51khs-pyh66
 blogger-link: https://chem-bla-ics.blogspot.com/2006/05/molecular-indexing-on-kde-and-osx.html
 tags: kde cheminf inchi
 ---

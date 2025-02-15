@@ -2,6 +2,8 @@
 layout: post
 title:  "BlueObelisk components in Japanese"
 date:   2006-08-03
+modified_date: 2025-02-15
+doi: 10.59350/k9w2j-xb784
 blogger-link: https://chem-bla-ics.blogspot.com/2006/08/blueobelisk-components-in-japanese.html
 tags: cdk joelib technorati
 ---

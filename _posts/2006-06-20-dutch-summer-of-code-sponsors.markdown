@@ -2,6 +2,8 @@
 layout: post
 title:  "Dutch Summer of Code sponsors a Bioclipse project"
 date:   2006-06-20
+modified_date: 2025-02-15
+doi: 10.59350/d22pr-jvr69
 blogger-link: https://chem-bla-ics.blogspot.com/2006/06/dutch-summer-of-code-sponsors.html
 tags: programmeerzomer bioclipse ghemical
 ---

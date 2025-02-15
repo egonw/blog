@@ -2,7 +2,8 @@
 layout: post
 title:  "CDK Bug Squash Party - Day 3 and 4"
 date:   2006-09-22
-modified_date: 2024-08-24
+modified_date: 2025-02-15
+doi: 10.59350/zwkym-aty79
 blogger-link: https://chem-bla-ics.blogspot.com/2006/09/cdk-bug-squash-party-day-3-and-4.html
 tags: cdk bsp java pdb conference
 image: /assets/images/flyerScreeny.png

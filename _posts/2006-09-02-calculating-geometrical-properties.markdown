@@ -2,7 +2,8 @@
 layout: post
 title:  "Calculating geometrical properties with the CDK"
 date:   2006-09-02
-modified_date: 2024-12-29
+modified_date: 2025-02-15
+doi: 10.59350/sy6r5-pzw09
 blogger-link: https://chem-bla-ics.blogspot.com/2006/09/calculating-geometrical-properties.html
 tags: cdk
 ---

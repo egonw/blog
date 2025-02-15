@@ -2,6 +2,8 @@
 layout: post
 title:  "BioJava 1.5 beta released"
 date:   2006-09-08
+modified_date: 2025-02-15
+doi: 10.59350/b3ggs-7vt20
 blogger-link: https://chem-bla-ics.blogspot.com/2006/09/biojava-15-beta-released.html
 tags: biology java biojava
 ---

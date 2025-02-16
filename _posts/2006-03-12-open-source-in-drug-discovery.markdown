@@ -2,6 +2,8 @@
 layout: post
 title:  "Open source in drug discovery"
 date:   2006-03-12
+modified_date: 2025-02-16
+doi: 10.59350/29xwa-ehq10
 blogger-link: https://chem-bla-ics.blogspot.com/2006/03/open-source-in-drug-discovery.html
 tags: drugdiscovery justdoi:10.1016/S1359-6446(05)03692-5 openscience
 ---

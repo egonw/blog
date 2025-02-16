@@ -2,7 +2,8 @@
 layout: post
 title:  "Code coverage: making sure your code is tested"
 date:   2006-11-28
-modified_date: 2024-08-24
+modified_date: 2025-02-16
+doi: 10.59350/gtt31-tee03
 blogger-link: https://chem-bla-ics.blogspot.com/2006/11/code-coverage-making-sure-your-code-is.html
 tags: opensource cdk
 image: /assets/images/emmaCoverage1.png

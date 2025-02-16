@@ -2,6 +2,8 @@
 layout: post
 title:  "Bioinformatics: Open Source or Open Access??"
 date:   2006-10-04
+modified_date: 2025-02-16
+doi: 10.59350/5wjg9-2e512
 blogger-link: https://chem-bla-ics.blogspot.com/2006/10/bioinformatics-open-source-or-open.html
 tags: opensource bioinfo
 ---

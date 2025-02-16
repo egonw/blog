@@ -2,7 +2,8 @@
 layout: post
 title:  "When is open source chemoinformatics successful?"
 date:   2006-11-07
-modified_date: 2024-08-16
+modified_date: 2025-02-16
+doi: 10.59350/1ygnr-aa173
 blogger-link: https://chem-bla-ics.blogspot.com/2006/11/when-is-open-source-chemoinformatics.html
 tags: cdk rasmol cheminf justdoi:10.1016/S0968-0004(00)89080-5 justdoi:10.1016/S0968-0004(00)01606-6
   doi:10.1021/CI025584Y doi:10.2174/138161206777585274
@@ -13,7 +14,7 @@ Open source chemoinformatics has become a common phenomenon, though many project
 source code is developed by only few developers, or even in a closed manner and released when considered
 done. Within open source software there is room for distinguishing a subset of open development
 chemoinformatics, that is, Bazar-like, instead of Cathedral-like (see
-[ESR famous writing](http://catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/)).
+[ESR's famous writing](http://catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/)).
 
 Measuring the importance of an open source project can be done by many measures, such as the number of people
 on the user and developers mailing lists, number of downloads, number of source lines of code

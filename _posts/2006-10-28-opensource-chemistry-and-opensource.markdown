@@ -2,6 +2,8 @@
 layout: post
 title:  "Opensource Chemistry and Opensource Chemoinformatics"
 date:   2006-10-28
+modified_date: 2025-02-16
+doi: 10.59350/vmj1w-f9732
 blogger-link: https://chem-bla-ics.blogspot.com/2006/10/opensource-chemistry-and-opensource.html
 tags: openscience opensource blue-obelisk chemistry cheminf justdoi:10.1021/ci0502698
 ---

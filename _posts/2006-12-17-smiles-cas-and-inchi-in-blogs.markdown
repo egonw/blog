@@ -2,7 +2,8 @@
 layout: post
 title:  "SMILES, CAS and InChI in blogs: Greasemonkey"
 date:   2006-12-17
-modified_date: 2024-12-29
+modified_date: 2025-02-16
+doi: 10.59350/ygxfh-xfs36
 blogger-link: https://chem-bla-ics.blogspot.com/2006/12/smiles-cas-and-inchi-in-blogs.html
 tags: chemistry userscript smiles pubchem inchi
 image: /assets/images/sechemticWebScript.png

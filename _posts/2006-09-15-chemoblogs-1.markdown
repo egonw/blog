@@ -2,7 +2,8 @@
 layout: post
 title:  "Chemo::Blogs #1"
 date:   2006-09-15
-modified_date: 2024-12-29
+modified_date: 2025-02-16
+doi: 10.59350/zagc3-qnj56
 blogger-link: https://chem-bla-ics.blogspot.com/2006/09/chemoblogs-1.html
 tags: justdoi:10.1093/NAR/GKL385 justdoi:10.1093/NAR/GKL320 taverna cdk justdoi:10.1093/BIB/BBL025
   justdoi:10.1021/CG060313R

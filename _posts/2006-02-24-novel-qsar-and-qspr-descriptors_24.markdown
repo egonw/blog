@@ -2,6 +2,8 @@
 layout: post
 title:  "Novel QSAR and QSPR descriptors?"
 date:   2006-02-24
+modified_date: 2025-02-16
+doi: 10.59350/tsanv-nyz36
 blogger-link: https://chem-bla-ics.blogspot.com/2006/02/novel-qsar-and-qspr-descriptors_24.html
 tags: qsar cheminf justdoi:10.1021/CI000116E justdoi:10.1021/CI000100O justdoi:10.1021/CI020345W
   justdoi:10.1021/CI049898S justdoi:10.1021/CI049643E

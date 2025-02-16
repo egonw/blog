@@ -2,6 +2,8 @@
 layout: post
 title:  "Small java applet for 2D structure drawing"
 date:   2006-08-18
+modified_date: 2025-02-16
+doi: 10.59350/269sm-8sn42
 blogger-link: https://chem-bla-ics.blogspot.com/2006/08/small-java-applet-for-2d-structure.html
 tags: java justdoi:10.3390/11040219
 ---

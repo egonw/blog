@@ -2,6 +2,8 @@
 layout: post
 title:  "Are chemogenomics and proteochemometrics the same?"
 date:   2006-10-11
+modified_date: 2025-02-16
+doi: 10.59350/a587x-jvp62
 blogger-link: https://chem-bla-ics.blogspot.com/2006/10/are-chemogenomics-and.html
 tags: cheminf bioinfo justdoi:10.1016/j.drudis.2006.08.013 justdoi:10.1016/s0304-4165(00)00187-2
 ---

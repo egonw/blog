@@ -2,7 +2,8 @@
 layout: post
 title:  "Chemical Blogspace updates"
 date:   2006-11-03
-modified_date: 2024-08-24
+modified_date: 2025-02-16
+doi: 10.59350/myymc-sr268
 blogger-link: https://chem-bla-ics.blogspot.com/2006/11/chemical-blogspace-updates.html
 tags: cb inchi
 ---

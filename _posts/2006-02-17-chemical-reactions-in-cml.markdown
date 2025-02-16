@@ -2,6 +2,8 @@
 layout: post
 title:  "Chemical reactions in CML"
 date:   2006-02-17
+modified_date: 2025-02-16
+doi: 10.59350/zm41a-h0037
 blogger-link: https://chem-bla-ics.blogspot.com/2006/02/chemical-reactions-in-cml.html
 tags: cdk cml bioinfo justdoi:10.1021/ci0502698 justdoi:10.1093/bioinformatics/bti693
 ---

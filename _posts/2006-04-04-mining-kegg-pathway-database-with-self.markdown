@@ -2,6 +2,8 @@
 layout: post
 title:  "Mining the KEGG pathway database with self-organizing maps"
 date:   2006-04-04
+modified_date: 2025-02-16
+doi: 10.59350/tzwfe-ww931
 blogger-link: https://chem-bla-ics.blogspot.com/2006/04/mining-kegg-pathway-database-with-self.html
 tags: kegg chemometrics justdoi:10.1002/ANIE.200503833 justdoi:10.1021/CI0502707
 ---

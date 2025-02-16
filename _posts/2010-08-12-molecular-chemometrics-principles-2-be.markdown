@@ -2,7 +2,8 @@
 layout: post
 title:  "The Molecular Chemometrics Principles #2: be clear in what you mean"
 date:   2010-08-12
-modified_date: 2024-05-18
+modified_date: 2025-02-16
+doi: 10.59350/dzqvt-ynv20
 blogger-link: https://chem-bla-ics.blogspot.com/2010/08/molecular-chemometrics-principles-2-be.html
 tags: mcprinciples chemometrics rdf cml semweb doi:10.1080/10408340600969601
 doi: 10.59350/dzqvt-ynv20

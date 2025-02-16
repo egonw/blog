@@ -2,7 +2,8 @@
 layout: post
 title:  "German Conference on Chemoinformatics 2006: Day 3"
 date:   2006-11-14
-modified_date: 2024-08-24
+modified_date: 2025-02-16
+doi: 10.59350/c3j5m-z1d76
 blogger-link: https://chem-bla-ics.blogspot.com/2006/11/german-conference-on-chemoinformatics_14.html
 tags: cheminf conference justdoi:10.1021/ci060139e semweb
 ---

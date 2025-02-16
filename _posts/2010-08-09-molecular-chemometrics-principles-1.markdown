@@ -2,7 +2,8 @@
 layout: post
 title:  "The Molecular Chemometrics Principles #1: access to data"
 date:   2010-08-09
-modified_date: 2024-05-18
+modified_date: 2025-02-16
+doi: 10.59350/srwf0-4gf52
 blogger-link: https://chem-bla-ics.blogspot.com/2010/08/molecular-chemometrics-principles-1.html
 tags: chemometrics mcprinciples doi:10.1080/10408340600969601
 doi: 10.59350/srwf0-4gf52

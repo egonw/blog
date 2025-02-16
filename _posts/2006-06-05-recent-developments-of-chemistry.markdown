@@ -2,7 +2,8 @@
 layout: post
 title:  "Recent Developments of the Chemistry Development Kit"
 date:   2006-06-05
-modified_date: 2024-12-29
+modified_date: 2025-02-16
+doi: 10.59350/wtyb0-h2328
 blogger-link: https://chem-bla-ics.blogspot.com/2006/06/recent-developments-of-chemistry.html
 tags: cdk cheminf qsar doi:10.2174/138161206777585274
 image: /assets/images/DescriptorOverview.png

@@ -2,6 +2,8 @@
 layout: post
 title:  "The Bioclipse Workshop is in progress"
 date:   2006-11-01
+modified_date: 2025-02-16
+doi: 10.59350/hhtcn-zah03
 blogger-link: https://chem-bla-ics.blogspot.com/2006/11/bioclipse-workshop-is-in-progress.html
 tags: bioclipse conference
 ---

@@ -2,6 +2,8 @@
 layout: post
 title:  "Molecular Chemometrics"
 date:   2006-12-12
+modified_date: 2025-02-16
+doi: 10.59350/frmbe-grb50
 blogger-link: https://chem-bla-ics.blogspot.com/2006/12/molecular-chemometrics.html
 tags: chemometrics cheminf doi:10.1080/10408340600969601
 ---

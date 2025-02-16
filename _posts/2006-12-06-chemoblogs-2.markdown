@@ -2,7 +2,8 @@
 layout: post
 title:  "Chemo::Blogs #2"
 date:   2006-12-06
-modified_date: 2024-12-29
+modified_date: 2025-02-16
+doi: 10.59350/gwy1n-1sc04
 blogger-link: https://chem-bla-ics.blogspot.com/2006/12/chemoblogs-2.html
 tags: blog rdf textmining cb justdoi:10.1371/journal.pcbi.0020121 justdoi:10.1186/1751-0473-1-1
   justdoi:10.1371/journal.pcbi.0020087

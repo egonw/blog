@@ -2,6 +2,8 @@
 layout: post
 title:  "Organic chemists can now tune properties without changing the molecular structure??"
 date:   2006-11-12
+modified_date: 2025-02-16
+doi: 10.59350/qgf4b-2p384
 blogger-link: https://chem-bla-ics.blogspot.com/2006/11/organic-chemists-can-now-tune.html
 tags: chemistry nature justdoi:10.1038/442500a
 ---

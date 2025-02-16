@@ -2,7 +2,8 @@
 layout: post
 title:  "Modern chemistry in the CDK: beyond the two-atom bond"
 date:   2006-12-30
-modified_date: 2025-02-08
+modified_date: 2025-02-16
+doi: 10.59350/h2ytc-6pt51
 blogger-link: https://chem-bla-ics.blogspot.com/2006/12/modern-chemistry-in-cdk-beyond-two.html
 tags: cheminf cdk justdoi:10.1021/ci00027a001 justdoi:10.1021/ci9704423
   justdoi:10.59350/pz3p6-fv247 justdoi:10.59350/xnt9b-80962 justdoi:10.59350/s1vtx-e9q82

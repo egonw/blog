@@ -2,6 +2,8 @@
 layout: post
 title:  "H-index in chemoinformatics"
 date:   2006-12-09
+modified_date: 2025-02-16
+doi: 10.59350/me9g4-sa136
 blogger-link: https://chem-bla-ics.blogspot.com/2006/12/h-index-in-chemoinformatics.html
 tags: cheminf
 ---

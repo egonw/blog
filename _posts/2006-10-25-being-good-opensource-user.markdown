@@ -2,6 +2,8 @@
 layout: post
 title:  "Being a good opensource user"
 date:   2006-10-25
+modified_date: 2025-02-16
+doi: 10.59350/ta3ms-e8480
 blogger-link: https://chem-bla-ics.blogspot.com/2006/10/being-good-opensource-user.html
 tags: openscience
 ---

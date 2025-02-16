@@ -2,7 +2,8 @@
 layout: post
 title:  "German Conference on Chemoinformatics 2006: Day 1 and 2"
 date:   2006-11-13
-modified_date: 2024-08-24
+modified_date: 2025-02-16
+doi: 10.59350/txr0z-6j242
 blogger-link: https://chem-bla-ics.blogspot.com/2006/11/german-conference-on-chemoinformatics.html
 tags: cheminf conference openscience bioclipse cdk taverna java
 ---

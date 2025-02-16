@@ -2,7 +2,8 @@
 layout: post
 title:  "Four graph mining methods integrated in ParMol"
 date:   2006-05-03
-modified_date: 2024-06-13
+modified_date: 2025-02-16
+doi: 10.59350/r4sw4-ehh35
 blogger-link: https://chem-bla-ics.blogspot.com/2006/05/four-graph-mining-methods-integrated.html
 tags: cheminf opensource
 doi: 10.59350/r4sw4-ehh35

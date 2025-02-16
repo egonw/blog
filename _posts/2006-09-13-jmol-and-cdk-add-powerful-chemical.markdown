@@ -2,6 +2,8 @@
 layout: post
 title:  "\"Jmol and the CDK add powerful chemical capabilities\", says Munos in Nature Reviews Drug Discovery"
 date:   2006-09-13
+modified_date: 2025-02-16
+doi: 10.59350/gh2mq-4qc75
 blogger-link: https://chem-bla-ics.blogspot.com/2006/09/jmol-and-cdk-add-powerful-chemical.html
 tags: drugdiscovery jmol cdk opensource justdoi:10.1038/nrd2131
 ---

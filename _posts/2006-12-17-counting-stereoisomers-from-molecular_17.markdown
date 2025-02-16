@@ -2,7 +2,8 @@
 layout: post
 title:  "Counting constitutional isomers from the molecular formula"
 date:   2006-12-17
-modified_date: 2022-04-05
+modified_date: 2025-02-16
+doi: 10.59350/r9gwr-k2s81
 blogger-link: https://chem-bla-ics.blogspot.com/2006/12/counting-stereoisomers-from-molecular_17.html
 tags: cheminf cdk justdoi:10.1186/s13321-021-00529-9 justdoi:10.1186/s13321-022-00604-9
 ---

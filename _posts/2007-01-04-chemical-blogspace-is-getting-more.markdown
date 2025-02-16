@@ -2,7 +2,8 @@
 layout: post
 title:  "Chemical blogspace is getting more chemical"
 date:   2007-01-04
-modified_date: 2024-09-15
+modified_date: 2025-02-16
+doi: 10.59350/td7y5-2gb60
 blogger-link: https://chem-bla-ics.blogspot.com/2007/01/chemical-blogspace-is-getting-more.html
 tags: cb inchi pubchem inchikey:VNWKTOKETHGBQD-UHFFFAOYSA-N inchikey:QEDCHCLHHGGYBT-UHFFFAOYSA-N
   inchikey:ICOCIOWIVRUKMH-UHFFFAOYSA-N

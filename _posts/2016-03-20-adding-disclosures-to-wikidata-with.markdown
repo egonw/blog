@@ -2,7 +2,8 @@
 layout: post
 title:  "Adding disclosures to Wikidata with Bioclipse"
 date:   2016-03-20
-modified_date: 2024-11-02
+modified_date: 2025-02-16
+doi: 10.59350/k8jnz-7fb76
 blogger-link: https://chem-bla-ics.blogspot.com/2016/03/adding-disclosures-to-wikidata-with.html
 tags: acs bioclipse chembl inchi pubchem wikidata acssandiego doi:10.1186/1471-2105-8-59 doi:10.3897/RIO.1.E7573
 ---

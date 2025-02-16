@@ -2,6 +2,8 @@
 layout: post
 title:  "Adding chemical compounds to Wikidata"
 date:   2016-01-27
+modified_date: 2025-02-16
+doi: 10.59350/q5a38-51n24
 blogger-link: https://chem-bla-ics.blogspot.com/2016/01/adding-chemical-compound-to-wikidata.html
 tags: wikidata chemistry bioclipse justdoi:10.1128/AAC.01148-08
 ---

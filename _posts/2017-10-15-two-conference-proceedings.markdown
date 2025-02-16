@@ -2,7 +2,8 @@
 layout: post
 title:  "Two conference proceedings: nanopublications and Scholia"
 date:   2017-10-15
-modified_date: 2025-01-02
+modified_date: 2025-02-16
+doi: 10.59350/9skvt-80331
 blogger-link: https://chem-bla-ics.blogspot.com/2017/10/two-conference-proceedings.html
 tags: scholia nanopub doi:10.48550/ARXIV.1703.04222 doi:10.1007/978-3-319-68288-4_26
 image: /assets/images/Screenshot_20171015_131507.png

@@ -2,7 +2,8 @@
 layout: post
 title:  "Centralized or decentralized?"
 date:   2007-08-13
-modified_date: 2025-01-05
+modified_date: 2025-02-16
+doi: 10.59350/y11ff-5he48
 blogger-link: https://chem-bla-ics.blogspot.com/2007/08/centralized-or-decentralized.html
 tags: inchi semweb justdoi:10.1021/ci050378m
 ---

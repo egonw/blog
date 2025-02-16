@@ -2,6 +2,8 @@
 layout: post
 title:  "Open Source Meets Business 2007"
 date:   2007-01-22
+modified_date: 2025-02-16
+doi: 10.59350/ta3z2-pc970
 blogger-link: https://chem-bla-ics.blogspot.com/2007/01/open-source-meets-business-2007.html
 tags: cheminf opensource
 ---

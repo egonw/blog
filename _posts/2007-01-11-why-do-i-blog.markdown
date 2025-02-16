@@ -2,7 +2,8 @@
 layout: post
 title:  "Why do I blog?"
 date:   2007-01-11
-modified-date: 2024-09-29
+modified_date: 2025-02-16
+doi: 10.59350/ke8wz-vks94
 blogger-link: https://chem-bla-ics.blogspot.com/2007/01/why-do-i-blog.html
 tags: blog chemistry
 ---

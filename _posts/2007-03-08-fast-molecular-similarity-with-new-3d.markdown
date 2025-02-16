@@ -2,6 +2,8 @@
 layout: post
 title:  "Fast molecular similarity with a new 3D shape descriptor"
 date:   2007-03-08
+modified_date: 2025-02-16
+doi: 10.59350/swa1d-q3q68
 blogger-link: https://chem-bla-ics.blogspot.com/2007/03/fast-molecular-similarity-with-new-3d.html
 tags: justdoi:10.1098/rspa.2007.1823 justdoi:10.1039/b409813g
 ---

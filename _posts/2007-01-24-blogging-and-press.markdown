@@ -2,6 +2,8 @@
 layout: post
 title:  "Blogging and the Press"
 date:   2007-01-24
+modified_date: 2025-02-16
+doi: 10.59350/jsz01-vf544
 blogger-link: https://chem-bla-ics.blogspot.com/2007/01/blogging-and-press.html
 tags: acs blog
 ---

@@ -2,7 +2,8 @@
 layout: post
 title:  "Migrating pKa data from DrugMet to Wikidata"
 date:   2016-03-27
-modified_date: 2024-11-02
+modified_date: 2025-02-16
+doi: 10.59350/n403c-fb376
 blogger-link: https://chem-bla-ics.blogspot.com/2016/03/migrating-pka-data-from-drugmet-to.html
 tags: wikidata chemistry doi:10.3897/RIO.1.E7573 doi:10.1371/JOURNAL.PONE.0025513
   justdoi:10.1093/DATABASE/BAW015 justdoi:10.1021/ED050P510 justdoi:10.1021/JA01489A008

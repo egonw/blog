@@ -2,7 +2,8 @@
 layout: post
 title:  "Scientific Literature: searching, ranking, storage"
 date:   2007-06-08
-modified_date: 2025-02-08
+modified_date: 2025-02-16
+doi: 10.59350/8rxpp-1e755
 blogger-link: https://chem-bla-ics.blogspot.com/2007/06/scientific-literature-searching-ranking.html
 tags: citeulike publishing chemistry justdoi:10.59350/6zgf4-2wb06 connotea
 ---

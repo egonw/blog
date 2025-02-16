@@ -2,6 +2,8 @@
 layout: post
 title:  "Automatic Classification of thousands of Crystal Structures"
 date:   2007-08-24
+modified_date: 2025-02-16
+doi: 10.59350/4k6ht-k2z12
 blogger-link: https://chem-bla-ics.blogspot.com/2007/08/automatic-classification-of-thousands.html
 tags: crystal justdoi:10.1039/b704177b inchikey:UHOVQNZJYSORNB-UHFFFAOYSA-N inchikey:UFWIBTONFRDIAS-UHFFFAOYSA-N
   inchikey:MWPLVEDNUUSJAV-UHFFFAOYSA-N inchikey:YNPNZTXNASCQKK-UHFFFAOYSA-N inchikey:SLGBZMMZGDRARJ-UHFFFAOYSA-N

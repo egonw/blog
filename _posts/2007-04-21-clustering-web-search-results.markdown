@@ -2,7 +2,8 @@
 layout: post
 title:  "Clustering web search results"
 date:   2007-04-21
-modified_date: 2025-02-08
+modified_date: 2025-02-16
+doi: 10.59350/ytpss-fw666
 blogger-link: https://chem-bla-ics.blogspot.com/2007/04/clustering-web-search-results.html
 tags: google cheminf justdoi:10.59350/evjkt-07173
 image: /assets/images/clusty1.png

@@ -2,6 +2,8 @@
 layout: post
 title:  "Downloading all currently released BridgeDb identifier mapping databases"
 date:   2021-02-16
+modified_date: 2025-02-16
+doi: 10.59350/erxg2-sm862
 blogger-link: https://chem-bla-ics.blogspot.com/2021/02/downloading-all-currently-released.html
 tags: bridgedb json justdoi:10.1186/1471-2105-11-5 justdoi:10.1371/journal.pcbi.1004085
 image: /assets/images/bridgedbDownloadsImage.png

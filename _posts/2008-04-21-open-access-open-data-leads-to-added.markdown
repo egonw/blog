@@ -2,7 +2,8 @@
 layout: post
 title:  "Open Access / Open Data leads to added value"
 date:   2008-04-21
-modified_date: 2025-02-08
+modified_date: 2025-02-16
+doi: 10.59350/1h7ay-3kv21
 blogger-link: https://chem-bla-ics.blogspot.com/2008/04/open-access-open-data-leads-to-added.html
 tags: chempedia openscience chemspider rdf justdoi:10.59350/nef42-jrb26
 ---

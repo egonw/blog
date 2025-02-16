@@ -2,7 +2,8 @@
 layout: post
 title:  "The Open Science Notebook 10 years ago"
 date:   2007-07-16
-modified_date: 2025-02-08
+modified_date: 2025-02-16
+doi: 10.59350/m9z3j-c9093
 blogger-link: https://chem-bla-ics.blogspot.com/2007/07/open-science-notebook-10-years-ago.html
 tags: cdk openscience justdoi:10.1038/npre.2007.39.1 justdoi:10.59350/sk1yv-zxp51
 ---

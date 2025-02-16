@@ -2,7 +2,8 @@
 layout: post
 title:  "Creating nanopublications with Groovy"
 date:   2018-12-27
-modified-date: 2024-09-29
+modified_date: 2025-02-16
+doi: 10.59350/v3szx-3jk73
 blogger-link: https://chem-bla-ics.blogspot.com/2018/12/creating-nanopublications-with-groovy.html
 tags: nanopub wikidata groovy justdoi:10.1007/978-3-319-07443-6_27 justdoi:10.1002/JLAC.199619961005
 image: /assets/images/Screenshot_20181227_075006.png

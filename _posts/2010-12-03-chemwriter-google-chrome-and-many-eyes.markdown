@@ -2,7 +2,8 @@
 layout: post
 title:  "ChemWriter, Google Chrome, and Many Eyes in Open Source"
 date:   2010-12-03
-modified_date: 2025-02-08
+modified_date: 2025-02-16
+doi: 10.59350/w1acd-1d323
 blogger-link: https://chem-bla-ics.blogspot.com/2010/12/chemwriter-google-chrome-and-many-eyes.html
 tags: opensource justdoi:10.59350/x4j7q-m6h98
 ---

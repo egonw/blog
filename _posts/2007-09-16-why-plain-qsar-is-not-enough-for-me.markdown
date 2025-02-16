@@ -2,6 +2,8 @@
 layout: post
 title:  "Why plain QSAR is not enough for me..."
 date:   2007-09-16
+modified_date: 2025-02-16
+doi: 10.59350/s8dts-h8t13
 blogger-link: https://chem-bla-ics.blogspot.com/2007/09/why-plain-qsar-is-not-enough-for-me.html
 tags: qsar justdoi:10.1016/j.chembiol.2007.03.006
 ---

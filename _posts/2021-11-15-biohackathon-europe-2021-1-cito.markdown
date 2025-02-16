@@ -2,6 +2,8 @@
 layout: post
 title:  "BioHackathon Europe 2021 #1: CiTO annotations in BioHackrXiv"
 date:   2021-11-15
+modified_date: 2025-02-16
+doi: 10.59350/5z9yt-vy941
 blogger-link: https://chem-bla-ics.blogspot.com/2021/11/biohackathon-europe-2021-1-cito.html
 tags: cito biohackrxiv markdown pandoc biohackeu12 justdoi:10.7717/peerj-cs.112
 image: /assets/images/citoBioHackrXiv.png

@@ -2,6 +2,8 @@
 layout: post
 title:  "Blog planets: blogging about Debian, GNOME, Wikimedia, FSFE, and many more"
 date:   2023-08-04
+modified_date: 2025-02-16
+doi: 10.59350/nq3e0-09a54
 image: /assets/images/blog_planets.png
 blogger-link: https://chem-bla-ics.blogspot.com/2023/08/blog-planets-blogging-about-debian.html
 tags: rss wikidata cb doi:10.1186/1471-2105-8-487

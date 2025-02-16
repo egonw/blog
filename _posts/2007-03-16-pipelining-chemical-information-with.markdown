@@ -2,6 +2,8 @@
 layout: post
 title:  "Pipelining chemical information with Yahoo Pipes"
 date:   2007-03-16
+modified_date: 2025-02-16
+doi: 10.59350/7fs8y-v1g48
 blogger-link: https://chem-bla-ics.blogspot.com/2007/03/pipelining-chemical-information-with.html
 tags: rss chemistry publishing justdoi:10.1021/ci600305h
 ---

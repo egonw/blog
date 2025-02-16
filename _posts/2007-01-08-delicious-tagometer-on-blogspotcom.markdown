@@ -2,6 +2,8 @@
 layout: post
 title:  "The del.icio.us tagometer on Blogspot.com"
 date:   2007-01-08
+modified_date: 2025-02-16
+doi: 10.59350/ysd5e-04645
 blogger-link: https://chem-bla-ics.blogspot.com/2007/01/delicious-tagometer-on-blogspotcom.html
 tags: blog
 ---

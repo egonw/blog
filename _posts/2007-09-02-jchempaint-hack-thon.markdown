@@ -2,6 +2,8 @@
 layout: post
 title:  "A JChemPaint Hack-a-thon"
 date:   2007-09-02
+modified_date: 2025-02-16
+doi: 10.59350/xa92q-jv085
 blogger-link: https://chem-bla-ics.blogspot.com/2007/09/jchempaint-hack-thon.html
 tags: jchempaint doi:10.1021/CI025584Y
 ---

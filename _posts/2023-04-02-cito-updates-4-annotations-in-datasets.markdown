@@ -2,7 +2,8 @@
 layout: post
 title:  "CiTO updates #4: annotations in datasets"
 date:   2023-04-02
-modified_date: 2024-11-02
+modified_date: 2025-02-16
+doi: 10.59350/jakew-pe809
 blogger-link: https://chem-bla-ics.blogspot.com/2023/04/cito-updates-4-annotations-in-datasets.html
 tags: cito data scholia doi:10.1186/s13321-023-00683-2 justdoi:10.1186/s13321-023-00684-1 justdoi:10.1186/s13321-022-00656-x
   justdoi:10.1186/s13321-022-00673-w justdoi:10.1186/s13321-022-00677-6 doi:10.1186/s13321-023-00701-3

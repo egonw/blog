@@ -2,6 +2,8 @@
 layout: post
 title:  "s/Twitter/Mastodon/g"
 date:   2022-11-12
+modified_date: 2025-02-16
+doi: 10.59350/ejhaf-0k749
 blogger-link: https://chem-bla-ics.blogspot.com/2022/11/stwittermastodong.html
 tags: mastodon twitter justdoi:10.1038/d41586-022-03668-7
 image: /assets/images/Mastodon_logotype_(simple)_new_hue.svg.png

@@ -2,6 +2,8 @@
 layout: post
 title:  "Excel messes up your data analysis :)"
 date:   2007-08-01
+modified_date: 2025-02-16
+doi: 10.59350/81926-4bz44
 blogger-link: https://chem-bla-ics.blogspot.com/2007/08/excel-messes-up-your-data-analysis.html
 tags: bioinfo excel justdoi:10.1186/1471-2105-5-80
 ---

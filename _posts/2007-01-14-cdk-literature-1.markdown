@@ -2,6 +2,8 @@
 layout: post
 title:  "CDK Literature #1"
 date:   2007-01-14
+modified_date: 2025-02-16
+doi: 10.59350/g22fv-gtc07
 blogger-link: https://chem-bla-ics.blogspot.com/2007/01/cdk-literature-1.html
 tags: cdk justdoi:10.1093/bioinformatics/btl535 justdoi:10.1016/j.jmb.2006.09.041
 ---

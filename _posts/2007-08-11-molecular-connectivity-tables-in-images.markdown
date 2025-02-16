@@ -2,7 +2,8 @@
 layout: post
 title:  "Molecular Connectivity Tables in Images"
 date:   2007-08-11 00:10
-modified_date: 2025-01-04
+modified_date: 2025-02-16
+doi: 10.59350/se3te-3tf95
 blogger-link: https://chem-bla-ics.blogspot.com/2007/08/molecular-connectivity-tables-in-images.html
 tags: publishing chemistry inchi justdoi:10.59350/wgy8j-brx45
 ---

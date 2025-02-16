@@ -2,6 +2,8 @@
 layout: post
 title:  "Journal Rankings"
 date:   2023-07-06
+modified_date: 2025-02-16
+doi: 10.59350/6n69s-syc29
 blogger-link: https://chem-bla-ics.blogspot.com/2023/07/journal-rankings.html
 tags: publishing doi:10.1162/dint_r_00024
 ---

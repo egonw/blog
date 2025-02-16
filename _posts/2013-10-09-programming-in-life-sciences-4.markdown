@@ -2,6 +2,8 @@
 layout: post
 title:  "Programming in the Life Sciences #4: communication from within HTML"
 date:   2013-10-09
+modified_date: 2025-02-16
+doi: 10.59350/7ex09-4x603
 blogger-link: https://chem-bla-ics.blogspot.com/2013/10/programming-in-life-sciences-4.html
 tags: pra3006 javascript html openphacts doi:10.1186/1471-2105-8-487
 image: /assets/images/mcspils_jsonOutput.png

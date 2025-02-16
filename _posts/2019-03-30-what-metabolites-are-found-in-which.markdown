@@ -2,7 +2,8 @@
 layout: post
 title:  "What metabolites are found in which species? Nanopublications from Wikidata"
 date:   2019-03-30
-modified_date: 2024-11-03
+modified_date: 2025-02-16
+doi: 10.59350/c7db7-70j94
 blogger-link: https://chem-bla-ics.blogspot.com/2019/03/what-metabolites-are-found-in-which.html
 tags: nanopub cheminf wikidata doi:10.1109/ESCIENCE.2018.00024
 image: /assets/images/nanopubs.png

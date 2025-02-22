@@ -2,13 +2,14 @@
 layout: post
 title:  "Archiving and updating my blog"
 date:   2023-07-27
+modified_date: 2025-02-22
 image: /assets/images/new_blog.png
 blogger-link: https://chem-bla-ics.blogspot.com/2023/07/archiving-and-updating-my-blog.html
 tags: markdown wikipathways
 doi: 10.59350/nfqxs-qs982
 ---
 
-This blog is [almost 18 years old](https://chem-bla-ics.blogspot.com/2005/10/chem-bla-ics.html) now. I have long wanted
+This blog is [almost 18 years old](https://chem-bla-ics.linkedchemistry.info/2005/10/15/chem-bla-ics.html) now. I have long wanted
 to migrate it to a version control system and at the same time have more control over things. Markdown would be awesome.
 In the past year, I learned a lot about the power of [Jekyll](https://github.com/jekyll/minima) and needed to get more
 experienced with it to use it for more databases, like we now do for [WikiPathways](https://wikipathways.org/).

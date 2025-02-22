@@ -2,10 +2,11 @@
 layout: post
 title:  "Beilstein journals contain Bioschemas"
 date:   2025-02-13
-modified_date: 2025-02-13
+modified_date: 2025-02-22
 doi: 10.59350/yyjnz-n5j48
 tags: bioschemas rdf chemistry cito:citesForInformation:10.59350/ne4rf-wey66 cito:citesForInformation:10.1186/s13321-021-00520-4
   cito:citesForInformation:10.1021/jm5002056 cito:usesDataFrom:10.3762/bjoc.21.21 cito:usesMethodIn:10.21105/joss.02558
+  cito:citesForInformation:10.59350/40377-hz881
 image: /assets/images/bjoc_bioschemas.png
 ---
 
@@ -17,8 +18,9 @@ Two weeks ago, the [Beilstein Institute announced Bioschemas support in their jo
 The idea is far from new and has been around for two decades. But the [two Beilstein journals](https://scholia.toolforge.org/publisher/Q4881267)
 (both [diamond Open Access](https://en.wikipedia.org/wiki/Diamond_open_access)), actually integrated into their active publishing model.
 That has been trialed and put in action before. For example, there was (is?) [Project Prospect](https://doi.org/10.59350/ne4rf-wey66)
-(2007), [SMILES in the ACS Journal of Medicinal Chemistry](https://chem-bla-ics.linkedchemistry.info/2014/02/21/slow-publishing-innovation.html) (2014)
-(doi:[10.1021/jm5002056](https://doi.org/10.1021/jm5002056)),
+(2007), [chemical structure annotation in Nature Chemistry](https://chem-bla-ics.linkedchemistry.info/2009/03/19/nature-chemistry-improves-publishing.html)
+(2009), [SMILES in the ACS Journal of Medicinal Chemistry](https://chem-bla-ics.linkedchemistry.info/2014/02/21/slow-publishing-innovation.html)
+(2014) (doi:[10.1021/jm5002056](https://doi.org/10.1021/jm5002056)),
 and *FAIR chemical structures in the Journal of Cheminformatics* (2021) (doi:[10.1186/s13321-021-00520-4](https://doi.org/10.1186/s13321-021-00520-4)).
 
 But this announcement is a new step. I like how validation of the chemical structures is part of the approach, and I like

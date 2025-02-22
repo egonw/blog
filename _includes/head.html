@@ -8,6 +8,9 @@
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
   {%- feed_meta -%}
 
+  <!-- the next is for Zotero -->
+  {% if page.doi %}<meta name="citation_doi" content="{{ page.doi }}">{% endif %}
+
   <link type="application/feed+json" rel="alternate" href="https://chem-bla-ics.linkedchemistry.info/feed.json" title="chem-bla-ics">
 
   <link href="https://mastodon.social/@egonw" rel="me" />

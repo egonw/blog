@@ -2,7 +2,7 @@
 layout: post
 title:  "Inter- and Extrapolation: the NMR shift prediction debate"
 date:   2007-07-13
-modified_date: 2025-02-15
+modified_date: 2025-02-22
 doi: 10.59350/tbd0q-67564
 blogger-link: https://chem-bla-ics.blogspot.com/2007/07/inter-and-extrapolation-nmr-shift.html
 tags: nmr
@@ -12,9 +12,7 @@ Chemical blogspace has seen a lengthy discussion on [the quality of a few NMR sh
 and Ryan wanted to make [a final statement](http://acdlabs.typepad.com/my_weblog/2007/07/final-note-on-t.html). Down his blog item
 he had this quote from Jeff, discussing the use of the [NMRShiftDB](http://www.nmrshiftdb.org/) as external test set:
 
-<ul><i>
-“Of course customers are really interested in how accurately a prediction program can predict THEIR molecules - not a collection of external data such as NMRShiftDB.”
-</i></ul>
+> “Of course customers are really interested in how accurately a prediction program can predict THEIR molecules - not a collection of external data such as NMRShiftDB.”
 
 I'm sure none of us knows what weird chemistry people are doing; we will never know what the overlap of the NMRShiftDB test
 set with the customer data set is. The quote suggests it is low, but we simply do not know.

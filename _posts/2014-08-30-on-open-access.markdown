@@ -2,7 +2,7 @@
 layout: post
 title:  "On Open Access in The Netherlands"
 date:   2014-08-30
-modified_date: 2025-02-15
+modified_date: 2025-02-22
 doi: 10.59350/3r6kd-ev543
 blogger-link: https://chem-bla-ics.blogspot.com/2014/08/on-open-access.html
 tags: openaccess openscience
@@ -34,9 +34,7 @@ country. The letter is [available in English](http://www.vsnu.nl/files/documente
 Basically, the letter is an answer to an earlier letter from our government about Open Access, and it warns about actions that will soon be
 undertaken (so, not really pro-active). However,
 
-<ul><i>
-"[they] are also appealing to you to continue to advocate free access to your own scientific publications."
-</i></ul>
+> "[they] are also appealing to you to continue to advocate free access to your own scientific publications."
 
 Well, I have, not so actively, and maybe this post can be the start of a change. Because what basically bothers me is that the Open Access
 discussion, also in The Netherlands, is biased. And indeed, the letter continues with a section about gold and green access. If the VSNU
@@ -46,10 +44,8 @@ word on reuse, is rather depressing and not giving me even the slightest hint th
 
 Overall, the latter is relatively positive for the Open Access movement, though reactive. [They still have some explanation to do](https://twitter.com/egonwillighagen/status/504973493742891008):
 
-<ul><i>
-"The golden route is more complex. However, many believe that in the end it is a
+> "The golden route is more complex. However, many believe that in the end it is a
 more sustainable route to Open Access."
-</i></ul>
 
 (Or maybe readers can explain me what is complex about the golden route?)
 
@@ -57,12 +53,10 @@ The following is a rather interesting section, but really only when they had foc
 reuse. I think it now leaves you with a low starting point bargaining with resistant publisher lawyers and managers that have long
 [lost the interest of the academics in favor of that of the share holders](http://alexholcombe.wordpress.com/2013/01/09/scholarly-publishers-and-their-high-profits/):
 
-<ul><i>
-For the past ten years, publishers have been offering journals in package deals referred to as Big Deals. Shortly negotiations with
-the major publishers about these Big Deals Will take place, including Elsevier, Springer and Wiley. The Dutch universities have expressed
-their wish to make agreements with these publishers about the transition to Open Access as part of those Big Deals. Universities expect
-publishers to take serious steps to facilitate that transition.
-</i></ul>
+> For the past ten years, publishers have been offering journals in package deals referred to as Big Deals. Shortly negotiations with
+> the major publishers about these Big Deals Will take place, including Elsevier, Springer and Wiley. The Dutch universities have expressed
+> their wish to make agreements with these publishers about the transition to Open Access as part of those Big Deals. Universities expect
+> publishers to take serious steps to facilitate that transition.
 
 I hope the VSNU will clarify with what they mean with "serious". Because they all came up with "me too" solutions (setting up new OA
 journals) without seriously changing their model. No large publisher dared making the flagship journals full gold Open Access. That is
@@ -72,14 +66,12 @@ Perhaps that is the reason of the wish to be in the top 50. Maybe the VSNU just 
 
 The letter ends with what researchers can do. And with that, they are spot on:
 
-<ul><i>
-As a researcher, you can play a vital role in the transition to Open Access. We have
-mentioned the possibility of depositing arlídes in the repository of your own
-university. But there is more. It’s important to consider that researchers play a key
-role in the publishing process: as providers of the scientific content, as reviewers
-and as members of editorial and advisory boards. We hope that where ever possible,
-you will ask publishers to convert to an Open Access model.
-</i></ul>
+> As a researcher, you can play a vital role in the transition to Open Access. We have
+> mentioned the possibility of depositing arlídes in the repository of your own
+> university. But there is more. It’s important to consider that researchers play a key
+> role in the publishing process: as providers of the scientific content, as reviewers
+> and as members of editorial and advisory boards. We hope that where ever possible,
+> you will ask publishers to convert to an Open Access model.
 
 What any researcher can already do to promote (proper) Open Access:
 

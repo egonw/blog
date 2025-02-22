@@ -2,7 +2,7 @@
 layout: post
 title:  "Standing on the shoulders of ... the Blue Obelisk"
 date:   2007-07-06
-modified_date: 2025-02-15
+modified_date: 2025-02-22
 doi: 10.59350/xfcxw-qf593
 blogger-link: https://chem-bla-ics.blogspot.com/2007/07/standing-on-shoulders-of-blue-obelisk.html
 tags: blue-obelisk justdoi:10.1038/448006a doi:10.1021/ci050400b
@@ -15,12 +15,10 @@ Now, I do have some ideas (e.g. enumerating metabolomic space, mining the RDF gr
 knowledge base for the one hundred most supported contradictions), but that is not what I want to talk about. It is this fragment
 from Declan's piece:
 
-<ul><i>
-"I'm amazed at what he can do just using open-source libraries," [Horst Simon] says. Although there are exceptions, such as
-high-energy physics and bioinformatics, many labs keep their software development close to their chests, for fear that their
-competitors will put it to better use and get the credit for the academic application of the program. There is little
-incentive to get the software out there, says Simon, and such attitudes plague development.
-</i></ul>
+> "I'm amazed at what he can do just using open-source libraries," [Horst Simon] says. Although there are exceptions, such as
+> high-energy physics and bioinformatics, many labs keep their software development close to their chests, for fear that their
+> competitors will put it to better use and get the credit for the academic application of the program. There is little
+> incentive to get the software out there, says Simon, and such attitudes plague development.
 
 This is something that is very familiar to many of us: developing algorithms for scientific problems is not appreciated.
 It worries me very much the way the scientific community currently deals with algorithms and data; it seems the community

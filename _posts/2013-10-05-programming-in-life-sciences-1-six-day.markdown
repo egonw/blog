@@ -2,7 +2,7 @@
 layout: post
 title:  "Programming in the Life Sciences #1: a six day course"
 date:   2013-10-05
-modified_date: 2025-02-15
+modified_date: 2025-02-22
 doi: 10.59350/shsz6-67p30
 blogger-link: https://chem-bla-ics.blogspot.com/2013/10/programming-in-life-sciences-1-six-day.html
 tags: pra3006 javascript openphacts
@@ -23,17 +23,15 @@ So, this course will be a mix of things. I will likely start with a lecture or t
 importance of reproducibility, licensing, documentation, and (unit) testing. To achieve these learning goals we have set a
 problem. The description is:
 
-<ul><i>
-In the life sciences the interactions between chemical entities is of key interest. Not only do these play an important role
-in the regulation of gene expression, and therefore all cellular processes, they are also one of the primary approaches in
-drug discovery. Pharmacology is the science studies the action of drugs, and for many common drugs, this is studying the
-interaction of small organic molecules and protein targets.
-
-And with the increasing information in the life sciences, automation becomes increasingly important. Big data and small data
-alike, provide challenges to integrate data from different experiments. The Open PHACTS platform provides web services to
-support pharmacological research and in this course you will learn how to use such web services from programming languages,
-allowing you to link data from such knowledge bases to other platforms, such as those for data analysis.
-</i></ul>
+> In the life sciences the interactions between chemical entities is of key interest. Not only do these play an important role
+> in the regulation of gene expression, and therefore all cellular processes, they are also one of the primary approaches in
+> drug discovery. Pharmacology is the science studies the action of drugs, and for many common drugs, this is studying the
+> interaction of small organic molecules and protein targets.
+> 
+> And with the increasing information in the life sciences, automation becomes increasingly important. Big data and small data
+> alike, provide challenges to integrate data from different experiments. The Open PHACTS platform provides web services to
+> support pharmacological research and in this course you will learn how to use such web services from programming languages,
+> allowing you to link data from such knowledge bases to other platforms, such as those for data analysis.
 
 So, it becomes pretty clear what the students will be doing. They only have six days, so it won't be much. It's just to learn
 them the basic skills. The students are in their 3rd year at the university, and because of the nature of the programme they

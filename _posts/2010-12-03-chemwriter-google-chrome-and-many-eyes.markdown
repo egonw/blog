@@ -2,7 +2,7 @@
 layout: post
 title:  "ChemWriter, Google Chrome, and Many Eyes in Open Source"
 date:   2010-12-03
-modified_date: 2025-02-16
+modified_date: 2025-02-22
 doi: 10.59350/w1acd-1d323
 blogger-link: https://chem-bla-ics.blogspot.com/2010/12/chemwriter-google-chrome-and-many-eyes.html
 tags: opensource justdoi:10.59350/x4j7q-m6h98
@@ -10,7 +10,7 @@ tags: opensource justdoi:10.59350/x4j7q-m6h98
 
 [Linus' law](http://en.wikipedia.org/wiki/Linus'_Law):
 
-<ul><i>given enough eyeballs, all bugs are shallow.</i></ul>
+> given enough eyeballs, all bugs are shallow.
 
 [Rich](http://depth-first.com/) of [MetaMolecular](http://metamolecular.com/) works on Open Source and closed source cheminformatics
 solutions. [ChemWriter](http://chemwriter.com/) is one product he is working on which uses JavaScript and [SVG](http://en.wikipedia.org/wiki/SVG)

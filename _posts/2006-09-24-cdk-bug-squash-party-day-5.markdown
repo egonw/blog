@@ -2,10 +2,10 @@
 layout: post
 title:  "CDK Bug Squash Party - Day 5"
 date:   2006-09-24
-modified_date: 2025-02-15
+modified_date: 2025-02-22
 doi: 10.59350/paxbm-rac78
 blogger-link: https://chem-bla-ics.blogspot.com/2006/09/cdk-bug-squash-party-day-5.html
-tags: cdk bsp junit conference
+tags: cdk bsp junit conference cito:citesAsPotentialSolution:10.59350/qxc8d-c1w35
 image: /assets/images/junit_tests.png
 doi: 10.59350/paxbm-rac78
 ---
@@ -22,7 +22,7 @@ comprehensive commits. Stefan fixed another bug in JChemPaint; the rendering of 
 
 About the last, the [Renderer2D](http://cheminfo.informatics.indiana.edu/~rguha/code/java/nightly/api/org/openscience/cdk/renderer/Renderer2D.html)
 needs a serious overhaul. That is, a complete rewrite in proper Java2D, which can use affine transformations for zooming, scaling and fixing the
-coordinate system. The current code is ancient and predates Java2D. [Rich' code](http://depth-first.com/articles/2006/08/28/drawing-2-d-structures-with-structure-cdk)
+coordinate system. The current code is ancient and predates Java2D. [Rich' code](https://doi.org/10.59350/qxc8d-c1w35)
 might be a good starting point. I would love to do this rewrite, but lack the resources... anyone in need of some open source fame?
 
 I worked on atom typing, which is yet largely untested, and often integrated with other bits of code. Yesterday I uploaded

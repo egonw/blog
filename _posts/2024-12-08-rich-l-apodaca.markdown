@@ -2,12 +2,12 @@
 layout: post
 title:  "Richard L. Apodaca"
 date:   2024-12-08
-modified_date: 2024-12-30
+modified_date: 2025-02-22
 doi: 10.59350/myaw4-dtg76
 tags: openscience cheminf justdoi:10.26434/chemrxiv-2022-01ltp justdoi:10.59350/xyp0f-9dt42
   justdoi:10.59350/esgte-mv539 justdoi:10.59350/50ebs-4zq55 justdoi:10.59350/pz3p6-fv247
   justdoi:10.59350/j026p-17z02 justdoi:10.59350/5ct28-aaj63 justdoi:10.59350/g29jj-d3m35
-  justdoi:10.59350/6beed-gk067
+  justdoi:10.59350/6beed-gk067 justdoi:10.59350/mxqbw-ek659
 image: /assets/images/depth_first.png
 ---
 
@@ -45,7 +45,7 @@ blogged openly about the months after that. Rereading this post is still hard, h
 on my mother. It turned out to be cancer, [a brain tumor <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/g29jj-d3m35).
 Just this Thursday I attended a fascinating <sup>2</sup>H NMR presentation, showing how much better
 we got at recognizing tumors, but Rich' MRI was obvious. He blogged for months on
-[his plan](https://depth-first.com/articles/2023/05/18/everyone-has-a-plan/). Until [the end of May <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/6beed-gk067)
+[his plan](https://doi.org/10.59350/mxqbw-ek659). Until [the end of May <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/6beed-gk067)
 this year.
 
 Some weeks ago I received confirmation our fear; he passed away. Richard L. Apodaca was

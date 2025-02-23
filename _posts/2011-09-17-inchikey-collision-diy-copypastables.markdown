@@ -2,13 +2,14 @@
 layout: post
 title:  "InChIKey collision: the DIY copy/pastables"
 date:   2011-09-17
+modified_date: 2025-02-23
 doi: 10.59350/pxxek-shz13
 blogger-link: https://chem-bla-ics.blogspot.com/2011/09/inchikey-collision-diy-copypastables.html
 tags: inchi inchikey:OCPAUTFLLNMYSX-UHFFFAOYSA-N
 ---
 
-About two weeks ago, the ChemConnector blog [reported an InChIKey collosion](http://www.chemconnector.com/2011/09/01/an-inchikey-collision-is-discovered-and-not-based-on-stereochemistry/)
-detected by [Prof. Goodman](http://www-ucc.ch.cam.ac.uk/researchgroups/goodman_group). Unlike the previous collision, this one was based solely on the graph and not on
+About two weeks ago, the ChemConnector blog [reported an InChIKey collosion <i class="fa-solid fa-box-archive fa-xs"></i>](https://web.archive.org/web/20110928120027/http://www.chemconnector.com/2011/09/01/an-inchikey-collision-is-discovered-and-not-based-on-stereochemistry/)
+detected by [Prof. Goodman <i class="fa-solid fa-recycle fa-xs"></i>](https://www.ch.cam.ac.uk/person/jmg11). Unlike the previous collision, this one was based solely on the graph and not on
 stereochemistry. The two molecules both have the InChIKey OCPAUTFLLNMYSX-UHFFFAOYSA-N:
 
 <table>

@@ -27,7 +27,7 @@ from [Lagrange](https://github.com/LeNPaul/Lagrange/).
 
 This website is further powered by (in random order):
 
-* GitHub Action
+* GitHub Action, Codeberg mirror
 * HTML, MathML
 * SMILES, [CDK Depict](https://cdkdepict.toolforge.org/) ([Toolforge](https://toolforge.org/)), and InChI
 * DOI, CrossRef

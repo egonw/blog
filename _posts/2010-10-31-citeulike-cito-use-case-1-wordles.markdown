@@ -2,7 +2,7 @@
 layout: post
 title:  "CiteULike CiTO Use Case #1: Wordles"
 date:   2010-10-31
-modified_date: 2024-11-02
+modified_date: 2025-02-23
 blogger-link: https://chem-bla-ics.blogspot.com/2010/10/citeulike-cito-use-case-1-wordles.html
 tags: justdoi:10.1186/2041-1480-1-S1-S6 cito citeulike cdk wordle doi:10.1021/CI025584Y
 doi: 10.59350/npbqm-gfa49
@@ -10,7 +10,7 @@ doi: 10.59350/npbqm-gfa49
 
 Last month I reported a [few things I missed <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/09/17/list-of-things-i-miss-in-citeulike.html)
 in [CiteULike](http://www.citeulike.org/). One of them was support for CiTO (see
-doi:[https://doi.org/10.1186/2041-1480-1-S1-S6](10.1186/2041-1480-1-S1-S6)), a great Citation Typing Ontology.
+doi:[10.1186/2041-1480-1-S1-S6](https://doi.org/10.1186/2041-1480-1-S1-S6)), a great Citation Typing Ontology.
 
 I promised the CiTO author, [David](http://www.zoo.ox.ac.uk/staff/academics/shotton_dm.htm), my use cases, but have been horribly
 busy in the past few weeks with my new position, wrapping up my past position, and thinking on my position after Cambridge. But finally, here it is. Based on source code I

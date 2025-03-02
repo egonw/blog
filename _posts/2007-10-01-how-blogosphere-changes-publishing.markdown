@@ -2,6 +2,7 @@
 layout: post
 title:  "How the blogosphere changes publishing"
 date:   2007-10-01
+modified_date: 2025-03-02
 doi: 10.59350/za3b6-jg770
 blogger-link: https://chem-bla-ics.blogspot.com/2007/10/how-blogosphere-changes-publishing.html
 tags: publishing pmrgrantproposal cb

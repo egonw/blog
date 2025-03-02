@@ -4,10 +4,10 @@ title:  "How the blogosphere changes publishing"
 date:   2007-10-01
 doi: 10.59350/za3b6-jg770
 blogger-link: https://chem-bla-ics.blogspot.com/2007/10/how-blogosphere-changes-publishing.html
-tags: publishing pmrgrantproposal
+tags: publishing pmrgrantproposal cb
 ---
 
-Peter [is writing up a 1FTE grant proposal](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=645) for someone to work
+Peter [is writing up a 1FTE grant proposal <i class="fa-solid fa-recycle fa-xs"></i>](https://blogs.ch.cam.ac.uk/pmr/2007/09/30/open-grant-writing-can-the-chemical-blogosphere-help-with-agents-and-eyeballs/) for someone to work
 on the question how automatic agents and, more interestingly, the blogosphere are changing, no improving, the
 dissemination of scientific literature. He wants our input. To make his work easy, I'll tag this item `pmrgrantproposal`
 and would ask everyone to do the same (Peter unfortunately did not suggest a tag himself). Here are pointers to
@@ -15,16 +15,16 @@ blog items I wrote, related to the four themes Peter identifies.
 
 ### The blogosphere oversees all major Open discussion
 
-* [Open Text Mining Interface and Bioclipse](http://chem-bla-ics.blogspot.com/2006/05/open-text-mining-interface-and.html)
-* [USPTO considers open source software prior art](http://chem-bla-ics.blogspot.com/2006/01/uspto-considers-open-source-software.html)
-* [New InChI software beta: license issues resolved and InChIKey](http://chem-bla-ics.blogspot.com/2007/09/new-inchi-software-beta-license-issues.html)
-* [SMILES to become an Open Standard](http://chem-bla-ics.blogspot.com/2007/09/smiles-to-become-open-standard.html)
+* [Open Text Mining Interface and Bioclipse <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/05/07/open-text-mining-interface-and.html)
+* [USPTO considers open source software prior art <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/01/11/uspto-considers-open-source-software.html)
+* [New InChI software beta: license issues resolved and InChIKey <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/09/07/new-inchi-software-beta-license-issues.html)
+* [SMILES to become an Open Standard <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/09/28/smiles-to-become-open-standard.html)
 
 ### The blogosphere cares about data
 
-* [Uncertainty in NMR based 3D protein models](http://chem-bla-ics.blogspot.com/2006/04/uncertainty-in-nmr-based-3d-protein.html)
-* [re: ACS RSS feeds are messed up](re: ACS RSS feeds are messed up)
-* [Molecules in Wikipedia without InChIs](http://chem-bla-ics.blogspot.com/2007/08/molecules-in-wikipedia-without-inchis.html)
+* [Uncertainty in NMR based 3D protein models <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/04/02/uncertainty-in-nmr-based-3d-protein.html)
+* [re: ACS RSS feeds are messed up <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/09/21/re-acs-rss-feeds-are-messed-up.html)
+* [Molecules in Wikipedia without InChIs <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/08/11/molecules-in-wikipedia-without-inchis.html)
 
 ### Important bad science cannot hide
 
@@ -37,15 +37,15 @@ know...)
 
 Two examples where I discuss not-bad-at-all scientific literature:
 
-* [Automatic Classification of thousands of Crystal Structures](http://chem-bla-ics.blogspot.com/2007/08/automatic-classification-of-thousands.html)
-* [CDK Literature #2](http://chem-bla-ics.blogspot.com/2007/07/cdk-literature-2.html)
+* [Automatic Classification of thousands of Crystal Structures <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/08/24/automatic-classification-of-thousands.html)
+* [CDK Literature #2 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/07/14/cdk-literature-2.html)
 
 ### Open Notebook Science
 
 I regularly blog about the chemoinformatics research I do in my blog. A few examples from the last half year:
 
-* [CDK Workshop - Days #3 and #4](http://chem-bla-ics.blogspot.com/2007/02/cdk-workshop-days-3-and-4.html)
-* [Weka Decision Trees to Java Conversion](http://chem-bla-ics.blogspot.com/2007/05/weka-decision-trees-to-java-conversion.html)
-* [RDF-ing molecular space](http://chem-bla-ics.blogspot.com/2007/07/rdf-ing-molecular-space.html)
-* [Atom typing in the CDK](http://chem-bla-ics.blogspot.com/2007/07/atom-typing-in-cdk.html)
-* [Further Bioclipse QSAR functionality development](http://chem-bla-ics.blogspot.com/2007/07/further-bioclipse-qsar-functionality.html)
+* [CDK Workshop - Days #3 and #4 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/02/03/cdk-workshop-days-3-and-4.html)
+* [Weka Decision Trees to Java Conversion <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/05/30/weka-decision-trees-to-java-conversion.html)
+* [RDF-ing molecular space <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/07/31/rdf-ing-molecular-space.html)
+* [Atom typing in the CDK <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/07/01/atom-typing-in-cdk.html)
+* [Further Bioclipse QSAR functionality development <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/07/26/further-bioclipse-qsar-functionality.html)

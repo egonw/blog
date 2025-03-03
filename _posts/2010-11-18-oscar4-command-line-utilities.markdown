@@ -2,6 +2,7 @@
 layout: post
 title:  "Oscar4 command line utilities"
 date:   2010-11-18
+modified_date: 2025-03-03
 doi: 10.59350/jsfck-t351
 blogger-link: https://chem-bla-ics.blogspot.com/2010/11/oscar4-command-line-utilities.html
 tags: oscar textmining beilstein inchikey:CSCPPACGZOOCGX-UHFFFAOYSA-N
@@ -83,7 +84,7 @@ available with the `-html` option, and pulling in a [Beilstein Journal of Organi
 paper with [wget](http://en.wikipedia.org/wiki/Wget):
 
 ```shell
-$ wget -qO- http://goo.gl/PBVRl | \
+$ wget -qO- https://doi.org/10.3762/bjoc.6.122 | \
   java -cp oscar4-cli-4.0-SNAPSHOT.jar \
   uk.ac.cam.ch.wwmm.oscar.oscarcli.OscarCLI \
   -stdin -html

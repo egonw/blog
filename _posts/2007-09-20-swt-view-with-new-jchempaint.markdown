@@ -6,7 +6,7 @@ modified_date: 2025-02-15
 doi: 10.59350/cwqb0-3yj62
 blogger-link: https://chem-bla-ics.blogspot.com/2007/09/swt-view-with-new-jchempaint.html
 tags: bioclipse jchempaint
-image: /blog/assets/images/swtJCP.png
+image: /assets/images/swtJCP.png
 ---
 
 The second [Programmeerzomer](http://programmeerzomer.nl/) and the second summer of code for me, will end tomorrow with a presentation of
@@ -18,7 +18,7 @@ requires CDK trunk/. So I copied in the `cdk.jar` and `cdk-jchempaint.jar` from 
 plugin, only to find out that that gives binary problems: the plugin would still depend on *net.bioclipse.cdk.ui* which depends
 on the CDK 1.0 plugin...
 
-![](/blog/assets/images/swtJCP.png)
+![](/assets/images/swtJCP.png)
 
 To get something going, I removed the dependency on CDKResource. So, the screenshot above is a bit artificial: it shows a
 static picture and the View does not react on ISelectionEvent's. But that is a Bioclipse/CDK issue, and not caused by Niels'

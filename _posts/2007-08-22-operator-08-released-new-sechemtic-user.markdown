@@ -6,7 +6,7 @@ modified_date: 2025-02-15
 doi: 10.59350/w3eex-30y69
 blogger-link: https://chem-bla-ics.blogspot.com/2007/08/operator-08-released-new-sechemtic-user.html
 tags: semweb chemistry
-image: /blog/assets/images/options1.png
+image: /assets/images/options1.png
 ---
 
 [Mike](http://www.kaply.com/weblog/) released [Operator 0.8](http://www.kaply.com/weblog/2007/08/21/operator-08-is-available/),
@@ -23,15 +23,15 @@ to version 0.8, you also need to update the Sechemtic user script to [version 1.
 Installing Operator scripts is a bit more work than Greasemonkey userscripts. Save the script to your home directory,
 or any other place you can easily find on the hard disk. After installing the Operator add-on, click the *Options* button:
 
-![](/blog/assets/images/options.png)
+![](/assets/images/options.png)
 
 For the RDFa script to work, you need to make sure that the *Display style* is set to *Data formats*:
 
-![](/blog/assets/images/options1.png)
+![](/assets/images/options1.png)
 
 Then you can go to the *User Scripts* tab, and use the *New* button to add the script you downloaded and saved to your hard disk earlier:
 
-![](/blog/assets/images/options2.png)
+![](/assets/images/options2.png)
 
 Then, after rebooting Firefox (looks like MS-Windows :(), you can go to Chemical blogspace and
 [look up molecules](http://cb.openmolecules.net/inchis.php), and see output like that described in

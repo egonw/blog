@@ -6,7 +6,7 @@ modified_date: 2025-02-15
 doi: 10.59350/f33et-e6n35
 blogger-link: https://chem-bla-ics.blogspot.com/2007/08/touchgraphing-my-blog.html
 tags: blog
-image: /blog/assets/images/touchGraph.png
+image: /assets/images/touchGraph.png
 ---
 
 Via [SciFoo Planet <i class="fa-solid fa-box-archive fa-xs"></i>](https://web.archive.org/web/20071101070909/http://www.lexical.org.uk/planetscifoo/)
@@ -15,7 +15,7 @@ I learned about [TouchGraph Google](http://www.touchgraph.com/TGGoogleBrowser.ht
 [brought it into Chemical blogspace](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=496)).
 It's cool, though not open source. Here's the touch graph for my blog:
 
-![](/blog/assets/images/touchGraph.png)
+![](/assets/images/touchGraph.png)
 
 As you can see, plenty of [blogspot](https://www.blogspot.com) bloggers around me, among which,
 in purple, [Useful Chemistry](http://usefulchem.blogspot.com/). Funny thing is, each time I

@@ -6,13 +6,13 @@ modified_date: 2025-02-15
 doi: 10.59350/bqg35-shz93
 blogger-link: https://chem-bla-ics.blogspot.com/2007/09/re-acs-rss-feeds-are-messed-up.html
 tags: acs rss cito:repliesTo:10.59350/xtm6b-5gf91
-image: /blog/assets/images/acsRSSproblem.png
+image: /assets/images/acsRSSproblem.png
 ---
 
 A couple of people now confirmed the [problem with the ACS journal RSS feeds](http://chem-bla-ics.blogspot.com/2007/09/acs-rss-feeds-are-messed-up.html).
 Being back behind my desktop machine, I can post the obligatory screenshot:
 
-![](/blog/assets/images/acsRSSproblem.png)
+![](/assets/images/acsRSSproblem.png)
 
 The feed for Chemical Biology shows 79 feed items and the first one was a *Environ. Sci. Technol.* paper. The first of the
 108 papers listed in the feed for Molecular Pharmaceutics is a perp from *J.Phys.Chem.C.*

@@ -6,14 +6,14 @@ modified_date: 2025-02-15
 doi: 10.59350/ve3jf-qk712
 blogger-link: https://chem-bla-ics.blogspot.com/2007/08/dapagliflozin-molecular-structure.html
 tags: inchikey:JVHXJTBJCFBINQ-ADAARDCZSA-N cito:repliesTo:10.59350/3et2a-pkv75
-image: /blog/assets/images/dapagliflozin.png
+image: /assets/images/dapagliflozin.png
 ---
 
 An anonymous reader [reported](http://chem-bla-ics.blogspot.com/2007/03/what-is-dapagliflozin.html) that the
 [American Medical Association](http://www.ama-assn.org/) [published](http://www.ama-assn.org/ama1/pub/upload/mm/365/dapagliflozin.pdf)
 the structure of dapagliflozin. Here are the details.
 
-![](/blog/assets/images/dapagliflozin.png)
+![](/assets/images/dapagliflozin.png)
 
 The full name is *(2S,3R,4R,5S,6R)-2- [4-chloro-3-(4-ethoxybenzyl)phenyl]-6-(hydroxymethyl)tetrahydro-2H-pyran-3,4,5-triol*
 and the PDF report the CAS number `461432-26-8`, and

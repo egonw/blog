@@ -6,7 +6,7 @@ modified_date: 2025-02-22
 doi: 10.59350/yyjnz-n5j48
 tags: bioschemas rdf chemistry cito:citesForInformation:10.59350/ne4rf-wey66 cito:citesForInformation:10.1186/s13321-021-00520-4
   cito:citesForInformation:10.1021/jm5002056 cito:usesDataFrom:10.3762/bjoc.21.21 cito:usesMethodIn:10.21105/joss.02558
-  cito:citesForInformation:10.59350/40377-hz881
+  cito:citesForInformation:10.59350/40377-hz881 beilstein
 image: /assets/images/bjoc_bioschemas.png
 ---
 

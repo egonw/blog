@@ -5,7 +5,7 @@ date:   2010-11-18
 modified_date: 2025-03-03
 doi: 10.59350/jsfck-t351
 blogger-link: https://chem-bla-ics.blogspot.com/2010/11/oscar4-command-line-utilities.html
-tags: oscar textmining beilstein inchikey:CSCPPACGZOOCGX-UHFFFAOYSA-N
+tags: oscar textmining beilstein inchikey:ATUOYWHBWRKTHZ-UHFFFAOYSA-N
 ---
 
 One goal of my three month project is to take Oscar4 to the community. We want to get it used more, and we need

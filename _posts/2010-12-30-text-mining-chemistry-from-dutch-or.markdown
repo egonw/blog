@@ -2,9 +2,11 @@
 layout: post
 title:  "Text mining chemistry from Dutch or Swedish texts"
 date:   2010-12-30
+modified_date: 2025-03-05
 doi: 10.59350/k1tea-hnb50
 blogger-link: https://chem-bla-ics.blogspot.com/2010/12/text-mining-chemistry-from-dutch-or.html
-tags: oscar textmining
+tags: oscar textmining justdoi:10.59350/vtadn-tdt17 justdoi:10.59350/nbtxd-kdz73
+  justdoi:10.59350/bbrwt-e5n35
 image: /assets/images/c2w.png
 ---
 
@@ -13,18 +15,18 @@ image: /assets/images/c2w.png
 code that I worked on in the past three months, with Lezan, Sam, and David. I blogged about
 aspects of Oscar4 at several occasions:
 
-* [Working on Oscar for three months](http://chem-bla-ics.blogspot.com/2010/10/working-on-oscar-for-three-months.html)
-* [Oscar text mining in Taverna](http://chem-bla-ics.blogspot.com/2010/10/oscar-text-mining-in-taverna.html)
+* [Working on Oscar for three months <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/10/15/working-on-oscar-for-three-months.html)
+* [Oscar text mining in Taverna <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/10/21/oscar-text-mining-in-taverna.html)
 * [Multiple unit test inheritance with JExample](http://chem-bla-ics.blogspot.com/2010/10/multiple-unit-test-inheritance-with.html)
-* [Oscar4 Java API: chemical name dictionaries](http://chem-bla-ics.blogspot.com/2010/10/oscar4-java-api-chemical-name.html)
-* [Oscar4 command line utilities](http://chem-bla-ics.blogspot.com/2010/11/oscar4-command-line-utilities.html)
+* [Oscar4 Java API: chemical name dictionaries <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/10/28/oscar4-java-api-chemical-name.html)
+* [Oscar4 command line utilities <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/11/18/oscar4-command-line-utilities.html)
 * [Installing Oscar](http://chem-bla-ics.blogspot.com/2010/11/installing-oscar.html)
-* [Adding a new dictionary to Oscar](http://chem-bla-ics.blogspot.com/2010/11/adding-new-dictionary-to-oscar.html)
+* [Adding a new dictionary to Oscar <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/11/29/adding-new-dictionary-to-oscar.html)
 * [Status update on BJOC analysis with Oscar and ChemicalTagger](http://chem-bla-ics.blogspot.com/2010/12/status-update-on-bjoc-analysis-with.html)
 * [Status update on BJOC analysis with Oscar and ChemicalTagger #2](http://chem-bla-ics.blogspot.com/2010/12/status-update-on-bjoc-analysis-with_11.html)
 * [Supramolecular chemistry](http://chem-bla-ics.blogspot.com/2010/12/supramolecular-chemistry.html)
-* [Status update on BJOC analysis with Oscar and ChemicalTagger #3](http://chem-bla-ics.blogspot.com/2010/12/status-update-on-bjoc-analysis-with_23.html)
-* [Oscar: training data, models, etc](http://chem-bla-ics.blogspot.com/2010/12/oscar-training-data-models-etc.html)
+* [Status update on BJOC analysis with Oscar and ChemicalTagger #3 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/12/23/status-update-on-bjoc-analysis-with_23.html)
+* [Oscar: training data, models, etc <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/12/26/oscar-training-data-models-etc.html)
 
 These posts will server is a some initial critical mass for a draft report I plan to finish
 today. I might have to blog some further posts with diagrams, here and there. This post is
@@ -36,7 +38,7 @@ make this a lot easier too.
 One aspect where I expect Oscar to go in 2011 is the support for other languages. To a very
 large extend this is based on multi-language support in the dictionaries, as well as having
 training data in a particular language. This also provides some context to my earlier post
-about the [need for a Oscar training data repository](http://chem-bla-ics.blogspot.com/2010/12/oscar-training-data-models-etc.html).
+about the [need for a Oscar training data repository <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/12/26/oscar-training-data-models-etc.html).
 
 This extension opens a number of options: analysis of patent literature in other languages,
 monitoring of press releases in other languages, and news items in local news papers, etc.
@@ -78,9 +80,9 @@ Besides localized dictionaries, this Oscar will also benefit from a localized [O
 It seem to recognize the Dutch [propaan](https://opsin.ch.cam.ac.uk/opsin/propaan.png), but not
 [benzeen](https://opsin.ch.cam.ac.uk/opsin/benzeen.png). I am not going to look at that soon, but if you are
 interested, I recommend checking out Rich'
-[posts](http://depth-first.com/articles/2010/12/16/working-with-opsin-using-netbeans-for-a-maven-project/)
-[about](http://depth-first.com/articles/2010/12/14/plugging-into-opsin-how-to-synchronize-git-and-mercurial-repositories/)
-[forking](http://depth-first.com/articles/2010/12/13/open-source-name-to-structure-conversion-of-iupac-nomenclature-opsin-revisited/)
+[posts <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/bbrwt-e5n35)
+[about <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/vtadn-tdt17)
+[forking <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/nbtxd-kdz73)
 OPSIN and writing patches.
 
 Getting Oscar going for other languages is a challenge, but also offers new opportunities. Just email the

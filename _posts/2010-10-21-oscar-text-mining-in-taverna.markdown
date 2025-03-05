@@ -2,13 +2,14 @@
 layout: post
 title:  "Oscar text mining in Taverna"
 date:   2010-10-21
+modified_date: 2025-03-05
 doi: 10.59350/7njvw-s6q24
 blogger-link: https://chem-bla-ics.blogspot.com/2010/10/oscar-text-mining-in-taverna.html
 tags: oscar taverna inchikey:OKKJLVBELUTLKV-UHFFFAOYSA-N inchikey:LFQSCWFLJHTTHZ-UHFFFAOYSA-N inchikey:SPSSULHKWOKEEL-UHFFFAOYSA-N
 image: /assets/images/oscarTaverna.png
 ---
 
-One of the goals of my [project in Cambridge](http://chem-bla-ics.blogspot.com/2010/10/working-on-oscar-for-three-months.html)
+One of the goals of my [project in Cambridge <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/10/15/working-on-oscar-for-three-months.html)
 is to make [Oscar](http://oscar3-chem.sourceforge.net/) available as [Taverna](http://taverna.sf.net/) plugin
 ([source code](https://bitbucket.org/egonw/oscar4-taverna), [Hudson build](https://hudson.ch.cam.ac.uk/job/oscar4-taverna/)).
 I have progressed somewhat, but still struggling with getting the update site working. The plugin actually installs into

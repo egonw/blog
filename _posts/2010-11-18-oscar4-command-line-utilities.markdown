@@ -2,7 +2,7 @@
 layout: post
 title:  "Oscar4 command line utilities"
 date:   2010-11-18
-modified_date: 2025-03-03
+modified_date: 2025-03-05
 doi: 10.59350/jsfck-t351
 blogger-link: https://chem-bla-ics.blogspot.com/2010/11/oscar4-command-line-utilities.html
 tags: oscar textmining beilstein inchikey:ATUOYWHBWRKTHZ-UHFFFAOYSA-N
@@ -11,15 +11,15 @@ tags: oscar textmining beilstein inchikey:ATUOYWHBWRKTHZ-UHFFFAOYSA-N
 One goal of my three month project is to take Oscar4 to the community. We want to get it used more, and we need
 a larger development community. Oscar4 and the related technologies do a good, sometimes excellent, job, but
 have to be maintained, just like any other piece of code. To make using it easier, we are developing new APIs,
-as well as two user-oriented applications: [a Taverna 2 plugin](http://chem-bla-ics.blogspot.com/2010/10/oscar-text-mining-in-taverna.html),
-and command line utilities. The [Oscar4 Java API](http://chem-bla-ics.blogspot.com/2010/10/oscar4-java-api-chemical-name.html)
+as well as two user-oriented applications: [a Taverna 2 plugin <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/10/21/oscar-text-mining-in-taverna.html),
+and command line utilities. The [Oscar4 Java API <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/10/28/oscar4-java-api-chemical-name.html)
 has slightly evolved in the last three weeks, removing some complexity. In this post, I will introduce the command
 line utilities.
 
 ## Oscar4
 
 Most people will be mostly interested into the full Oscar4 program, to extract chemical entities. Oscar3 was
-also capable of extracting data (like [NMR spectra](http://chem-bla-ics.blogspot.com/2006/09/chemical-archeology-oscar3-to.html)),
+also capable of extracting data (like [NMR spectra <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/09/08/chemical-archeology-oscar3-to.html)),
 but that is not yet being ported. The OscarCLI program takes input, extracts chemicals, and where possible resolves
 them into connection tables (viz. InChI).
 

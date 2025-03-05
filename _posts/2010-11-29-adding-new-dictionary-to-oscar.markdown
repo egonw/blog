@@ -2,6 +2,7 @@
 layout: post
 title:  "Adding a new dictionary to Oscar"
 date:   2010-11-29
+modified_date: 2025-03-05
 doi: 10.59350/v90k2-5a907
 blogger-link: https://chem-bla-ics.blogspot.com/2010/11/adding-new-dictionary-to-oscar.html
 tags: oscar java
@@ -15,7 +16,7 @@ other company sites. This is what Oscar is for.
 
 But, it will need to understand things like [UK-92,480](http://chembl.blogspot.com/p/research-code-stems.html).
 This is made possible with the Oscar4 refactorings we are currently working on. You only need to
-[register a dedicated dictionary](http://chem-bla-ics.blogspot.com/2010/10/oscar4-java-api-chemical-name.html).
+[register a dedicated dictionary <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/10/28/oscar4-java-api-chemical-name.html).
 Oscar4 has a default dictionary which corresponds to the dictionary used by Oscar3, and a dictionary based on
 [ChEBI](http://www.ebi.ac.uk/chebi/) (an old version) (see [this folder](http://bitbucket.org/wwmm/oscar4/src/247b8deef001/oscar4-chemnamedict/src/main/java/uk/ac/cam/ch/wwmm/oscar/chemnamedict/core/)
 in the source code repository).

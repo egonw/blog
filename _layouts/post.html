@@ -87,6 +87,19 @@ layout: base
     {% endif %}
   </div>
 
+<!-- grants.size = {{ page.grants.size }} -->
+{% if page.grants.size > 0 %}
+  <div class="post-footer" id="acksDIV">
+    <b class="post">Acknowledgements</b>
+    <p class="post-meta" id="acks">
+      {% for grant in page.grants %}
+        <i>This post described research output that was funded by <a href="https://ror.org/{{ grant.funder.ror }}">{{ grant.funder.name }}</a>
+          under grant number <a href="https://bioregistry.io/{{ grant.id }}">{{ grant.id }}</a>.</i>
+      {% endfor %}
+    </p>
+  </div>
+{% endif %}
+
 {% if page.tags.size > 0 %}
   <div class="post-footer" id="bibliographyDIV" style="visibility: hidden">
   <b class="post">References</b>

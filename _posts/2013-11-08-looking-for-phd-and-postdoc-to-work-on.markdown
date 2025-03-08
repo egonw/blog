@@ -7,6 +7,12 @@ doi: 10.59350/s6am1-1sa79
 blogger-link: https://chem-bla-ics.blogspot.com/2013/11/looking-for-phd-and-postdoc-to-work-on.html
 tags: nanosafety enanomapper opentox ontology
 image: /assets/images/vac1.png
+grants:
+  - grant:
+    id: cordis.project:604134
+    funder:
+      name: "European Commission"
+      ror: 00k4n6c32
 ---
 
 I am happy that I got my first research grant awarded (EU FP7), which should start after all the contracts are signed,

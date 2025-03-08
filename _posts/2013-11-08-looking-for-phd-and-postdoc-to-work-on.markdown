@@ -9,6 +9,7 @@ tags: nanosafety enanomapper opentox ontology
 image: /assets/images/vac1.png
 grants:
   - grant:
+    title: eNanoMapper
     id: cordis.project:604134
     funder:
       name: "European Commission"

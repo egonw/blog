@@ -2,6 +2,7 @@
 layout: post
 title:  "New paper: \"Integration among databases and data sets to support productive nanotechnology: Challenges and recommendations\""
 date:   2017-12-15
+doi: 10.59350/6e3y2-wmy66
 blogger-link: https://chem-bla-ics.blogspot.com/2017/12/new-paper-integration-among-databases.html
 tags: nanosafety justdoi:10.1039/C5NR08944A justdoi:10.3762/bjnano.6.189 doi:10.1016/J.IMPACT.2017.11.002
   justdoi:10.1038/nnano.2017.233 enanomapper nanocommons eunsc

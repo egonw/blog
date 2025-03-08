@@ -2,6 +2,7 @@
 layout: post
 title:  "My Google Scholar Citations profile arrived"
 date:   2011-08-02
+modified_date: 2025-03-08
 blogger-link: https://chem-bla-ics.blogspot.com/2011/08/my-google-scholar-citations-profile.html
 tags: google citeulike doi:10.1186/1471-2105-8-487
 image: /assets/images/gsc.png
@@ -13,8 +14,9 @@ doi: 10.59350/eg94z-9dg88
 and then to fix something). The public front-end of it is [Researcher ID](http://www.researcherid.com/rid/C-6136-2008). There is an
 [Microsoft initiative](http://academic.research.microsoft.com/Author/2893110/egon-l-willighagen), which looks clean but doesn't work
 on Linux for the nicer things, but the coverage of journals is pretty bad in my field, giving a biased (downwards)
-[H-index](http://en.wikipedia.org/wiki/H-index). And [CiteULike](http://www.citeulike.org/user/egonw) and
-[Mendeley](http://www.mendeley.com/profiles/egon-willighagen/) focus more on your publications than on citations (though the former
+[H-index](http://en.wikipedia.org/wiki/H-index). And
+[CiteULike <i class="fa-solid fa-box-archive fa-xs"></i>](http://web.archive.org/web/20110815142119/http://www.citeulike.org/user/egonw)
+and [Mendeley](http://www.mendeley.com/profiles/egon-willighagen/) focus more on your publications than on citations (though the former
 has [great CiTO support](http://opencitations.wordpress.com/2010/10/21/use-of-cito-in-citeulike/)!).
 
 Then [Google Scholar Citations](http://googlescholar.blogspot.com/2011/07/google-scholar-citations.html) (GSC) shows up. While it

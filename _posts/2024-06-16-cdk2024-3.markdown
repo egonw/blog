@@ -2,10 +2,18 @@
 layout: post
 title:  "cdk2024 #3: an unexpected downstream project"
 date:   2024-06-16
-modified_date: 2024-12-29
+modified_date: 2025-03-11
 tags: cdk grant cdk2024 doi:10.6084/M9.FIGSHARE.2057790.V1
 image: /assets/images/cdkDepictChapter.png
 doi: 10.59350/dtfq8-5x011
+grants:
+  - grant:
+    title: "The Chemistry Development Kit in 2024: improving cheminformatics research"
+    acronym: "CDK2024"
+    id: drc.filenumber:osf232097
+    funder:
+      name: "Dutch Research Council"
+      ror: 04jsz6e67
 ---
 
 In [the CDK2024](https://chem-bla-ics.linkedchemistry.info/2024/04/07/cdk2024.html)

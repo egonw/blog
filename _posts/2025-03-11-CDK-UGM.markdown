@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "cdk2024 #4: Chemistry Development Kit User Group Meeting - Day 1"
+date:   2025-03-11
+doi: 10.59350/e08pe-thb38
+tags: cdk openscience justdoi:10.1002/minf.202100027 justdoi:10.1186/s13321-022-00656-x
+  justdoi:10.1186/s13321-023-00762-4 justdoi:10.1186/s13321-020-00467-y
+---
+
+As part of our [Dutch Research Council](https://www.nwo.nl/en/) (NWO) [Open Science grant](https://www.nwo.nl/en/projects/osf232097),
+we organized a [Chemistry Development Kit User Group Meeting](https://cdk.github.io/nwo-openscience-2024/)
+([#CDK25UGM](https://hashtags-hub.toolforge.org/CDK25UGM)), of which yesterday was the "conference" day, and today a hackathon.
+
+I opened the session with a few slides welcoming everyone at Maastricht University (and our
+[Dept of Translational Genomics](https://chem-bla-ics.linkedchemistry.info/2025/01/27/translational-genomics.html),
+and explaining the NWO grant.
+[John Mayfield](https://orcid.org/0000-0001-7730-2646) ([NextMove](https://www.nextmovesoftware.com/)) spoke about
+"What's New" in the Chemistry Development Kit 2.10, e.g. explaining more about the new (much faster) `AtomContainer`,
+SMIRKS, and more.
+
+After lunch, [Jonas Schaub](https://orcid.org/0000-0003-1554-6666) ([Friedrich Schiller University Jena](https://www.uni-jena.de/en/))
+showed various projects where the CDK is used, titled  "Scaffolds, Functional Groups, Aglycones: Algorithmic Substructure Identification with CDK"
+(see doi:[10.1186/s13321-023-00762-4](https://doi.org/10.1186/s13321-023-00762-4), doi:[10.1186/s13321-022-00656-x](https://doi.org/10.1186/s13321-022-00656-x),
+and doi:[10.1186/s13321-020-00467-y](https://doi.org/10.1186/s13321-020-00467-y)).
+Lyudvika Radeva ([Ideaconsult Ltd](https://www.ideaconsult.net/), [University of Plovdiv](https://uni-plovdiv.bg/en/)) showed
+what SYBYL Line Notation (SLN) is and how this is implemented in Ambit (see doi:[10.1002/minf.202100027](https://doi.org/10.1002/minf.202100027)).
+[Sonja Herres-Pawlis](https://orcid.org/0000-0002-4354-4353) ([RWTH Aachen University](https://www.rwth-aachen.de/))
+updated us with "News from the InChI: making the InChI FAIR and including inorganics", e.g. showing how
+they worked out how the InChI is going to handle organometalics, where the bonds and the stereochemistry
+as aspects that were not handled by the current InChI.
+
+After the afternoon coffee break, [Zhixu Ni](https://orcid.org/0000-0003-3662-2621) ([TU Dresden](https://fedorovalab.net/team/zhixu-ni/))
+showed his work on lipid maps characterization and identification. We previously met a few times
+at EpiLipidNET COST action meetings, and it was great to see his continued research on representation
+of lipids and lipid classes in hit "A Fuzzy Solution for Lipid Structures Using CXSMILES".
+
+Finally, [Matthias Mailänder](https://www.linkedin.com/in/matthiasmailaender/) ([Lablicate GmbH](https://www.lablicate.com/))
+gave a "Live demo of where [OpenChrom](https://github.com/OpenChrom) uses the CDK", and
+[Yajie Ding](https://research.rug.nl/en/persons/yajie-ding) (University of Groningen) told her about her
+glycoscience research. There, cheminformatics can also greatly help and the CDK may provide
+them with solutions.
+
+This really doesn't do justice to all the discussions, examples, use cases, etc. But it gives you
+an idea. We had 11 people in the room, and were joined online by an additional 6 people.

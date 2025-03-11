@@ -2,9 +2,18 @@
 layout: post
 title:  "SPARQL examples: SIB model, software, and patches"
 date:   2024-11-17 00:00
+modified_date: 2025-03-11
 doi: 10.59350/djm89-5nb39
 tags: sparql doi:10.32388/ZNWI7T justdoi:10.48550/arXiv.2410.06010 wikipathways vhp4safety chembl scholia
 image: /assets/images/sparql-examples-tgx.png
+grants:
+  - grant:
+    title: "The Virtual Human Platform for Safety Assessment"
+    acronym: "VHP4Safety"
+    id: drc.filenumber:nwa129219272
+    funder:
+      name: "Dutch Research Council"
+      ror: 04jsz6e67
 ---
 
 [Jerven Bolleman](https://akademienl.social/@jerven) *et al.* recently [published a great preprint](https://arxiv.org/abs/2410.06010)

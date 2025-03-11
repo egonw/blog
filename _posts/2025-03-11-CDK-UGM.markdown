@@ -5,6 +5,13 @@ date:   2025-03-11
 doi: 10.59350/e08pe-thb38
 tags: cdk openscience justdoi:10.1002/minf.202100027 justdoi:10.1186/s13321-022-00656-x
   justdoi:10.1186/s13321-023-00762-4 justdoi:10.1186/s13321-020-00467-y
+grants:
+  - grant:
+    title: "The Chemistry Development Kit in 2024: improving cheminformatics research (CDK2024)"
+    id: drc.filenumber:osf232097
+    funder:
+      name: "Dutch Research Council"
+      ror: 04jsz6e67
 ---
 
 As part of our [Dutch Research Council](https://www.nwo.nl/en/) (NWO) [Open Science grant](https://www.nwo.nl/en/projects/osf232097),

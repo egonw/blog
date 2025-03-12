@@ -2,11 +2,20 @@
 layout: post
 title:  "New paper: \"Integration among databases and data sets to support productive nanotechnology: Challenges and recommendations\""
 date:   2017-12-15
+modified_data: 2025-03-12
 doi: 10.59350/6e3y2-wmy66
 blogger-link: https://chem-bla-ics.blogspot.com/2017/12/new-paper-integration-among-databases.html
 tags: nanosafety justdoi:10.1039/C5NR08944A justdoi:10.3762/bjnano.6.189 doi:10.1016/J.IMPACT.2017.11.002
   justdoi:10.1038/nnano.2017.233 enanomapper nanocommons eunsc
 image: /assets/images/1-s2.0-S2452074817301398-gr1.png
+grants:
+  - grant:
+    title: "eNanoMapper - A Database and Ontology Framework for Nanomaterials Design and Safety Assessment"
+    acronym: eNanoMapper
+    id: cordis.project:604134
+    funder:
+      name: "European Commission"
+      ror: 00k4n6c32
 ---
 
 <img style="float: right;" src="/assets/images/1-s2.0-S2452074817301398-gr1.png" width="200" alt="Figure 1 from the NanoImpact article. CC-BY."/>

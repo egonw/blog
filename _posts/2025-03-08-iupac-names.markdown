@@ -2,6 +2,7 @@
 layout: post
 title:  "One Million IUPAC names"
 date:   2025-03-08
+modified_date: 2025-03-12
 tags: iupac cheminf justdoi:10.1038/s41598-021-94082-y justdoi:10.1186/s13321-021-00512-4
   justdoi:10.1186/s13321-021-00535-x justdoi:10.1186/s13321-024-00941-x justdoi:10.1021/ci100384d
   oscar justdoi:10.1039/B411699M justdoi:10.1039/B411033A justdoi:10.1007/11875741_11 textmining
@@ -51,6 +52,7 @@ I asked on the [ELIXIR Europe](https://elixir-europe.org/) slack channel if [Eur
 had such a dataset (doi:[10.1093/nar/gkad1085](https://doi.org/10.1093/nar/gkad1085)). I knew they had been adding chemical
 [named-entity recognition](https://scholia.toolforge.org/topic/Q403574) (NER) results in
 [their annotation API](https://europepmc.org/Annotations). I learned they used [ChEBI](https://www.ebi.ac.uk/chebi/).
+Melanie Vollmar and Summer Rosonovski or Europe PMC gave useful information and support.
 [Magnus Palmblad](https://cpm.lumc.nl/research/bioinformatics-224/magnus-palmblad-5) also replied
 and provided Python code to use the Europe PMC API to fetch names it returns and see if those
 are IUPAC names. Well, that's easy. We have [OPSIN](https://opsin.ch.cam.ac.uk/) for that

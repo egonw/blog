@@ -2,11 +2,18 @@
 layout: post
 title:  "BridgeDb NWO grant update #2: building up momentum"
 date:   2022-04-17
-modified_date: 2025-02-16
+modified_date: 2025-03-14
 doi: 10.59350/t5wrt-55f66
 blogger-link: https://chem-bla-ics.blogspot.com/2022/04/bridgedb-nwo-grant-update-2-building-up.html
 tags: bridgedb openscience isaac doi:10.3897/RIO.8.E83031 justdoi:10.5281/ZENODO.6367091 justdoi:10.7717/peerj-cs.214
 image: /assets/images/bridgedb_nwo_isaac.png
+grants:
+  - grant:
+    title: "BridgeDb and Wikidata: a powerful combination generating interoperable open research"
+    id: drc.filenumber:203001121
+    funder:
+      name: "Dutch Research Council"
+      ror: 04jsz6e67
 ---
 
 <a href="/assets/images/bridgedb_nwo_uml.png"><img src="/assets/images/bridgedb_nwo_uml.png" style="width: 40%; display: block; margin-left: auto; margin-right: auto; float: right"

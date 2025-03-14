@@ -2,11 +2,18 @@
 layout: post
 title:  "BridgeDb NWO grant update #1: first steps"
 date:   2022-03-05
-modified_date: 2025-02-16
+modified_date: 2025-03-14
 doi: 10.59350/aegfe-5zc88
 blogger-link: https://chem-bla-ics.blogspot.com/2022/03/bridgedb-nwo-grant-update-1-first-steps.html
 tags: grant bridgedb openscience justdoi:10.1186/1471-2105-11-5
 images: /assets/images/bridgedbWebserviceScratch.png
+grants:
+  - grant:
+    title: "BridgeDb and Wikidata: a powerful combination generating interoperable open research"
+    id: drc.filenumber:203001121
+    funder:
+      name: "Dutch Research Council"
+      ror: 04jsz6e67
 ---
 
 Last year, Denise, Tina, Marvin, and I received an [NWO Open Science](https://www.nwo.nl/en/researchprogrammes/open-science/open-science-fund)

@@ -27,7 +27,7 @@ I am a bit behind with tweeting about new published papers, but let that not ref
 [Marvin](https://scholar.google.com/citations?user=GvOHiicAAAAJ&hl=en) an almost-finished PhD candidate in our group and now working as postdoc on the
 [VHP4Safety](https://vhp4safety.nl/) project. He has been working on linking adverse outcome pathways (AOPs) with molecular pathways, such as in
 [WikiPathways](https://www.wikipathways.org/). This work was mostly done as part of the EU projects
-[OpenRiskNet](https://openrisknet.org/) and [EUToxRisk](https://www.eu-toxrisk.eu/), during which he disseminated his research in many directions
+[OpenRiskNet](https://openrisknet.org/) and [EUToxRisk <i class="fa-solid fa-recycle fa-xs"></i>](https://cordis.europa.eu/project/id/681002), during which he disseminated his research in many directions
 (e.g. the second paper in [this post](https://chem-bla-ics.blogspot.com/2022/03/contributions-to-two-new-papers-skin.html)). Talking about impact.
 
 He previously already sketched out the ideas of integration the two kinds of pathways in [this paper](https://doi.org/10.3389/fgene.2018.00661).

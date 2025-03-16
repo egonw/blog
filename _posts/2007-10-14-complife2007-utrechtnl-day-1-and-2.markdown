@@ -5,7 +5,7 @@ date:   2007-10-14
 blogger-link: https://chem-bla-ics.blogspot.com/2007/10/complife2007-utrechtnl-day-1-and-2.html
 tags: knime chemspider justdoi:10.1002/cmdc.200700041
 doi: 10.59350/62aqh-f9y91
-image: /blog/assets/images/knime_chemspider.png
+image: /assets/images/knime_chemspider.png
 ---
 
 [CompLife 2007](http://www.complife.com/) was held 1.5 weeks ago in Utrecht, The Netherlands. The number of participants was much
@@ -14,7 +14,7 @@ and Thorsten one on [KNIME](http://www.knime.org/). Since a visit to Konstance t
 develop a KNIME plugin, but this was a nice opportunity to finally do so. I managed to do so, and wrote up a plugin that takes
 InChIKeys and then goes of the [ChemSpider](http://www.chemspider.com/) to download MDL molfiles:
 
-![](/blog/assets/images/knime_chemspider.png)
+![](/assets/images/knime_chemspider.png)
 
 Why ChemSpider? Arbitrary. Done PubChem in the past already. Moreover, ChemSpider has the largest database of molecular structures
 and in that sense important to my research.

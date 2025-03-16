@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "cdk2024 #5: Chemistry Development Kit User Group Meeting - Day 2"
+date:   2025-03-16
+doi: 10.59350/n7e6r-p1e93
+modified_date: 2025-03-16
+tags: cdk openscience cdk2024
+image: /assets/images/cdk_hackathon.png
+grants:
+  - grant:
+    title: "The Chemistry Development Kit in 2024: improving cheminformatics research"
+    acronym: "CDK2024"
+    id: drc.filenumber:osf232097
+    funder:
+      name: "Dutch Research Council"
+      ror: 04jsz6e67
+---
+
+Where [the first workshop day](https://chem-bla-ics.linkedchemistry.info/2025/03/11/CDK-UGM.html) had several
+talks about new and old features of the [Chemistry Development Kit](https://cdk.github.io/) (CDK), the second day
+was a hackathon day. We hacked and we talked. The coding was not mostly only the CDK repository itself,
+but [some things happened there](https://github.com/cdk/cdk/commits/main/?since=2025-03-10&until=2025-03-11) too:
+
+![](/assets/images/cdk_hackathon.png)
+
+Some pointers:
+
+* we worked on the [Groovy Cheminformatics with the Chemistry Development Kit](http://cdk.github.io/cdkbook/) book
+  * move the repository to the GitHub organisation
+  * improved the build system
+* it was explored how the CDK can generate SMILES for glycans
+* continued work on updated tools using the CDK, e.g. [ChemViz2](https://apps.cytoscape.org/apps/chemviz2)
+* code clean up, e.g. on [JavaDoc](https://github.com/cdk/cdk/commit/7263da00a86d97f965995bf7e706eadb95b90aa9)
+  and [the XML parsing](https://github.com/cdk/cdk/commit/f8621e5fc02cfc73f52272b9dcc9354a4b0bc35d)
+* a [JChemPaint release, based on CDK 2.10](https://github.com/JChemPaint/jchempaint/releases/tag/3.4b),
+  with a [flatpak for easy install on many Linux distributions](https://flathub.org/apps/io.github.jchempaint.JChemPaint)
+
+We further had discussions about a possible change of the license (what it would involve) and OSGi support.
+The problem there is that Java packages can only exist in one OSGi bundle, and this is currently not the
+discuss. We discussed that the current modules were partially setup to clean up dependencies, and generally
+modularize the CDK (e.g. each module could have a separate person responsible). We now want to propose
+a larger `core` module which covers the common cheminformatics functionality. A final discussion point
+I want to mention is that there are serious hints that we may have the Chemistry Development Kit
+as JavaScript in the browser soon!
+
+I like to thank every one who joined the workshop, particularly those that travelled to Maastricht
+from the UK, Germany, and Bulgaria. Also thanks to the six participants online who joined on the
+first day!

@@ -3,7 +3,7 @@ layout: post
 title:  "QSAR plugin for Bioclipse getting in shape"
 date:   2007-06-27
 blogger-link: https://chem-bla-ics.blogspot.com/2007/06/qsar-plugin-for-bioclipse-getting-in.html
-tags: bioclipe qsar cdk ambit
+tags: bioclipse qsar cdk ambit
 image: /blog/assets/images/bioQSAR.png
 ---
 

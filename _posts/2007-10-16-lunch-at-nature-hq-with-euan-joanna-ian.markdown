@@ -5,7 +5,7 @@ date:   2007-10-16 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2007/10/lunch-at-nature-hq-with-euan-joanna-ian.html
 doi: 10.59350/j6dh2-02n14
 tags: connotea chemistry inchi doi
-image: /blog/assets/images/doiTagDelicious.png
+image: /assets/images/doiTagDelicious.png
 ---
 
 On my way back from the [Taverna workshop](http://chem-bla-ics.blogspot.com/search/label/Taverna0710) I visited Nature HQ, as
@@ -48,11 +48,11 @@ would have been opensource ...).
 So, the best current option seems to be social tagging mechanisms, and this is what we talked about. Just use
 Connotea (or any other service) and tag your molecule with a DOI:
 
-![](/blog/assets/images/doiTagDelicious.png)
+![](/assets/images/doiTagDelicious.png)
 
 and
 
-![](/blog/assets/images/connoteaTagDelicious1.png)
+![](/assets/images/connoteaTagDelicious1.png)
 
 This tagging is done manually. No machines involved in that. Nothing the publishers can do about this. No ChemRefer needed.
 But this will allow us to start building a database with links between papers and molecules, which we badly need. BTW, we will

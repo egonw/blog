@@ -5,7 +5,7 @@ date:   2007-10-19
 blogger-link: https://chem-bla-ics.blogspot.com/2007/10/bob-improved-pov-ray-export-of-jmol.html
 doi: 10.59350/byehz-56r07
 tags: jmol
-image: /blog/assets/images/t2.pov.png
+image: /assets/images/t2.pov.png
 ---
 
 Bob has set up a new interface between the data model and the [Jmol](http://www.jmol.org/) renderer, which
@@ -21,10 +21,10 @@ write povray 400 600   # width 400, height 600
 
 Here's a screenshot of a protein with surface:
 
-![](/blog/assets/images/t2.pov.png)
+![](/assets/images/t2.pov.png)
 
 And here a MO of water:
 
-![](/blog/assets/images/watermo.pov.png)
+![](/assets/images/watermo.pov.png)
 
 Note the shading. More examples are available [here](http://www.stolaf.edu/people/hansonr/temp/jmol/povray.htm).

@@ -17,7 +17,7 @@ def proc = 'commonmeta encode 10.59350'.execute()
 proc.consumeProcessOutput(sout, serr)
 proc.waitForOrKill(5000)
 println "out> $sout\nerr> $serr"
-doi = serr.toString().replace("https://doi.org/10.", "10.")
+doi = serr.toString().replace("https://doi.org/10.", "10.").replace("\n","").replace("\r","")
 
 htmlContent = bioclipse.download(blogpost)
 htmlDom = jsoup.parseString(htmlContent)

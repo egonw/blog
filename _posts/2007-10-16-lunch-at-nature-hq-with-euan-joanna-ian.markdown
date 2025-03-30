@@ -34,11 +34,11 @@ The first was not yet picked up by [rdf.openmolecules.net](http://rdf.openmolecu
 We also discussed linking molecular structures with scientific literature. The discussions in blogspace of this week
 show that doing that by using computer programs is not appreciated by publishers (see
 [here](http://www.chemspider.com/blog/?p=204),
-[here](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=684),
-[here](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=702),
-[here](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=697),
+[here <i class="fa-solid fa-recycle fa-xs"></i>](https://blogs.ch.cam.ac.uk/pmr/2007/10/13/outrage-repurposing-open-access-material-is-allowed-without-explicit-permission/),
+[here <i class="fa-solid fa-recycle fa-xs"></i>](https://blogs.ch.cam.ac.uk/pmr/2007/10/16/why-green-open-access-does-not-support-text-and-data-mining/),
+[here <i class="fa-solid fa-recycle fa-xs"></i>](https://blogs.ch.cam.ac.uk/pmr/2007/10/15/indexing-open-access-and-free-access-articles/),
 [here](http://www.chemspider.com/open-chemistry-web/?p=4), and
-[here](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=691))
+[here <i class="fa-solid fa-recycle fa-xs"></i>](https://blogs.ch.cam.ac.uk/pmr/2007/10/14/opsinoscar-you-us-we-please-help/))
 (The publishers seem to prefer to like to send of a PDF to India or China.)
 
 I proposed that the InChI would be part of the publication, for all molecules mentioned in the article. If a

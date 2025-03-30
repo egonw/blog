@@ -2,6 +2,7 @@
 layout: post
 title:  "Nature Chemistry improves publishing chemistry: a detailed analysis"
 date:   2009-03-19
+modified_date: 2025-03-30
 doi: 10.59350/40377-hz881
 image: /assets/images/nchem4.png
 blogger-link: https://chem-bla-ics.blogspot.com/2009/03/nature-chemistry-improves-publishing.html
@@ -64,7 +65,7 @@ indeed, upon publication of a paper, all structures are deposited in the public 
 
 At last but not least, each molecule is available in the [Chemical Markup Language](http://en.wikipedia.org/wiki/Chemical_Markup_Language)
 (with 2D coordinates)! And you know I am a very happy CML user for a long time (see e.g.
-Peter's recent blog [Egon Willighagen and CML](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=1241)).
+Peter's recent blog [Egon Willighagen and CML <i class="fa-solid fa-recycle fa-xs"></i>](https://blogs.ch.cam.ac.uk/pmr/2009/03/13/egon-willighagen-and-cml/)).
 BTW, one comment on the CML: the namespace used is the outdated namespace, **not**
 the current one (see [There can be only one (namespace)](http://cmlexplained.blogspot.com/2007/06/there-can-be-only-one-namespace.html)).
 (But the [CDK](http://cdk.sf.net/) and Bioclipse will read it anyway.)
@@ -77,7 +78,7 @@ HTML they produce.
 
 But before pointing out some missed chances, let me reply *inter alia* to Peter's recent
 work on the Open Source plugin for including semantic chemistry in MS-Word documents
-(see [How can we publish semantic chemical documents?](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=1304)):
+(see [How can we publish semantic chemical documents? <i class="fa-solid fa-recycle fa-xs"></i](https://blogs.ch.cam.ac.uk/pmr/2009/03/16/how-can-we-publish-semantic-chemical-documents/)):
 Nature Chemistry seems to have done a great job with existing tools. Nevertheless, I fully
 back up Peters comment that while the plugin is useless without Word, the results produced
 with the plugin are extremely Open Standard, and enormously reusable! Indeed, while the

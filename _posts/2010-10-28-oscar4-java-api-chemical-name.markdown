@@ -2,7 +2,7 @@
 layout: post
 title:  "Oscar4 Java API: chemical name dictionaries"
 date:   2010-10-28
-modified_date: 2025-03-05
+modified_date: 2025-03-30
 doi: 10.59350/866tq-qv177
 blogger-link: https://chem-bla-ics.blogspot.com/2010/10/oscar4-java-api-chemical-name.html
 tags: oscar java chebi inchikey:XLYOFNOQVPJJNP-UHFFFAOYSA-N inchikey:QTBSBXVTEAMEQO-UHFFFAOYSA-N
@@ -19,7 +19,7 @@ So, what are the API requirements set out? These include (but are not limited to
 * have reasonable defaults
 * being able to add custom dictionaries
 * easily change the chemical entity recogniser
-* plugin text normalization (see [Peter's post on UNICODE](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=2666))
+* plugin text normalization (see [Peter's post on UNICODE <i class="fa-solid fa-recycle fa-xs"></i>](https://blogs.ch.cam.ac.uk/pmr/2010/10/24/the-absolute-minimum-every-scientist-with-data-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/))
 
 This week I worked on the dictionary refactoring, and talked with Lezan about the [ChemicalTagger](http://www-ucc.ch.cam.ac.uk/products/software/chemicaltagger)
 and trying to get this based on the newer Oscar code (I think we'll be able to finish that today). So, I cleaned up

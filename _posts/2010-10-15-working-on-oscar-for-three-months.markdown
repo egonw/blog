@@ -2,12 +2,13 @@
 layout: post
 title:  "Working on Oscar for three months"
 date:   2010-10-15
+modified_date: 2025-03-30
 doi: 10.59350/bwg03-1ey37
 blogger-link: https://chem-bla-ics.blogspot.com/2010/10/working-on-oscar-for-three-months.html
 tags: oscar textmining chebi doi:10.1186/1471-2105-11-159
 ---
 
-As Peter [announced](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=2636) in his blog, and I tweeted earlier, I have started as postdoctoral
+As Peter [announced <i class="fa-solid fa-recycle fa-xs"></i>](https://blogs.ch.cam.ac.uk/pmr/2010/10/11/update-and-real-excitement/) in his blog, and I tweeted earlier, I have started as postdoctoral
 research associate in [Peter's group](http://www-pmr.ch.cam.ac.uk/wiki/Main_Page) at the [University of Cambridge](http://www.cam.ac.uk/),
 to work the next three months on [Oscar](https://oscar3-chem.sf.net), a chemical text mining tool. My tasks will focus on programmatical
 plumbing instead of method development, and I am aiming at integration with [CDK-Taverna](http://cdktaverna.wordpress.com/installing-cdk-taverna/)

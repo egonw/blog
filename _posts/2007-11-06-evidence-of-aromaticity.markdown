@@ -2,6 +2,7 @@
 layout: post
 title:  "Evidence of Aromaticity"
 date:   2007-11-06
+modified_date: 2025-03-30
 blogger-link: https://chem-bla-ics.blogspot.com/2007/11/evidence-of-aromaticity.html
 doi: 10.59350/9fkkg-fxz59
 tags: cdk inchikey:CUFNKYGDVFVPHO-UHFFFAOYSA-N inchikey:AZQWKYJCGOJGHM-UHFFFAOYSA-N aromaticity crystal
@@ -59,11 +60,11 @@ atoms are aromatic, but not all bonds (also [PubChem](https://pubchem.ncbi.nlm.n
 These things are complex, but the rise of [Open Data](http://en.wikipedia.org/wiki/Open_Data) helps us out, as well
 as increasing computing power. [Peter](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/) has been running two rather
 projects which may help us out: [CrystalEye](http://wwmm.ch.cam.ac.uk/crystaleye/) (Nick: no blog?) and
-[OpenNMR](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=767).
+[OpenNMR <i class="fa-solid fa-recycle fa-xs"></i>](https://blogs.ch.cam.ac.uk/pmr/2007/11/02/open-nmr-update-and-requests-for-input/).
 
 NMR shifts will give us experimental backup on our notion of aromaticity, and so do bond lengths. I
-[asked Peter about this](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=767#comment-67526), and whether OpenNMR
-predicted shifts could indeed confirm aromaticity of compounds, and [he replied](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=789)
+[asked Peter about this <i class="fa-solid fa-recycle fa-xs"></i>](https://blogs.ch.cam.ac.uk/pmr/2007/11/02/open-nmr-update-and-requests-for-input/#comment-1139), and whether OpenNMR
+predicted shifts could indeed confirm aromaticity of compounds, and [he replied <i class="fa-solid fa-recycle fa-xs"></i>](https://blogs.ch.cam.ac.uk/pmr/2007/11/05/open-nmr-how-good-is-the-prediction/)
 and showed that the predicted spectra could be used to distinguish between C-C and C=C bonds.
 
 I commented the following (which was in moderation at the time of writing), and that gets us to experimental

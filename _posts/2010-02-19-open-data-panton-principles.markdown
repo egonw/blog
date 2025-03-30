@@ -2,7 +2,7 @@
 layout: post
 title:  "Open Data: the Panton Principles"
 date:   2010-02-19
-modified_date: 2024-03-23
+modified_date: 2025-03-30
 blogger-link: https://chem-bla-ics.blogspot.com/2010/02/open-data-panton-principles.html
 tags: opendata
 image: /assets/images/panton_is_it_open_data.png
@@ -17,7 +17,7 @@ The [announcement](http://blog.okfn.org/2010/02/19/launch-of-the-panton-principl
 [news](http://www.sennoma.net/main/archives/2010/02/panton_principles_for_open_dat.php)
 [today](http://www.nextgenerationscience.com/open-access/the-panton-principles-for-open-data-in-science/),
 though Peter already spoke about them
-[in May last year](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=1939) (see coverage on
+[in May last year <i class="fa-solid fa-recycle fa-xs"></i>](https://blogs.ch.cam.ac.uk/pmr/2009/05/16/the-panton-principles-a-breakthrough-on-data-licensing-for-public-science/) (see coverage on
 [FriendFeed](http://friendfeed.com/search?q=panton+principles) and
 [Twitter](http://search.twitter.com/search?q=panton+principles)). The four principles list in their short versions:
 

@@ -1,0 +1,54 @@
+---
+layout: post
+title:  "cdk2024 #4: wrapping up already"
+date:   2025-03-30
+tags: cdk2024 cdk junit
+doi: 10.59350/143wd-e3m51
+image: /assets/images/cdk2024_junit.png
+grants:
+  - grant:
+    title: "The Chemistry Development Kit in 2024: improving cheminformatics research"
+    acronym: "CDK2024"
+    id: drc.filenumber:osf232097
+    funder:
+      name: "Dutch Research Council"
+      ror: 04jsz6e67
+---
+
+Tomorrow is already the last day of the [NWO Open Science](https://www.nwo.nl/en/researchprogrammes/open-science/open-science-fund) grant
+for the [Chemistry Development Kit](https://cdk.github.io/). We are wrapping up, but I am happy we have a few weeks more
+to finish up the reporting. We held a user group meeting earlier this month (btw, check out the [slides by Jonas](https://doi.org/10.5281/zenodo.15058009)),
+and I have did a [few](https://github.com/cdk/cdk/pull/1175) [more](https://github.com/cdk/cdk/pull/1178)
+[JUnit](https://github.com/cdk/cdk/pull/1179) [testing](https://github.com/cdk/cdk/pull/1180) updates last week:
+
+![](/assets/images/cdk2024_junit.png)
+
+Actually, you see [one pull request](https://github.com/cdk/cdk/pull/1177) here that I closed. I accidentally included a
+circular dependency. Some core CDK functionality is hard to test with an implementation of the data model, but if that
+implementation depends on the module you are testing, that won't work (not in Maven anyway). But the good bits got included
+in the next pull request. One of the goals was to improve the code covered by the tests.
+
+This *coverage testing* has an imporant code maintenance purpose: it visualizes whih code is not checked. Sometimes
+code is not tested that under normal conditions should have been (a bug) and sometimes it is handling a rare situation
+which you want tested too, to make sure that rare case does not get covered by the common code. Thus, the percentage
+code covered by tests should be as high as is reasonable. The pull requests therefore aim to raise that percentage,
+such as for this pull request:
+
+![](/assets/images/cdk2024_coverage.png)
+
+Indeed, over the past 12 months, the coverage did improve, perhaps not as much as we liked, with 2.32 percent point
+to 64.96 percent:
+
+![](/assets/images/cdk2024_coverage2.png)
+
+The CDK started routinely using unit testing somewhere in the zeroes, with home made continous integration
+[as early as 2006](https://chem-bla-ics.linkedchemistry.info/2006/05/01/nightly-cdk-builds-now-available.html),
+shared with the development community every night, thanks to Rajarshi Guha's effort. We had our
+[first code coverage results in the same year](https://chem-bla-ics.linkedchemistry.info/2006/11/28/code-coverage-making-sure-your-code-is.html).
+And at some point we had sufficient coverage that it gave us the opportunity to routinely check
+[the impact of a patch](https://chem-bla-ics.linkedchemistry.info/2007/11/07/comparing-junit-test-results-between.html).
+Of course, this is exactly what many open source projects do with GitHub Actions nowadays.
+
+Unfortunately, we also found that many of the CDK-using tools we worked on in this grant to get updated to
+use a (more) recent CDK version do not have such solutions in place. That left us in several cases quite
+in the dark. More about that soon!

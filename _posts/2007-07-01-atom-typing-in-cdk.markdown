@@ -5,7 +5,7 @@ date:   2007-07-01
 modified_date: 2025-02-15
 doi: 10.59350/wm7aq-eqz10
 blogger-link: https://chem-bla-ics.blogspot.com/2007/07/atom-typing-in-cdk.html
-tags: cdk
+tags: cdk junit
 ---
 
 Atom typing is one of principal activities in chemoinformatics. Atom types provide additional information that cannot be derived

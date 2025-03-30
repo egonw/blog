@@ -5,7 +5,7 @@ date:   2007-11-09
 blogger-link: https://chem-bla-ics.blogspot.com/2007/11/using-nintendo-wii-for-serious-science.html
 doi: 10.59350/cymvx-zfa89
 tags: nintendo linux postgenomic
-image: /blog/assets/images/dsci0190.jpg
+image: /assets/images/dsci0190.jpg
 ---
 
 On my desktop, the [Scintilla](http://scintilla.nature.com/) and [Postgenomic.com](http://postgenomic.com/) websites
@@ -16,9 +16,9 @@ However, my [Wii](http://wii.nintendo.com/) does not have the problem, which mak
 between the [Nature](http://www.nature.com/) server and my [Linux kernel](http://packages.ubuntu.com/gutsy/metapackages/linux)...
 Anyway, this is what the two website look like (first Scintilla, then Postgenomic.com):
 
-![](/blog/assets/images/dsci0190.jpg)
+![](/assets/images/dsci0190.jpg)
 
-![](/blog/assets/images/dsci0191.jpg)
+![](/assets/images/dsci0191.jpg)
 
 (BTW, that was one [very nice piece of work by Rich](http://depth-first.com/articles/2007/10/29/compiling-the-inchi-toolkit-to-pure-java-bytecode-with-nestedvm)!
 Make sure to also read the [follow up](http://depth-first.com/articles/2007/10/31/jinchi-run-inchi-anywhere-java-runs).)

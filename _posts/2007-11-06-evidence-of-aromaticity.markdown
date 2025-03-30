@@ -5,7 +5,7 @@ date:   2007-11-06
 blogger-link: https://chem-bla-ics.blogspot.com/2007/11/evidence-of-aromaticity.html
 doi: 10.59350/9fkkg-fxz59
 tags: cdk inchikey:CUFNKYGDVFVPHO-UHFFFAOYSA-N inchikey:AZQWKYJCGOJGHM-UHFFFAOYSA-N aromaticity crystal
-image: /blog/assets/images/trimodalCC.png
+image: /assets/images/trimodalCC.png
 ---
 
 I have been working on a new atom type perception engine for the [CDK](http://cdk.sf.net/), after having decided that
@@ -46,7 +46,7 @@ The other difference is that the ring system must not have ring atoms which have
 ring too. The classical example is benzoquinone (InChI=1/C6H4O2/c7-5-1-2-6(8)4-3-5/h1-4H) which is not aromatic, even
 though it conforms the 4n+2 rule (image from [PubChem](http://pubchem.ncbi.nlm.nih.gov/)):
 
-![](/blog/assets/images/cid4650.png)
+![](/assets/images/cid4650.png)
 
 ## Evidence of Aromaticity
 
@@ -54,7 +54,7 @@ The final rule, of course, is what nature tells us what is aromatic and what is 
 aromaticity than I just covered. For example, take azulene (InChI=1/C10H8/c1-2-5-9-7-4-8-10(9)6-3-1/h1-8H). All
 atoms are aromatic, but not all bonds (also [PubChem](https://pubchem.ncbi.nlm.nih.gov/compound/9231)):
 
-![](/blog/assets/images/cid9231.png)
+![](/assets/images/cid9231.png)
 
 These things are complex, but the rise of [Open Data](http://en.wikipedia.org/wiki/Open_Data) helps us out, as well
 as increasing computing power. [Peter](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/) has been running two rather
@@ -92,4 +92,4 @@ evidence for aromaticity:
 
 This is what the histogram looks like (for archival reasons):
 
-![](/blog/assets/images/trimodalCC.png)
+![](/assets/images/trimodalCC.png)

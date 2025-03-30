@@ -5,7 +5,7 @@ date:   2007-10-26
 blogger-link: https://chem-bla-ics.blogspot.com/2007/10/my-foaf-network-1-foafexplorer.html
 doi: 10.59350/djg2t-d2x55
 tags: semweb
-image: /blog/assets/images/foaf_egonw.png
+image: /assets/images/foaf_egonw.png
 ---
 
 In this series I will introduce the technologies behind my FOAF network. [FOAF](http://www.foaf-project.org/)
@@ -31,7 +31,7 @@ point.
 
 Back to FOAFExplorer, this is [what the FOAFExplorer shows for my network](http://blueobelisk.sourceforge.net/people/egonw/):
 
-![](/blog/assets/images/foaf_egonw.png)
+![](/assets/images/foaf_egonw.png)
 
 
 I'm a bit lonely, even though I have linked to two friends in my FOAF file, of which one has a FOAF

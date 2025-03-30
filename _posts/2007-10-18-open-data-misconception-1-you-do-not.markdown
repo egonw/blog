@@ -2,12 +2,13 @@
 layout: post
 title:  "Open Data Misconception #1: you do not get cited for your contributions"
 date:   2007-10-18
+modified_date: 2025-03-30
 blogger-link: https://chem-bla-ics.blogspot.com/2007/10/open-data-misconception-1-you-do-not.html
 doi: 10.59350/qvsjx-vxn18
 tags: chemspider opendata
 ---
 
-The [Open Data/ChemSpider](http://chem-bla-ics.blogspot.com/2007/10/chemspider-suse-gnulinux-of-chemical.html) debate is continuing,
+The [Open Data/ChemSpider <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/10/16/chemspider-suse-gnulinux-of-chemical.html) debate is continuing,
 and [Noel](http://baoilleach.blogspot.com/) wondered in the [ChemSpider Blog](http://www.chemspider.com/blog/) item on the
 [Open Data spectra in ChemSpider](http://www.chemspider.com/blog/?p=208). The spectra in ChemSpider come from four persons,
 two of which released their data as Open Data (Robert and [Jean-Claude](http://usefulchem.blogspot.com/))

@@ -2,14 +2,14 @@
 layout: post
 title:  "Dapagliflozin: the molecular structure"
 date:   2007-08-22 00:10
-modified_date: 2025-02-15
+modified_date: 2025-03-30
 doi: 10.59350/ve3jf-qk712
 blogger-link: https://chem-bla-ics.blogspot.com/2007/08/dapagliflozin-molecular-structure.html
 tags: inchikey:JVHXJTBJCFBINQ-ADAARDCZSA-N cito:repliesTo:10.59350/3et2a-pkv75
 image: /assets/images/dapagliflozin.png
 ---
 
-An anonymous reader [reported](http://chem-bla-ics.blogspot.com/2007/03/what-is-dapagliflozin.html) that the
+An anonymous reader [reported <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/03/14/what-is-dapagliflozin.html) that the
 [American Medical Association](http://www.ama-assn.org/) [published](http://www.ama-assn.org/ama1/pub/upload/mm/365/dapagliflozin.pdf)
 the structure of dapagliflozin. Here are the details.
 

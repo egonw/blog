@@ -2,6 +2,7 @@
 layout: post
 title:  "Lunch at Nature HQ (with Euan, Joanna, Ian and Ålf)"
 date:   2007-10-16 00:10
+modified_date: 2025-03-30
 blogger-link: https://chem-bla-ics.blogspot.com/2007/10/lunch-at-nature-hq-with-euan-joanna-ian.html
 doi: 10.59350/j6dh2-02n14
 tags: connotea chemistry inchi doi
@@ -13,11 +14,12 @@ On my way back from the [Taverna workshop](http://chem-bla-ics.blogspot.com/sear
 meeting, but very nice to meet [Euan](http://network.nature.com/blogs/user/euan) (finally; he wrote the
 [postgenomic.com](http://postgenomic.com/) software which I use for [Chemical blogspace](http://cb.openmolecules.net/)),
 [Joanna](http://network.nature.com/blogs/user/joannascott) (whom I met in Chicago already, where she had
-[two](http://chem-bla-ics.blogspot.com/2007/03/acs-chicago-day-1.html) [presentations](http://chem-bla-ics.blogspot.com/2007/03/acs-chicago-day-3.html),
+[two <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/03/26/acs-chicago-day-1.html)
+[presentations <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/03/29/acs-chicago-day-3.html),
 and is responsible for [Second Nature](http://blogs.nature.com/wp/nascent/2007/08/events_on_second_nature.html)),
 [Ian](http://network.nature.com/blogs/user/U3DF456C6) (who works on [Connotea](http://connotea.org/),
 and [commented](http://network.nature.com/blogs/user/U3DF456C6/2007/10/08/molecule-tagging-with-connotea) on
-[my tagging molecule blog](http://chem-bla-ics.blogspot.com/2007/09/tagging-molecules-mashup-of-connotea.html))
+[my tagging molecule blog <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/09/19/tagging-molecules-mashup-of-connotea.html))
 and [Ålf](http://network.nature.com/profile/alf) (who works on [Scintilla](http://scintilla.nature.com/)) and
 briefly [Timo](http://network.nature.com/profile/timo) (who rules them all). BTW, I had a simple but delicious pasta.
 

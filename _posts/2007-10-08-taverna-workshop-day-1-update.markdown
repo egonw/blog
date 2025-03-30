@@ -2,6 +2,7 @@
 layout: post
 title:  "Taverna Workshop, Day 1 Update"
 date:   2007-10-08 00:10
+modified_date: 2025-03-30
 doi: 10.59350/58bs7-cpq93
 blogger-link: https://chem-bla-ics.blogspot.com/2007/10/taverna-workshop-day-1-update.html
 tags: taverna ebi cdk bioclipse myexperiment justdoi:10.1073/pnas.0610772104
@@ -26,7 +27,7 @@ visualize the data and complex, information rich data. Bioclipse is seeing
 After the coffee brake Marco Roos spoke about [myExperiment](http://myexperiment.org/) and his work on text
 mining. I unfortunately missed this presentation, as I was meeting with people from the EBI who work on the
 [MACiE database](http://www.ebi.ac.uk/thornton-srv/databases/MACiE/) (see
-[this blog item](http://chem-bla-ics.blogspot.com/2006/02/chemical-reactions-in-cml.html)).
+[this blog item <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/02/17/chemical-reactions-in-cml.html)).
 
 A discussion session afterwards introduced a few more Taverna uses, and encountered technical problems.
 Taverna2 is actually going to be quite interesting, with a data caching system between work processors, and a

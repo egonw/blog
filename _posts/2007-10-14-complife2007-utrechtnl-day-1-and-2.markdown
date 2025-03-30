@@ -2,6 +2,7 @@
 layout: post
 title:  "CompLife2007, Utrecht/NL. Day 1 and 2"
 date:   2007-10-14
+modified_date: 2025-03-30
 blogger-link: https://chem-bla-ics.blogspot.com/2007/10/complife2007-utrechtnl-day-1-and-2.html
 tags: knime chemspider justdoi:10.1002/cmdc.200700041
 doi: 10.59350/62aqh-f9y91
@@ -20,8 +21,9 @@ Why ChemSpider? Arbitrary. Done PubChem in the past already. Moreover, ChemSpide
 and in that sense important to my research.
 
 Why KNIME? Played with [Taverna](http://taverna.sf.net/) in the past, and expect to do much more work on Taverna in the coming year
-(see also [this](http://chem-bla-ics.blogspot.com/2007/10/taverna-workshop-hinxton-uk.html) and
-[this](http://chem-bla-ics.blogspot.com/2007/10/taverna-workshop-day-1-update.html)). Moreover, KNIME got a CDK plugin already,
+(see also [this <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/10/08/taverna-workshop-hinxton-uk.html) and
+[this <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/10/08/taverna-workshop-day-1-update.html)).
+Moreover, KNIME got a CDK plugin already,
 and the KNIME developers contributed valuable feedback to the CDK project in the last year. It was about time that I contributed
 something back, though the current functionality is quite limited. KNIME has a better architectural design than Taverna1, but will
 face though competition with Taverna2, due next year.

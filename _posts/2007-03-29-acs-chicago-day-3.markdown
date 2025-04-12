@@ -2,7 +2,7 @@
 layout: post
 title:  "ACS Chicago - Day #3"
 date:   2007-03-29 00:20:00
-modified_date: 2025-02-15
+modified_date: 2025-04-12
 doi: 10.59350/fmqmf-03x28
 blogger-link: https://chem-bla-ics.blogspot.com/2007/03/acs-chicago-day-3.html
 tags: acs
@@ -27,7 +27,7 @@ chemistry in the GSoC after all.
 ## CINF
 
 OK, back to the ACS meeting. Fahrenbach had a presentation on blogging too, but don't remember anything special about it.
-The [CHED](http://chem-bla-ics.blogspot.com/2007/03/acs-chicago-day-1.html) session was more elaborate on the whole topic,
+The [CHED <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/03/26/acs-chicago-day-1.html) session was more elaborate on the whole topic,
 and since you are a reader of chemical blogs, you all know about this anyway :) Loney introduced
 [biotechexchange.org](http://biotechexchange.org/) which is building a social network around biotechnology. There are other
 community sites like this, and my major *problem* with these community building efforts is that they are too well defined.
@@ -46,7 +46,7 @@ If the Microsoft is getting interested in chemoinformatics that might be a good 
 source, open data and open standards. Who knows...
 
 Rzepa had his presentation on the semantic wiki, which he, in similar form, [held at the German Chemoinformatics Conference
-too](http://chem-bla-ics.blogspot.com/2006/11/german-conference-on-chemoinformatics_14.html). New, I think, were the sheets
+too <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/11/14/german-conference-on-chemoinformatics_14.html). New, I think, were the sheets
 on reasoning based on the content of the wiki. That was rather interesting. If we all would make our chemical knowledge
 available as [RDF](http://en.wikipedia.org/wiki/Resource_Description_Framework), then this can become a big thing very
 soon. I skipped the presentation of Renear on ontologies, though it was actually one that I had hand picked; but I was
@@ -54,11 +54,11 @@ simply too tired. Will watch the podcast when available. (BTW, are they making p
 for the whole ACS meeting?)
 
 In the afternoon, I also followed just a subset of the presentations. The last one was by Scott [who spoke earlier on
-Second Life](http://chem-bla-ics.blogspot.com/2007/03/acs-chicago-day-1.html). I'm really interested in seeing where this
+Second Life <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/03/26/acs-chicago-day-1.html). I'm really interested in seeing where this
 is going, though I have my reservations if this is the right medium for mining chemical knowledge. Today she spoke on the
 social bookmarking and podcasting initiatives at Nature and [Nature Network](http://network.nature.com/). The latter is
 a social site, like like BioTechExchange, but not limited to one specific topic, and more interdisciplinary (my account
-at [NN](http://network.nature.com/profile/U6151BCD6)). I blogged [about some early issues](http://chem-bla-ics.blogspot.com/2007/02/nature-network-v2-cannot-create-new.html)
+at [NN](http://network.nature.com/profile/U6151BCD6)). I blogged [about some early issues <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/02/23/nature-network-v2-cannot-create-new.html)
 some time ago.
 
 ## Jmol

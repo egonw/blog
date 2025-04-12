@@ -2,7 +2,7 @@
 layout: post
 title:  "ACS Chicago - Day #2"
 date:   2007-03-29 00:10:00
-modified_date: 2025-02-15
+modified_date: 2025-04-12
 doi: 10.59350/6t4jd-n0892
 blogger-link: https://chem-bla-ics.blogspot.com/2007/03/acs-chicago-day-2.html
 tags: acs
@@ -32,7 +32,7 @@ with several people. [Peter](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/) pointed
 And somewhere that day, [Jean-Claude](http://usefulchem.blogspot.com/) pointed me to
 [more chemistry in Second Life](http://usefulchem.blogspot.com/2007/03/communicating-chemistry-at-acs.html)
 (set up by [Beth](http://bethssecondlife.blogspot.com/)). Both are great follow ups on
-[the blog/wiki session by CHED yesterday](http://chem-bla-ics.blogspot.com/2007/03/acs-chicago-day-1.html)!
+[the blog/wiki session by CHED yesterday <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/03/26/acs-chicago-day-1.html)!
 Around 17:00 we left for one of the receptions in the W hotel in one of the WOW rooms, though the view was not that spectacular:
 
 ![](/assets/images/dsci0037.jpg)

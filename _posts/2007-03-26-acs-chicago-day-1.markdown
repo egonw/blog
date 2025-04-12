@@ -2,7 +2,7 @@
 layout: post
 title:  "ACS Chicago - Day #1"
 date:   2007-03-26
-modified_date: 2025-02-15
+modified_date: 2025-04-12
 doi: 10.59350/pjej9-6ab48
 blogger-link: https://chem-bla-ics.blogspot.com/2007/03/acs-chicago-day-1.html
 tags: acs
@@ -32,7 +32,7 @@ in one of the talks in this morning session. Currano followed with a discussion 
 Pence who focussed on the function in education. Francl put chemical blogging in some perspective which led to a
 short discussion on the difference in idea between blogs and wiki's. Gelder and Picione spoke about podcasting as
 multimedia blogs. Scott represented recent work by Nature in exploring Second Life technologies, and mentioned the
-chemistry on their island, which happened to host [a session of the First Online EMBL PhD Symposium last year](http://chem-bla-ics.blogspot.com/2006/12/chemoblogs-2.html).
+chemistry on their island, which happened to host [a session of the First Online EMBL PhD Symposium last year <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/12/06/chemoblogs-2.html).
 Bradley spoke about how he integrated blogs and wiki's into there practicals. The atmosphere of the session was
 relaxed and the discussion lively.
 
@@ -64,7 +64,7 @@ knew that there was funding for going to this meeting, only after the poster sub
 am not in the opportunity to present my work myself.
 
 The evening is for the traditionally parties, time to eat, drink, network, make deals and try to convince others
-about the virtues of [ODOSOS](http://chem-bla-ics.blogspot.com/2006/10/opensource-chemistry-and-opensource.html).
+about the virtues of [ODOSOS <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/10/28/opensource-chemistry-and-opensource.html).
 
 A last reminder: tomorrow afternoon at 13:00 at Laptop Lane in the exposition area is a meeting of chemical
 bloggers. Please join and chat IRL for once! :)

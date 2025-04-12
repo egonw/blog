@@ -2,6 +2,7 @@
 layout: post
 title:  "Tagging, thesauri or ontologies?"
 date:   2007-12-10
+modified_date: 2025-04-12
 blogger-link: https://chem-bla-ics.blogspot.com/2007/12/tagging-thesauri-or-ontologies.html
 doi: 10.59350/smfvd-pdy70
 tags: ontology
@@ -33,8 +34,8 @@ tight hierarchy?
 
 ## Chemical ontologies
 
-Peter has [not seen the movie yet](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=856), but replied with a
-recent comment he had on [CML](http://en.wikipedia.org/wiki/Chemical_Markup_Language):
+Peter has [not seen the movie yet] <i class="fa-solid fa-recycle fa-xs"></i>(https://blogs.ch.cam.ac.uk/pmr/2007/12/09/ontologies-in-physics-and-chemistry/),
+but replied with a recent comment he had on [CML](http://en.wikipedia.org/wiki/Chemical_Markup_Language):
 
 > Ebs and Michael had reviewed CML and questioned why the key concepts were atoms, molecules, electron,
 > substances, whereas they suggested it would have been better to start from reactions. I think that’s

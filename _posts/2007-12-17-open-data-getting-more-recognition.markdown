@@ -2,6 +2,7 @@
 layout: post
 title:  "Open Data getting more recognition"
 date:   2007-12-17
+modified_date: 2025-04-12
 blogger-link: https://chem-bla-ics.blogspot.com/2007/12/open-data-getting-more-recognition.html
 doi: 10.59350/yxjrz-jz465
 tags: odosos openscience
@@ -34,6 +35,6 @@ I particularly like the quote by Tim O'Reilly from [this blog](http://radar.orei
 > its original context, now lost.
 
 In the past I have [argued for the CC-BY license](http://chem-bla-ics.blogspot.com/2007/10/open-data-misconception-1-you-do-not.html),
-and so does Peter in [this recent comment](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=871) on a post by Deepak on
+and so does Peter in [this recent comment <i class="fa-solid fa-recycle fa-xs"></i>](https://blogs.ch.cam.ac.uk/pmr/2007/12/15/deepak-singh-educating-people-about-data-ownership/ on a post by Deepak on
 [educating people about data ownership](http://mndoci.com/blog/2007/12/15/educating-people-about-data-ownership/).
 Interestingly, the new license proposes to remove ownership as solution to *free the data* :)

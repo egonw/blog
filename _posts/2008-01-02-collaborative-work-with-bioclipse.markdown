@@ -2,6 +2,7 @@
 layout: post
 title:  "Collaborative work with Bioclipse"
 date:   2008-01-02
+modified_date: 2025-04-12
 blogger-link: https://chem-bla-ics.blogspot.com/2008/01/collaborative-work-with-bioclipse.html
 doi: 10.59350/2j4mh-gjk19
 tags: bioclipse openscience
@@ -20,8 +21,8 @@ provides you with a *rich* client to process your data. No longer need for putti
 just put the full 3D structure or NMR spectrum in your joint resource set. This is much more suited for
 Open Notebook Science, right [Jean-Claude](http://usefulchem.blogspot.com/)? Just put in the raw data as
 it came out of the spectrometer, and let Bioclipse deal with data extraction. Oh, did you know that
-[Bioclipse has Oscar3](http://chem-bla-ics.blogspot.com/2006/06/text-mining-for-chemistry-using-oscar3.html)
+[Bioclipse has Oscar3 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/06/22/text-mining-for-chemistry-using-oscar3.html)
 integrated (which has not been updated to the latest release, though)?
 
 Why bother with Wikis and Google Docs if you have Bioclipse? Why, even, bother with
-[ICE](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=905)?
+[ICE <i class="fa-solid fa-recycle fa-xs"></i>](https://blogs.ch.cam.ac.uk/pmr/2008/01/02/how-to-create-interactive-maps-and-graphs/)?

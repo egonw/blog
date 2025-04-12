@@ -2,7 +2,7 @@
 layout: post
 title:  "Open Lab 2007 results"
 date:   2008-01-02
-modified_date: 2025-02-15
+modified_date: 2025-02-15 00:10
 doi: 10.59350/5qk4g-0qm07
 blogger-link: https://chem-bla-ics.blogspot.com/2008/01/open-lab-2007-results.html
 tags: openlab justdoi:10.59350/rpn9h-qay37

@@ -2,9 +2,10 @@
 layout: post
 title:  "Be in my Advisory Board #1: being a good Open Science citizen"
 date:   2007-11-27
+modified_date: 2025-04-12
 blogger-link: https://chem-bla-ics.blogspot.com/2007/11/be-in-my-advisory-board-1-being-good.html
 doi: 10.59350/e298f-r8n49
-tags:
+tags: justdoi:10.59350/vhefz-rc472
 ---
 
 I recently saw that blogger.com blogs gained [a poll feature](http://buzz.blogger.com/2007/07/polls-out-of-draft.html).
@@ -25,7 +26,7 @@ The goal of this project is to ensure that all information the CDK data model ca
 
 ##Integrating InChI-NestedVM in Bioclipse
 [Rich](http://depth-first.com/) is, besides an excellent blogger, also someone who is not afraid to try new things.
-Recently, he experimented with compiling the [InChI library into a Java executable](http://depth-first.com/articles/2007/10/31/jinchi-run-inchi-anywhere-java-runs).
+Recently, he experimented with compiling the [InChI library into a Java executable <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/vhefz-rc472).
 [Bioclipse](http://www.bioclipse.net/) already is able to generate [InChI](http://iupac.org/inchi/)s,
 using the code written by Sam Adams for the [CDK](http://cdk.sf.net/), but a InChI/NestedVM plugin for Bioclipse
 could make a nice show case.

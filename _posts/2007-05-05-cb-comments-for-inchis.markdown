@@ -2,7 +2,7 @@
 layout: post
 title:  "Cb comments for InChI's"
 date:   2007-05-05
-modified_date: 2025-02-15
+modified_date: 2025-04-12
 doi: 10.59350/z1vb6-w9v12
 blogger-link: https://chem-bla-ics.blogspot.com/2007/05/cb-comments-for-inchis.html
 tags: cb inchi userscript rdf
@@ -25,15 +25,15 @@ Just needs some hacking. Right, and done that today. The scripts works for [PubC
 ![](/assets/images/cb_inchi_greasemonkey1.png)
 
 Works for any `<a href>` element with an URL to PubChem like *http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pccompound&term=%22InChI=1/CH4/h1H4%22[InChI]*.
-BTW, while the URL is not very readable, this might actually be a good way to [hide InChIs](http://chem-bla-ics.blogspot.com/2007/02/invisible-inchis.html),
+BTW, while the URL is not very readable, this might actually be a good way to [hide InChIs <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/02/20/invisible-inchis.html),
 though I am sure Google will not index this InChI either.
 
-And it also works for [semantically marked up InChI's (using either microformats or RDFa)](http://chem-bla-ics.blogspot.com/2006/12/including-smiles-cml-and-inchi-in.html):
+And it also works for [semantically marked up InChI's (using either microformats or RDFa) <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/12/10/including-smiles-cml-and-inchi-in.html):
 
 ![](/assets/images/cb_inchi_greasemonkey.png)
 
 You'll notice here that it is friendly with my
-[Sechemtic script to make links to Google and PubChem](http://chem-bla-ics.blogspot.com/2006/12/smiles-cas-and-inchi-in-blogs.html).
+[Sechemtic script to make links to Google and PubChem <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/12/17/smiles-cas-and-inchi-in-blogs.html).
 
 The tools to make this happen involves a new Greasemonkey script (based on Noels code), and a few patches to the Postgenomic.com software.
 The user script can be downloaded [here](http://userscripts.org/scripts/show/9002). An entry on the

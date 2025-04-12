@@ -2,9 +2,10 @@
 layout: post
 title:  "Using the Nintendo Wii for serious science..."
 date:   2007-11-09
+modified_date: 2025-04-12
 blogger-link: https://chem-bla-ics.blogspot.com/2007/11/using-nintendo-wii-for-serious-science.html
 doi: 10.59350/cymvx-zfa89
-tags: nintendo linux postgenomic
+tags: nintendo linux postgenomic justdoi:10.59350/v4pc6-9v569 justdoi:10.59350/vhefz-rc472
 image: /assets/images/dsci0190.jpg
 ---
 
@@ -20,8 +21,8 @@ Anyway, this is what the two website look like (first Scintilla, then Postgenomi
 
 ![](/assets/images/dsci0191.jpg)
 
-(BTW, that was one [very nice piece of work by Rich](http://depth-first.com/articles/2007/10/29/compiling-the-inchi-toolkit-to-pure-java-bytecode-with-nestedvm)!
-Make sure to also read the [follow up](http://depth-first.com/articles/2007/10/31/jinchi-run-inchi-anywhere-java-runs).)
+(BTW, that was one [very nice piece of work by Rich <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/v4pc6-9v569)!
+Make sure to also read the [follow up <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/vhefz-rc472)).
 
 The only real disadvantage is that it does not integrate well with the things I do daily. If I see some interesting
 post, and would like to tag it on [my del.icio.us account](http://del.icio.us/egonw), I have to google for it on

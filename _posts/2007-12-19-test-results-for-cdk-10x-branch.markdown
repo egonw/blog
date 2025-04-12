@@ -5,7 +5,7 @@ date:   2007-12-19
 blogger-link: https://chem-bla-ics.blogspot.com/2007/12/test-results-for-cdk-10x-branch.html
 doi: 10.59350/ry980-qya21
 tags: cdk
-image: /blog/assets/images/results.png
+image: /assets/images/results.png
 ---
 
 The [Chemistry Development Kit](http://cdk.sf.net/) has never really been without any bugs, which is reflected in the number
@@ -27,7 +27,7 @@ the number of tests failing now. Maybe backported patches causes additional fail
 the JUnit tests for all revisions of the `cdk-1.0.x/` branch since the branch was made in commit
 [8343](http://cdk.svn.sourceforge.net/viewvc/cdk?view=rev&revision=8343). The result looks like:
 
-![](/blog/assets/images/results.png)
+![](/assets/images/results.png)
 
 Indeed, it is a number of backports that cause the clear increase in bugs between commit 9044 and 9058. Nothing particular I can see, and worse, the intermediate revisions do not compile and do not have test restults:
 

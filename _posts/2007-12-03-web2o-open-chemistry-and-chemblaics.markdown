@@ -5,7 +5,7 @@ date:   2007-12-03
 blogger-link: https://chem-bla-ics.blogspot.com/2007/12/web2o-open-chemistry-and-chemblaics.html
 doi: 10.59350/afvyc-7bq58
 tags:
-image: /blog/assets/images/coolestCaptcha.png
+image: /assets/images/coolestCaptcha.png
 ---
 
 Chemistry World December issue features a nice item on the future of data in chemistry:
@@ -19,7 +19,7 @@ touches [Jean-Claude](http://usefulchem.blogspot.com/)'s work on Open Notebook S
 [Chemical blogspace](http://cb.openmolecules.net/). Via some video efforts, it ends up with Mitch'
 [Chemmunity](http://www.chemmunity.com/), which has the coolest Captcha I have seen so far:
 
-![](/blog/assets/images/coolestCaptcha.png)
+![](/assets/images/coolestCaptcha.png)
 
 It also cited [Rich](http://depth-first.com/)' blog item on [32 free chemical databases](http://depth-first.com/articles/2007/01/24/thirty-two-free-chemistry-databases),
 [Christoph](http://www.steinbeck-molecular.de/steinblog/)'s [NMRShiftDB.org](http://www.nmrshiftdb.org/),

@@ -5,7 +5,7 @@ date:   2022-08-01
 doi: 10.59350/ab2rj-qdg37
 blogger-link: https://chem-bla-ics.blogspot.com/2022/08/biology-acps-lipids-cheminformatics-and.html
 tags: cdk chebi dagstuhl epilipidnet kegg wikipathways lipidmaps metabolomics smiles wikidata doi:10.7554/ELIFE.52614
-  doi:10.7554/ELIFE.70780 doi:10.1186/S13321-017-0220-4
+  doi:10.7554/ELIFE.70780 doi:10.1186/S13321-017-0220-4 cxsmiles
 ---
 
 Already 3 months ago I visited [Dagstuhl](https://www.dagstuhl.de/) for the second time. The weather was much better than in the January right before

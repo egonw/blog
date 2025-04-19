@@ -94,7 +94,12 @@ layout: base
     <p class="post-meta" id="acks">
       {% for grant in page.grants %}
         <i>This post described research output that was funded by <a href="https://ror.org/{{ grant.funder.ror }}">{{ grant.funder.name }}</a>
-          under grant number <a href="https://bioregistry.io/{{ grant.id }}">{{ grant.id }}</a>.</i>
+          under grant number
+          {% if grant.id %}
+            <a href="https://bioregistry.io/{{ grant.id }}">{{ grant.id }}</a>.</i>
+          {% else %}
+            <a href="{{ grant.uri }}">{% if grant.identifier %}{{ grant.identifier }}{% else %}{{ grant.uri }}{% endif %}</a>.</i>
+          {% endif %}
       {% endfor %}
     </p>
   </div>

@@ -5,6 +5,15 @@ date:   2023-01-27
 blogger-link: https://chem-bla-ics.blogspot.com/2023/01/scholia-timeline.html
 doi: 10.59350/qhhk0-prq78
 tags: scholia twitter wikidata justdoi:10.1038/nature.2017.21800
+grants:
+  - grant:
+    title: "To support development on Scholia, a software tool to facilitate the exploration and curation of the research literature"
+    acronym: "Scholia"
+    identifier: G-2019-11458
+    uri: https://sloan.org/grant-detail/G-2019-11458
+    funder:
+      name: "Alfred P. Sloan Foundation"
+      ror: 052csg198
 ---
 
 <img style="float: right;" src="/assets/images/Scholia_work_profile_screenshot_as_of_2018-09-04.png" width="300" />

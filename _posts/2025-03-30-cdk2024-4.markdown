@@ -2,6 +2,7 @@
 layout: post
 title:  "cdk2024 #6: wrapping up already"
 date:   2025-03-30
+modified_date: 2025-04-20
 tags: cdk2024 cdk junit cito:citesAsRecommendedReading:10.5281/zenodo.15058009
 doi: 10.59350/143wd-e3m51
 image: /assets/images/cdk2024_junit.png
@@ -18,7 +19,7 @@ grants:
 Tomorrow is already the last day of the [NWO Open Science](https://www.nwo.nl/en/researchprogrammes/open-science/open-science-fund) grant
 for the [Chemistry Development Kit](https://cdk.github.io/). We are wrapping up, but I am happy we have a few weeks more
 to finish up the reporting. We held a user group meeting earlier this month (btw, check out the [slides by Jonas](https://doi.org/10.5281/zenodo.15058009)),
-and I have did a [few](https://github.com/cdk/cdk/pull/1175) [more](https://github.com/cdk/cdk/pull/1178)
+and I did a [few](https://github.com/cdk/cdk/pull/1175) [more](https://github.com/cdk/cdk/pull/1178)
 [JUnit](https://github.com/cdk/cdk/pull/1179) [testing](https://github.com/cdk/cdk/pull/1180) updates last week:
 
 ![](/assets/images/cdk2024_junit.png)

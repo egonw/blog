@@ -2,7 +2,7 @@
 layout: post
 title:  "Being a good opensource user"
 date:   2006-10-25
-modified_date: 2025-02-16
+modified_date: 2025-04-20
 doi: 10.59350/ta3ms-e8480
 blogger-link: https://chem-bla-ics.blogspot.com/2006/10/being-good-opensource-user.html
 tags: openscience
@@ -15,7 +15,7 @@ For example, I am a big user of the [Linux](http://www.kernel.org/) kernel, the 
 many others. What these have in common, is that I generally have no time to look into the source code of these projects. A small patch excluded,
 I am really a regular user of these projects.
 
-However, I try not to [leech](http://en.wikipedia.org/wiki/Leech_(computing)) (see also [Peter's related comment on that](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=78)):
+However, I try not to [leech](http://en.wikipedia.org/wiki/Leech_(computing)) (see also [Peter's related comment on that <i class="fa-solid fa-recycle fa-xs"></i>](https://blogs.ch.cam.ac.uk/pmr/2006/10/01/open-source-and-the-tragedy-of-the-lurkers/)):
 I care about these projects and, therefore, I file bug reports. Sometimes, I even join the developers and talk to them via commonly used IRC and
 mailing lists. Even, every now and then I get this itch and then I do look up source code and contribute a patch. But filing bug reports is the
 least one can do, the least everyone should do.

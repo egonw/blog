@@ -2,7 +2,7 @@
 layout: post
 title:  "Opensource Chemistry and Opensource Chemoinformatics"
 date:   2006-10-28
-modified_date: 2025-02-16
+modified_date: 2025-04-20
 doi: 10.59350/vmj1w-f9732
 blogger-link: https://chem-bla-ics.blogspot.com/2006/10/opensource-chemistry-and-opensource.html
 tags: openscience opensource blue-obelisk chemistry cheminf justdoi:10.1021/ci0502698
@@ -15,7 +15,7 @@ performs 'open source' science (see his [Useful Chemistry blog](http://usefulche
 closed source software, while the [Blue Obelisk](http://www.blueobelisk.org/) is about 'open source' software. It seemed that
 this was contradicting, and [Peter Murray-Rust](http://wwmm.ch.cam.ac.uk/wikis/wwmm/index.php/Peter_Murray_Rust)
 [[wp](http://en.wikipedia.org/):[en](http://en.wikipedia.org/wiki/Peter_Murray-Rust)] wrote up a lengthy
-[overview of the use of the term 'open'](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=69).
+[overview of the use of the term 'open' <i class="fa-solid fa-recycle fa-xs"></i>](https://blogs.ch.cam.ac.uk/pmr/2006/09/26/open/).
 
 Now, I have been giving the 'open source' ambiguity some thinking (well, about a month or so...), and came to the following conclusions:
 

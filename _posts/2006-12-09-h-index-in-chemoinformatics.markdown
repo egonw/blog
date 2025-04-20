@@ -2,13 +2,13 @@
 layout: post
 title:  "H-index in chemoinformatics"
 date:   2006-12-09
-modified_date: 2025-02-16
+modified_date: 2025-04-20
 doi: 10.59350/me9g4-sa136
 blogger-link: https://chem-bla-ics.blogspot.com/2006/12/h-index-in-chemoinformatics.html
 tags: cheminf
 ---
 
-[Peter](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/) [blogged](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=209) about the
+[Peter](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/) [blogged <i class="fa-solid fa-recycle fa-xs"></i>](https://blogs.ch.cam.ac.uk/pmr/2006/12/08/impact-factors-hirsch-erdos-and-pauling/) about the
 [h-index](http://en.wikipedia.org/wiki/H-index), which is a measure for ones scientific impact. He used
 [Google Scholar](http://scholar.google.com/), but I do not feel that that database is clean enough. I believe a better
 source would be the [ISI Web-of-Science](http://portal.isiknowledge.com/portal.cgi?DestApp=WOS&Func=Frame).

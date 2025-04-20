@@ -2,7 +2,7 @@
 layout: post
 title:  "Chemo::Blogs #1"
 date:   2006-09-15
-modified_date: 2025-02-16
+modified_date: 2025-04-20
 doi: 10.59350/zagc3-qnj56
 blogger-link: https://chem-bla-ics.blogspot.com/2006/09/chemoblogs-1.html
 tags: justdoi:10.1093/NAR/GKL385 justdoi:10.1093/NAR/GKL320 taverna cdk justdoi:10.1093/BIB/BBL025
@@ -18,7 +18,7 @@ My [del.icio.us](http://del.icio.us/) (social bookmarking) [network](http://del.
 [HTML Slidy](http://www.w3.org/Talks/Tools/Slidy/), an XHTML based PowerPoint replacement. Being true XHTML, it allows
 embedding [Jmol](http://www.jmol.org/), [JChemPaint](http://jchempaint.sf.net/) and any other applet. Embed your pieces
 of CML, MathML and SVG (or any other [namespace](http://en.wikipedia.org/wiki/XML_namespace)) and you no longer
-[have data loss](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=28).
+[have data loss <i class="fa-solid fa-recycle fa-xs"></i>](https://blogs.ch.cam.ac.uk/pmr/2006/09/10/hamburgers-and-cows-the-cognitive-style-of-pdf/).
 
 [Nucleic Acids Research](http://nar.oxfordjournals.org/) recently had a special issue on webservers
 (DOI:[10.1093/nar/gkl385](http://dx.doi.org/10.1093/nar/gkl385)), in which [Taverna <i class="fa-solid fa-recycle fa-xs"></i>](https://incubator.apache.org/projects/taverna.html)

@@ -2,12 +2,13 @@
 layout: post
 title:  "Scintilla and Postgenomic.com on Linux 2.6.17+"
 date:   2007-11-12
+modified_date: 2025-04-20
 blogger-link: https://chem-bla-ics.blogspot.com/2007/11/scintilla-and-postgenomiccom-on-linux.html
 doi: 10.59350/bw5s8-f0t43
 tags: linux postgenomic
 ---
 
-That's why blogging works! I reported last Friday on [using my Wii for reading](http://chem-bla-ics.blogspot.com/2007/11/using-nintendo-wii-for-serious-science.html)
+That's why blogging works! I reported last Friday on [using my Wii for reading <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/11/09/using-nintendo-wii-for-serious-science.html)
 [Scintilla](http://scintilla.nature.com/) and [Postgenomic.com](http://www.postgenomic.com/).
 [Alf replied](http://chem-bla-ics.blogspot.com/2007/11/using-nintendo-wii-for-serious-science.html#c9163469498026561308):
 

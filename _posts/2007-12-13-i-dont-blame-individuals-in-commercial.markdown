@@ -2,6 +2,7 @@
 layout: post
 title:  "I don't blame Individuals in Commercial Chemoinformatics"
 date:   2007-12-13
+modified_date: 2025-04-20
 blogger-link: https://chem-bla-ics.blogspot.com/2007/12/i-dont-blame-individuals-in-commercial.html
 doi: 10.59350/c2vv2-thb23
 tags: openscience
@@ -25,7 +26,7 @@ Anthony replied with these lines: *"Yes, I think it is amazing that companies of
 their tools at no cost to systems like ChemSpider"*. He read my sarcasm correctly. I find it absurd that the future of
 chemoinformatics is left to the goodwill of benevolent companies. Chemoinformatics is way too important, and in way
 to crappy state, to be kept as proprietary toy to industry; that's
-[something I argued before](http://chem-bla-ics.blogspot.com/2007/10/why-odosos-is-important.html).
+[something I argued before <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/10/14/why-odosos-is-important.html).
 
 Let me try to explain where my sarcasm is coming from.
 

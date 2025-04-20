@@ -2,14 +2,15 @@
 layout: post
 title:  "Molecules in Wikipedia without InChIs #3"
 date:   2007-11-16
+modified_date: 2025-04-20
 blogger-link: https://chem-bla-ics.blogspot.com/2007/11/molecules-in-wikipedia-without-inchis-3.html
 doi: 10.59350/qsqn1-qtk65
 tags: wikipedia inchi
 ---
 
 Third in the series of blogs about molecules in [Wikipedia](http://www.wikipedia.org/) without an
-[InChI](http://www.iupac.org/inchi/) (see also [#1](http://chem-bla-ics.blogspot.com/2007/06/using-wikipedia-to-recognize-molecules.html) and
-[#2](http://chem-bla-ics.blogspot.com/2007/08/molecules-in-wikipedia-without-inchis.html)).
+[InChI](http://www.iupac.org/inchi/) (see also [#1 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/06/19/using-wikipedia-to-recognize-molecules.html) and
+[#2 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/08/11/molecules-in-wikipedia-without-inchis.html)).
 There a certainly false positives, but here's the updated list:
 
 ```

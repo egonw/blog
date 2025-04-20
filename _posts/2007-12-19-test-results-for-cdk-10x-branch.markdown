@@ -2,6 +2,7 @@
 layout: post
 title:  "Test results for the CDK 1.0.x branch"
 date:   2007-12-19
+modified_date: 2025-04-20
 blogger-link: https://chem-bla-ics.blogspot.com/2007/12/test-results-for-cdk-10x-branch.html
 doi: 10.59350/ry980-qya21
 tags: cdk
@@ -17,8 +18,8 @@ is not much lower: 64 failing tests today ([live stats](http://cheminfo.informat
 Overall, only a low percentage of the tests fails (<2% for cdk-1.0.x/ and <3% for trunk/), and, more importantly, it is
 particular algorithms that are typically broken. For example, in the structgen module 8 tests fail, for both CDK versions.
 In the `cdk-1.0.x/` branch it is the valency checker code that causes quite a few fails, which I discussed in
-[Atom typing in the CDK](http://chem-bla-ics.blogspot.com/2007/07/atom-typing-in-cdk.html) and which is the reason for
-the atom type perception refactoring in progress in trunk/ (see [Evidence of Aromaticity](http://chem-bla-ics.blogspot.com/2007/11/evidence-of-aromaticity.html)).
+[Atom typing in the CDK <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/07/01/atom-typing-in-cdk.html) and which is the reason for
+the atom type perception refactoring in progress in trunk/ (see [Evidence of Aromaticity <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/11/06/evidence-of-aromaticity.html)).
 Not all code in trunk/ has yet been updated yet, and this causes quite a few failing tests for `trunk/` in the `reaction`,
 `qsarAtomic` and `qsarBond` modules.
 

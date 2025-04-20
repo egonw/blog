@@ -2,7 +2,7 @@
 layout: post
 title:  "Evidence of Aromaticity"
 date:   2007-11-06
-modified_date: 2025-03-30
+modified_date: 2025-04-20
 blogger-link: https://chem-bla-ics.blogspot.com/2007/11/evidence-of-aromaticity.html
 doi: 10.59350/9fkkg-fxz59
 tags: cdk inchikey:CUFNKYGDVFVPHO-UHFFFAOYSA-N inchikey:AZQWKYJCGOJGHM-UHFFFAOYSA-N aromaticity crystal
@@ -10,7 +10,7 @@ image: /assets/images/trimodalCC.png
 ---
 
 I have been working on a new atom type perception engine for the [CDK](http://cdk.sf.net/), after having decided that
-[the existing atom type lists](http://chem-bla-ics.blogspot.com/2007/07/atom-typing-in-cdk.html) where not sufficient for
+[the existing atom type lists <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/07/01/atom-typing-in-cdk.html) where not sufficient for
 the algorithms we have in the CDK. The [new list](http://cdk.svn.sourceforge.net/viewvc/*checkout*/cdk/trunk/cdk/src/org/openscience/cdk/config/data/cdk_atomtypes.xml?revision=9288)
 is growing in size, and basically contains four properties (besides element and formal charge):
 

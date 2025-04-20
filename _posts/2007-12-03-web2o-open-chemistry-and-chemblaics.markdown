@@ -2,7 +2,7 @@
 layout: post
 title:  "Web2O, Open Chemistry, and Chemblaics"
 date:   2007-12-03
-modified_date: 2025-04-12
+modified_date: 2025-04-20
 blogger-link: https://chem-bla-ics.blogspot.com/2007/12/web2o-open-chemistry-and-chemblaics.html
 doi: 10.59350/afvyc-7bq58
 tags: openscience
@@ -24,7 +24,7 @@ touches [Jean-Claude](http://usefulchem.blogspot.com/)'s work on Open Notebook S
 
 It also cited [Rich](http://depth-first.com/)' blog item on [32 free chemical databases](http://depth-first.com/articles/2007/01/24/thirty-two-free-chemistry-databases),
 [Christoph](http://www.steinbeck-molecular.de/steinblog/)'s [NMRShiftDB.org](http://www.nmrshiftdb.org/),
-[Project Prospect](http://chem-bla-ics.blogspot.com/2007/02/rsc-first-publisher-to-go-semantic.html),
+[Project Prospect <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/02/01/rsc-first-publisher-to-go-semantic.html),
 and CML which recently saw [its the 7th research paper](http://cmlexplained.blogspot.com/2007/09/chemical-markup-language-for-spectra.html).
 
 Of course, this is the arena of *chemblaics*, but unfortunately [my blog](http://chem-bla-ics.blogspot.com/)

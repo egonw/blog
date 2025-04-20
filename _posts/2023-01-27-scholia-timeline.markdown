@@ -2,6 +2,7 @@
 layout: post
 title:  "Scholia timeline"
 date:   2023-01-27
+modified_date: 2025-04-20
 blogger-link: https://chem-bla-ics.blogspot.com/2023/01/scholia-timeline.html
 doi: 10.59350/qhhk0-prq78
 tags: scholia twitter wikidata justdoi:10.1038/nature.2017.21800
@@ -21,10 +22,10 @@ Sometimes I think back about how [Scholia](https://scholia.toolforge.org/) start
 Twitter discussion. Twitter was a social platform that was unable to fight hate speech. I left it last year in favor
 of [Mastodon](https://scholar.social/@egonw).
 
-Anyway, I did some digging today and found [this thread](https://twitter.com/fnielsen/status/785008295505489920) from
+Anyway, I did some digging today and found [this thread <i class="fa-solid fa-box-archive fa-xs"></i>](https://web.archive.org/web/20230402075737/https://twitter.com/fnielsen/status/785008295505489920) from
 October 8-9 2016. A few days earlier, Finn has created a profile based on data in Wikidata on his homepage,
-[which I was very happy about](https://twitter.com/egonwillighagen/status/783190125882777600). You can see how
-[Dario suggests](https://twitter.com/ReaderMeter/status/784810921029881856) to put that webpage up on Toolforge.
+[which I was very happy about <i class="fa-solid fa-link-slash fa-xs"></i>](https://twitter.com/egonwillighagen/status/783190125882777600). You can see how
+[Dario suggests <i class="fa-solid fa-link-slash fa-xs"></i>](https://twitter.com/ReaderMeter/status/784810921029881856) to put that webpage up on Toolforge.
 For completeness, this is [the first commit](https://github.com/WDscholia/scholia/commit/484104fdf60e4d8384b9816500f2826dbfe064ce.patch),
 October 9.
 

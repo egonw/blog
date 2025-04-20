@@ -2,6 +2,7 @@
 layout: post
 title:  "CDK Literature #4"
 date:   2008-01-06
+modified_date: 2025-04-20
 blogger-link: https://chem-bla-ics.blogspot.com/2008/01/cdk-literature-4.html
 doi: 10.59350/es4e7-esh15
 tags: cdk doi:10.2174/138161206777585274 doi:10.1021/CI025584Y justdoi:10.1021/ci700043u
@@ -68,4 +69,4 @@ presented at last years CDK Workshop. <br />
 *Fangping Mu, Robert Williams, Clifford Unkefer, Pat Unkefer, James Faeder, William Hlavacek, Carbon-fate maps for metabolic reactions,
 Bioinformatics, 2007, 23(23):3193-3199, doi:[10.1093/bioinformatics/btm498](http://dx.doi.org/10.1093/bioinformatics/btm498)*
 
-I got two more papers lined up, but do have access to Current Pharmaceutical Design.
+I got two more papers lined up, but do not have access to Current Pharmaceutical Design.

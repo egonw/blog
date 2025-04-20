@@ -93,7 +93,7 @@ layout: base
     <b class="post">Acknowledgements</b>
     <p class="post-meta" id="acks">
       {% for grant in page.grants %}
-        <i>This post described research output that was funded by <a href="https://ror.org/{{ grant.funder.ror }}">{{ grant.funder.name }}</a>
+        <i>This post describes research output that was funded by <a href="https://ror.org/{{ grant.funder.ror }}">{{ grant.funder.name }}</a>
           under grant number
           {% if grant.id %}
             <a href="https://bioregistry.io/{{ grant.id }}">{{ grant.id }}</a>.</i>

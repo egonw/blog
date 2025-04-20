@@ -19,7 +19,8 @@ This is the third weekend I am working on Scholia, the first two part of the [Ap
 last year [October](https://www.wikidata.org/wiki/Wikidata:Scholia/Events/Hackathon_October_2024) and
 [November](https://chem-bla-ics.linkedchemistry.info/2024/11/17/sparql-examples.html) hackathons.
 There is some urgency for this unpaid work, because Wikidata is splitting the RDF into two
-SPARQL endpoints (see [this [The Signpost](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2024-05-16/Op-Ed)).
+SPARQL endpoints (see [this [The Signpost](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2024-05-16/Op-Ed)
+and [this post by Finn](https://finnaarupnielsen.wordpress.com/2024/10/18/scholia-in-the-age-of-the-wikidata-query-service-split/).
 This split has happened, but there is a *legacy* server for tools that have not been upgraded.
 
 Scholia has not been upgraded. It has more then 350 SPARQL queries, and each one has to be tested

@@ -4,7 +4,8 @@ title:  "Defining Development Goals: LaunchPad complements SourceForge"
 date:   2008-02-02 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2008/02/defining-development-goals-launchpad.html
 doi: 10.59350/nks4k-n7e69
-tags:
+tags: cdk
+image: /blog/assets/images/ipPredictionDeps.png
 ---
 
 Today, Miguel (who made [the 10000th CDK commit](http://chem-bla-ics.blogspot.com/2008/02/10000-cdk-commits.html)) and I gave

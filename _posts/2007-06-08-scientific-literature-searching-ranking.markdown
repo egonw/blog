@@ -2,7 +2,7 @@
 layout: post
 title:  "Scientific Literature: searching, ranking, storage"
 date:   2007-06-08
-modified_date: 2025-02-16
+modified_date: 2025-04-27
 doi: 10.59350/8rxpp-1e755
 blogger-link: https://chem-bla-ics.blogspot.com/2007/06/scientific-literature-searching-ranking.html
 tags: citeulike publishing chemistry justdoi:10.59350/6zgf4-2wb06 connotea
@@ -33,7 +33,7 @@ to PDF versions of the article.
 ## Ranking
 
 [Mitch set up](http://www.chemicalforums.com/index.php?topic=17653.msg67580#msg67580) [ChemRank](http://chemrank.com/),
-to which [Peter](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=342), the [ChemBlog](http://www.thechemblog.com/?p=552)
+to which [Peter <i class="fa-solid fa-recycle fa-xs"></i>](https://blogs.ch.cam.ac.uk/pmr/2007/05/30/ranking-chemistry-and-blogosphere-metrics/), the [ChemBlog](http://www.thechemblog.com/?p=552)
 and [I replied](http://chem-bla-ics.blogspot.com/2007/05/chemrank-ranking-scientific-literature.html). Afterwards,
 I learned that other services are available too, that allow, in addition to setting up an online personal literature
 database, voting and commenting on articles.
@@ -68,7 +68,7 @@ the options will stay around. Time will learn. Good news is that the open charac
 mashups, and generally integrate tools. For example, JabRef allows downloading citations from PubMed, and Noel
 [suggested to use Greasemonkey scripts to link to the supplementary information for his articles](http://baoilleach.blogspot.com/2007/05/supporting-information-available-as.html),
 instead of using the mechanisms journals have. I can see the advantage of this, as, for example,
-[Wiley takes full copyright of the data in SI material](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=306),
+[Wiley takes full copyright of the data in SI material <i class="fa-solid fa-recycle fa-xs"></i>](https://blogs.ch.cam.ac.uk/pmr/2007/05/09/access-to-and-re-use-of-open-data-in-chemistry-impressions/),
 while Noel's mechanism would keep the data open.
 
 For now, however, I would very much like to see a meta service where I can query rankings and comment for

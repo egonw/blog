@@ -2,7 +2,7 @@
 layout: post
 title:  "Numbers are copyrighted?"
 date:   2007-05-25
-modified_date: 2025-02-15
+modified_date: 2025-04-27
 doi: 10.59350/jtzzf-jfz50
 blogger-link: https://chem-bla-ics.blogspot.com/2007/05/numbers-are-copyrighted.html
 tags:
@@ -10,7 +10,7 @@ tags:
 
 I just read on [Planet Blue Obelisk](http://www.blueobelisk.org/planetbo/) [Peter](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/)'s
 disturbing news (via [Suber](http://www.earlham.edu/~peters/fos/2007_05_20_fosblogarchive.html#6528603867120185583)) that
-[Wiley thinks it can copyright a set of numbers](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=338) (also known as data).
+[Wiley thinks it can copyright a set of numbers <i class="fa-solid fa-recycle fa-xs"></i>](https://blogs.ch.cam.ac.uk/pmr/2007/05/24/sued-for-10-data-points/) (also known as data).
 That is a sad milestone in scientific publishing. It reminds me of the recent internet hype about a long number recently
 flooding the internet (and notably [del.icio.us](http://www.del.icio.us/)) related to watching DVDs you legally bought.
 Some details can be found in this [Linux Weekly News](http://www.lwn.net/) article on

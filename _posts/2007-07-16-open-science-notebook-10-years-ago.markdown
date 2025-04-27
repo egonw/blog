@@ -2,7 +2,7 @@
 layout: post
 title:  "The Open Science Notebook 10 years ago"
 date:   2007-07-16
-modified_date: 2025-02-16
+modified_date: 2025-04-27
 doi: 10.59350/m9z3j-c9093
 blogger-link: https://chem-bla-ics.blogspot.com/2007/07/open-science-notebook-10-years-ago.html
 tags: cdk openscience justdoi:10.1038/npre.2007.39.1 justdoi:10.59350/sk1yv-zxp51
@@ -14,7 +14,7 @@ So, with [all](http://mndoci.com/blog/2007/07/14/does-the-open-research-world-ne
 [blogging <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/sk1yv-zxp51)
 [about](http://www.sennoma.net/main/archives/2007/07/giving_open_notebook_science_a.php)
 [the](http://scilib.typepad.com/science_library_pad/2007/06/thinking-about-.html)
-[Open](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=353)
+[Open <i class="fa-solid fa-recycle fa-xs"></i>](https://blogs.ch.cam.ac.uk/pmr/2007/06/08/alicias-open-science-thesis/)
 [Science](http://lccccollegeenglish.blogspot.com/2007/05/gary-hermans-open-notebook-science.html)
 [Notebook](http://www.earlham.edu/~peters/fos/2007_04_08_fosblogarchive.html#117639147972554644)
 (yes, each word is one distinct blog) it is worth looking back in time. To make clear what I put
@@ -33,7 +33,7 @@ uploaded into a repository (Open Science!) for everyone to comment on, possible 
 announcement for discussion to mailing list, and reporting the outcome (preferable in a peer-reviewed
 journal). While I am ranting^Wtalking about the issues, chemoinformatics is in the luxurious situation
 that reproducibility of a procedure is **much** easier,
-[except for the missing data part](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=413).
+[except for the missing data part <i class="fa-solid fa-recycle fa-xs"></i>](https://blogs.ch.cam.ac.uk/pmr/2007/07/14/more-potential-reproducibility/).
 
 Just wanted to say that OSN is really nothing new, not to chemistry anyway. Maybe for lab chemists.
 [Jean-Claude](http://drexel-coas-talks-mp3-podcast.blogspot.com/) has shown to be very successful in

@@ -74,6 +74,7 @@ to Oscar4 helped a lot. But there exist many other chemical NER tools, like
 (doi:[10.1093/bioinformatics/btn181](https://doi.org/10.1093/bioinformatics/btn181). And those may
 find an additional number of names, even with just the literature I already covered.
 
+Well, you get the idea.
 
 ## ICCS post rejected
 

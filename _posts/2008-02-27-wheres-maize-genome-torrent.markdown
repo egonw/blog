@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Where's the maize genome torrent?!?"
-date:   2008-02-27
+date:   2008-02-27 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2008/02/wheres-maize-genome-torrent.html
 doi: 10.59350/7f9p1-47v65
 tags: bioinf

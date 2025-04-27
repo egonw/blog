@@ -2,13 +2,13 @@
 layout: post
 title:  "Blogging and the Press"
 date:   2007-01-24
-modified_date: 2025-02-16
+modified_date: 2025-04-27
 doi: 10.59350/jsz01-vf544
 blogger-link: https://chem-bla-ics.blogspot.com/2007/01/blogging-and-press.html
 tags: acs blog
 ---
 
-Today at the [OSMB](http://chem-bla-ics.blogspot.com/2007/01/osmb2007-day-1-venture-capital.html) we had again a good
+Today at the [OSMB <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/01/24/osmb2007-day-1-venture-capital.html) we had again a good
 lunch again, and Rachel Sterne joined our table. She works at a New York based start up
 [Ground Report](http://groundreport.com/articles.php?id=274), which is a news website where anyone, including bloggers,
 can post news stories. Not links to news stories, as on [Slashdot](http://slashdot.org/), but actual news stories.

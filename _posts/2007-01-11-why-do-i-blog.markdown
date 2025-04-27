@@ -2,7 +2,7 @@
 layout: post
 title:  "Why do I blog?"
 date:   2007-01-11
-modified_date: 2025-02-16
+modified_date: 2025-04-27
 doi: 10.59350/ke8wz-vks94
 blogger-link: https://chem-bla-ics.blogspot.com/2007/01/why-do-i-blog.html
 tags: blog chemistry
@@ -27,7 +27,7 @@ blogging allows to give what you write a personal twist. To stress scientific na
 scientists often cite and discuss literature, which nicely leads to scientific blog aggregators like [Postgenomic.com](http://postgenomic.com/)
 and [Chemical blogspace <i class="fa-solid fa-archive fa-xs"></i>](http://web.archive.org/web/20070115091132/http://wiki.cubic.uni-koeln.de/cb/),
 which summarize the scientific literature being discussed in
-the blogosphere. The latter even [recently started to blog about molecules being discussed](http://chem-bla-ics.blogspot.com/2007/01/chemical-blogspace-is-getting-more.html).
+the blogosphere. The latter even [recently started to blog about molecules being discussed <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/01/04/chemical-blogspace-is-getting-more.html).
 There are even blogs which specialize on discussing literature, such as [the blog by Rajarshi, Gary and David](http://cheminfoclub.blogspot.com/).
 
 ## Why do I not use a nickname?

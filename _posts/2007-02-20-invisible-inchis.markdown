@@ -2,14 +2,14 @@
 layout: post
 title:  "Invisible InChI's"
 date:   2007-02-20
-modified_date: 2025-02-15
+modified_date: 2025-04-27
 doi: 10.59350/ezjxg-p8m13
 blogger-link: https://chem-bla-ics.blogspot.com/2007/02/invisible-inchis.html
 tags: inchi html
 ---
 
 Some [InChI](http://www.iupac.org/inchi/)'s are short, such as that for methane: <span class="chem:inchi">InChI=1/CH4/h1H4</span>.
-Others are long (think [crambin](http://chem-bla-ics.blogspot.com/2006/03/inchis-in-latex-and-cdk-news.html)), and you don't
+Others are long (think [crambin <i class="fa-solid fa-recycle fa-xs"></i>](http://chem-bla-ics.linkedchemistry.info/2006/03/31/inchis-in-latex-and-cdk-news.html)), and you don't
 want to show them inline. Or you just want to show them anyway, but still want the chemistry to be understood. Here come the
 invisible InChI's.
 
@@ -29,7 +29,8 @@ But Google does not index this, so the use is restricted.
 The most promosing alternative, however, is to put it in using the `<span>` element, in combination with microformats or RDFa,
 Like this: <span class="chem:inchi" style="font-size: 0%; visibility: hidden;">InChI=1/CH4/h1H4</span>.
 It does not show up, does it? But it is really there, as you would see, if you have
-[the special Greasemonkey](http://chem-bla-ics.blogspot.com/2006/12/chemistry-in-html-greasemonkey-again.html) installed.
+[the special Greasemonkey <i class="fa-solid fa-recycle fa-xs"></i>
+](http://chem-bla-ics.linkedchemistry.info/2006/12/19/chemistry-in-html-greasemonkey-again.html) installed.
 
 This is the HTML code for this example:
 
@@ -43,6 +44,6 @@ to zero itself, because many web browsers do not interpret zero font size correc
 This should solve the standing problem that we would like to include the InChI's in our blogs, if it would just not be so
 long and unreadable. Just hide it.
 
-**Update**: Daniel [informed](https://web.archive.org/web/20070514085137/https://chem-bla-ics.blogspot.com/2007/02/invisible-inchis.html#comment-6321491648638004528)
+**Update**: Daniel [informed <i class="fa-solid fa-box-archive fa-xs"></i>](https://web.archive.org/web/20070514085137/https://chem-bla-ics.blogspot.com/2007/02/invisible-inchis.html#comment-6321491648638004528)
 me that Google won't index text marked 'visibility: hidden' and may even mark your webpage as spam :( Not the solution either.
 Read the comments for more thoughts.

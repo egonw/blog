@@ -2,14 +2,14 @@
 layout: post
 title:  "The del.icio.us tagometer on www2.blogger.com"
 date:   2007-01-09
-modified_date: 2025-02-16
+modified_date: 2025-04-27
 doi: 10.59350/m734k-e1938
 blogger-link: https://chem-bla-ics.blogspot.com/2007/01/delicious-tagometer-on-www2bloggercom.html
 tags: blog
 ---
 
 Yesterday I blogged about [how to include the new del.icio.us tagometer on a
-www.blogger.com blog](http://chem-bla-ics.blogspot.com/2007/01/delicious-tagometer-on-blogspotcom.html),
+www.blogger.com blog <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/01/08/delicious-tagometer-on-blogspotcom.html),
 just like [Improbulus did last December](http://consumingexperience.blogspot.com/2006/12/delicious-tagometer-howto-manual-mode.html)
 as I discovered later. [Felix](http://chemical-quantum-images.blogspot.com/)
 asked me how it could be done on the new www2.blogger.com template system. Well,

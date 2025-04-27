@@ -2,17 +2,17 @@
 layout: post
 title:  "Chemistry in HTML: JavaScript from the server"
 date:   2007-01-02
-modified_date: 2025-02-15
+modified_date: 2025-04-27
 doi: 10.59350/dmfek-pdt97
 blogger-link: https://chem-bla-ics.blogspot.com/2007/01/chemistry-in-html-javascript-from.html
 tags: html javascript userscript
 image: /assets/images/sechemticJSOutput.png
 ---
 
-Recently I blogged about [a Greasemonkey script](http://chem-bla-ics.blogspot.com/2006/12/smiles-cas-and-inchi-in-blogs.html)
-to take advantage of [semantic markup of chemistry in blogs](http://chem-bla-ics.blogspot.com/2006/12/including-smiles-cml-and-inchi-in.html)
+Recently I blogged about [a Greasemonkey script <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/12/17/smiles-cas-and-inchi-in-blogs.html)
+to take advantage of [semantic markup of chemistry in blogs <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/12/10/including-smiles-cml-and-inchi-in.html)
 (and HTML in general), and later made [some plans how this can be
-extended](http://chem-bla-ics.blogspot.com/2006/12/chemistry-in-html-greasemonkey-again.html).
+extended <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/12/19/chemistry-in-html-greasemonkey-again.html).
 One of the ideas was to make this userscript available from the server, instead
 of having people need to install [Greasemonkey](http://greasemonkey.mozdev.org/)
 and the script separately. So, here it is.
@@ -47,7 +47,7 @@ forgive me my habit to use bad linguistic mashups ;). Just load the script in th
 HTML `<head>`, and add in the `onload="addGoogleAndPubChemLinks(1,1)"` attribute to
 the `<body>` element. With blogs these bits would be part of the template, and,
 therefore, need to be installed once. From then on, just use the [semantic markup as
-explained earlier](http://chem-bla-ics.blogspot.com/2006/12/including-smiles-cml-and-inchi-in.html).
+explained earlier <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/12/10/including-smiles-cml-and-inchi-in.html).
 Both the microformat and the RDFa method are supported. In
 case of the latter, I recommend to define the chem namespace in the template of
 webpages too, instead of in the `<span>` elements.

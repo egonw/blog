@@ -2,7 +2,7 @@
 layout: post
 title:  "CDK Literature #1"
 date:   2007-01-14
-modified_date: 2025-02-16
+modified_date: 2025-04-27
 doi: 10.59350/g22fv-gtc07
 blogger-link: https://chem-bla-ics.blogspot.com/2007/01/cdk-literature-1.html
 tags: cdk justdoi:10.1093/bioinformatics/btl535 justdoi:10.1016/j.jmb.2006.09.041
@@ -14,12 +14,12 @@ the deadline, I will write up things here, so that I can copy-paste it later for
 
 ## Oxidoreductase-catalyzed reactions
 
-Mu *et al.* analyzed about 2000 oxidation/reduction reactions from [KEGG](https://chem-bla-ics.blogspot.com/2007/01/cdk-literature-1.html)
+Mu *et al.* analyzed about 2000 oxidation/reduction reactions from [KEGG <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/01/14/cdk-literature-1.html)
 using the [CDK](http://cdk.sf.net/) and [JOELib](http://joelib.sf.net/) for the chemoinformatics bits. The reactions were grouped into
 12 subclasses, and SVM was used to train models to distinguish reactants from non-reactants. It seems that there were not independent
 test sets used, but cross-validation indicates that there approach is possible. The works uses CDK's HydrogenAdder,
 UniversalIsomorphismTester, and unnamed QSAR descriptors. It would be interesting to see how it compares to
-[the work of Aires-de-Sousa](http://chem-bla-ics.blogspot.com/2006/04/mining-kegg-pathway-database-with-self.html).
+[the work of Aires-de-Sousa <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/04/04/mining-kegg-pathway-database-with-self.html).
 
 ## Cognate ligands
 

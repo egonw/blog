@@ -5,7 +5,7 @@ date:   2008-02-27
 blogger-link: https://chem-bla-ics.blogspot.com/2008/02/cdk-is-now-available-from-your-nearest.html
 doi: 10.59350/g5s78-zqk90
 tags: cdk debian
-image: /blog/assets/images/cdkbsh.png
+image: /assets/images/cdkbsh.png
 ---
 
 [Some days have passed](http://chem-bla-ics.blogspot.com/2008/02/cdk-close-to-entering-debian.html), and the Debian mirrors have
@@ -34,4 +34,4 @@ A wrapper script `cdkbsh` that adds the CLASSPATH seems desirable here :) But yo
 Interestingly, BeanShell also comes with a graphical user interface, as well as a command line based scripting environment.
 Both make perfect set ups for quickly testing some code. The GUI version `xbsh` looks like (don't forget to set the CLASSPATH):
 
-![](/blog/assets/images/cdkbsh.png)
+![](/assets/images/cdkbsh.png)

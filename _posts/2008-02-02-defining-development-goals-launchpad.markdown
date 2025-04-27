@@ -5,7 +5,7 @@ date:   2008-02-02 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2008/02/defining-development-goals-launchpad.html
 doi: 10.59350/nks4k-n7e69
 tags: cdk
-image: /blog/assets/images/ipPredictionDeps.png
+image: /assets/images/ipPredictionDeps.png
 ---
 
 Today, Miguel (who made [the 10000th CDK commit](http://chem-bla-ics.blogspot.com/2008/02/10000-cdk-commits.html)) and I gave
@@ -24,7 +24,7 @@ in trunk working, which involves about all the code Miguel wrote during his PhD 
 [Christoph](http://www.steinbeck-molecular.de/steinblog/). And, this is one of the goal of the next stable CDK series
 (replacing the 1.0.x series). This is something we can easily define in LaunchPad:
 
-![](/blog/assets/images/trunkSeriesGoals.png)
+![](/assets/images/trunkSeriesGoals.png)
 
 Getting the IP-prediction code updated for the new CDK atom types and other changes, and making it CDK stable involved
 quite a long list of tasks, which shows dependencies. For example, I can't continue
@@ -37,12 +37,12 @@ the 10000th commit.
 Now, Miguel and I will try to manage this development in trunk using LaunchPad. It allows as to define all these
 smaller tasks, but, more importantly, the dependencies between them:
 
-![](/blog/assets/images/ipPredictionDeps.png)
+![](/assets/images/ipPredictionDeps.png)
 
 As such, LaunchPad gives us the means to manage this complex development. It shows up what we're facing, how far we
 have progressed, and much, much more:
 
-![](/blog/assets/images/taskMaintenance.png)
+![](/assets/images/taskMaintenance.png)
 
 This goes well beyond what SourceForge has to offer; this will be an interesting experiment. I do not anticipate dropping
 SourceForge at all (just in case you were wondering...); they have served as generally very, very well; and completely

@@ -6,7 +6,7 @@ blogger-link: https://chem-bla-ics.blogspot.com/2008/03/todo-april-2nd-defend-my
 doi: 10.59350/87t55-whn79
 tags: cheminf chemometrics phd doi:10.1080/10408340600969601 doi:10.1021/CI050282S doi:10.1107/S0108768104028344
   doi:10.1021/CG060872Y doi:10.1021/CI034244P doi:10.1021/CI050400B
-image: /blog/assets/images/thesisCover.png
+image: /assets/images/thesisCover.png
 ---
 
 In 4.5 weeks, on Wednesday April 2 (13:30 precisely, [Aula, Comeniuslaan 2, Nijmegen](http://maps.google.com/maps?f=q&hl=en&geocode=&q=comeniuslaan+2,+nijmegen,+nederland&sll=37.0625,-95.677068&sspn=25.010803,75.234375&ie=UTF8&ll=51.820852,5.857548&spn=0.002374,0.009184&t=h&z=17&iwloc=addr))
@@ -14,7 +14,7 @@ I will publicly defend my PhD work performed in the [Analytical Chemistry group]
 [Prof. Lutgarde Buydens](http://scholar.google.nl/scholar?as_q=&num=10&btnG=Search+Scholar&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=LMC+Buydens&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en&lr=)
 at the [Radboud University Nijmegen](http://www.ru.nl/):
 
-![](/blog/assets/images/thesisCover.png)
+![](/assets/images/thesisCover.png)
 
 ## Table of Contents
 

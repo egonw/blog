@@ -5,7 +5,7 @@ date:   2008-02-02
 blogger-link: https://chem-bla-ics.blogspot.com/2008/02/10000-cdk-commits.html
 doi: 10.59350/w1hpp-ks316
 tags: cdk
-image: /blog/assets/images/commit10000.png
+image: /assets/images/commit10000.png
 ---
 
 It has happened. Just a few minutes ago. The [10000th commit](http://cdk.svn.sourceforge.net/viewvc/cdk?view=rev&revision=10000)
@@ -20,7 +20,7 @@ to the [CDK](http://cdk.sf.net/) source code repository. Miguel was the lucky(?)
 
 And a screenshot:
 
-![](/blog/assets/images/commit10000.png)
+![](/assets/images/commit10000.png)
 
 The first source code was actually only added with the [5th commit](http://cdk.svn.sourceforge.net/viewvc/cdk?view=rev&revision=5),
 made by [Christoph](http://www.steinbeck-molecular.de/steinblog/), days after our meeting with

@@ -53,7 +53,7 @@ We had the first hackathons in October and November, and I had
 [four more hackathon weekends](https://chem-bla-ics.linkedchemistry.info/2025/04/20/the-april-2025-scholia-hackathon.html)
 this April.
 
-The graph split into a main graph and a scholarly graph [happened on May 9]()https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/WDQS_graph_split).
+The graph split into a main graph and a scholarly graph [happened on May 9](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/WDQS_graph_split).
 Currently, we have been granted extra time and can use a legacy server with the full graph, but a lot
 less hardware, so slower. A final patch, merged in last week, allows us to define which SPARQL endpoint a query
 should run. So, each time we port a SPARQL query, we can directly update Scholia, making the migration

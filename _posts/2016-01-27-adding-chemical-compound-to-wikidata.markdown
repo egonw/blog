@@ -63,7 +63,7 @@ So, the compound is not already in Wikidata, so time to add it. The minimal info
   * add the reference to the paper you entered above
 * add the InChIKey and/or InChI
 
-The first step is to create a new Wikidat entry. The Create new item menu in the left side panel can be used, showing a page like this:
+The first step is to create a new Wikidata entry. The Create new item menu in the left side panel can be used, showing a page like this:
 
 ![](/assets/images/smd2.png)
 

@@ -2,6 +2,7 @@
 layout: post
 title:  "Compound (class) identifiers in Wikidata"
 date:   2018-08-18
+modified_date: 2025-05-25
 blogger-link: https://chem-bla-ics.blogspot.com/2018/08/compound-class-identifiers-in-wikidata.html
 doi: 10.59350/7ej1y-tp828
 tags: wikidata scholia chemistry bridgedb cas chebi chemspider fair hmdb pubchem rdf wikicite
@@ -12,7 +13,7 @@ image: /assets/images/extid-wikidata-histogram.png
 
 <span style="width: 40%; display: block; margin-left: auto; margin-right: auto; float: right">
 <img src="/assets/images/extid-wikidata-histogram.png" /> <br />
-<a href="http://tinyurl.com/ydbcokj8">Bar chart</a> showing the number of compounds with a particular chemical identifier.
+<a href="https://edu.nl/h6kg3">Bar chart</a> showing the number of compounds with a particular chemical identifier.
 </span>
 I think [Wikidata](http://wikidata.org/) is a groundbreaking project, which will have a major impact on science. One of the
 reasons is the open license (CCZero), the very basic approach ([Wikibase](http://wikiba.se/)), and the superb community around
@@ -30,7 +31,7 @@ The mapping, as you may know, are [used in the latter](https://chem-bla-ics.blog
 via [BridgeDb](https://www.bridgedb.org/) and we have been using Wikidata as one of three sources for some time now (the others being
 [HMDB](http://www.hmdb.ca/) and [ChEBI](https://www.ebi.ac.uk/chebi/)). WikiProject Chemistry has a related
 [ChemID](https://www.wikidata.org/wiki/Wikidata:WikiProject_Chemistry/ChemID) effort, and while the wiki page does not show
-much recent activity, there is actually a lot of ongoing effort (see [plot](http://tinyurl.com/ydbcokj8)).
+much recent activity, there is actually a lot of ongoing effort (see [plot](https://edu.nl/h6kg3)).
 And I've been [adding my bits](https://chem-bla-ics.blogspot.com/2018/07/lipid-map-identifiers-and.html).
 
 ## Limitations of the links

@@ -2,7 +2,7 @@
 layout: post
 title:  "Adding chemical compounds to Wikidata"
 date:   2016-01-27
-modified_date: 2025-02-16
+modified_date: 2025-05-25
 doi: 10.59350/q5a38-51n24
 blogger-link: https://chem-bla-ics.blogspot.com/2016/01/adding-chemical-compound-to-wikidata.html
 tags: wikidata chemistry bioclipse justdoi:10.1128/AAC.01148-08
@@ -12,7 +12,7 @@ Adding chemical compounds to [Wikidata](https://www.wikidata.org/) is not diffic
 ([P274](https://www.wikidata.org/wiki/Property:P274)), (canonical) [SMILES](http://chem-bla-ics.blogspot.nl/2015/12/the-quality-of-smiles-strings-in.html)
 ([P233](https://www.wikidata.org/wiki/Property:P233)), InChIKey ([P235](https://www.wikidata.org/wiki/Property:P235)) (and InChI
 ([P234](https://www.wikidata.org/wiki/Property:P233)), of course), as well various database identifiers (see what I wrote about that
-[here(http://chem-bla-ics.blogspot.nl/2015/12/new-edition-getting-cas-registry.html)]). It also allows storing of the provenance, and has predicates
+[here](http://chem-bla-ics.blogspot.nl/2015/12/new-edition-getting-cas-registry.html)]). It also allows storing of the provenance, and has predicates
 for that too.
 
 So, to enter a new structure for a compound, you should enter the compound information to Wikidata. Of course, make sure to create the needed accounts,

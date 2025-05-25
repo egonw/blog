@@ -5,7 +5,7 @@ date:   2008-03-08
 blogger-link: https://chem-bla-ics.blogspot.com/2008/03/my-foaf-network-2-xslt-for-html-gui.html
 doi: 10.59350/p1n99-9sa03
 tags: semweb blue-obelisk
-image: /blog/assets/images/foafExplorer.png
+image: /assets/images/foafExplorer.png
 ---
 
 
@@ -15,7 +15,7 @@ it becomes urgent to beef up the [Blue Obelisk](http://www.blueobelisk.org/) FOA
 [7 members](http://blueobelisk.sourceforge.net/wiki/Members). All do now show up in
 [the FOAFExplorer](http://blueobelisk.sourceforge.net/people/egonw/):
 
-![](/blog/assets/images/foafExplorer.png)
+![](/assets/images/foafExplorer.png)
 
 Now, to make sure that my FOAF is in order, I set up the regular XML/RDF toolchain, using *xmllint* to validate the XML and
 RDF syntax, and [XSLT](http://blueobelisk.sourceforge.net/people/egonw/foaf2xhtml.xsl) to convert the FOAF to human readable HTML.

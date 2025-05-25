@@ -89,3 +89,5 @@ Here's the abstract:
 > study reviews the chemistry in Wikidata, shows how thousands of new chemicals were added,
 > extends Wikidata with new properties for chemical representation and external links to
 > additional databases, and shows how we extended Scholia to represent the chemistry in Wikidata.
+
+Thanks to Finn, Denise, Daniel, and Adriano!

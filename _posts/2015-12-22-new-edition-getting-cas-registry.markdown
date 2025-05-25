@@ -2,6 +2,7 @@
 layout: post
 title:  "New Edition! Getting CAS registry numbers out of WikiData"
 date:   2015-12-22
+modified_date: 2025-05-25
 blogger-link: https://chem-bla-ics.blogspot.com/2015/12/new-edition-getting-cas-registry.html
 doi: 10.59350/vt6nr-28g72
 tags: cas wikidata chemistry justdoi:10.15200/winn.142867.72538
@@ -12,7 +13,7 @@ image: /assets/images/aceticAcidCAS.png
 <img src="/assets/images/aceticAcidCAS.png" /> <br />
 Source: Wikipedia. <a href="https://en.wikipedia.org/wiki/File:Acetic_acid.jpg">CC-BY-SA</a>
 </span>
-April this year [I blogged about an important SPARQL query](https://chem-bla-ics.blogspot.nl/2015/04/getting-cas-registry-numbers-out-of.html)
+April this year [I blogged about an important SPARQL query <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2015/04/10/getting-cas-registry-numbers-out-of.html)
 for many chemists: getting CAS registry numbers from Wikidata. This is relevant for two reasons:
 
 1. [CAS works together with Wikimedia](http://commonchemistry.org/) on a large, free CAS-to-structure database

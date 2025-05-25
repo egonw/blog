@@ -12,7 +12,7 @@ Adding chemical compounds to [Wikidata](https://www.wikidata.org/) is not diffic
 ([P274](https://www.wikidata.org/wiki/Property:P274)), (canonical) [SMILES](http://chem-bla-ics.blogspot.nl/2015/12/the-quality-of-smiles-strings-in.html)
 ([P233](https://www.wikidata.org/wiki/Property:P233)), InChIKey ([P235](https://www.wikidata.org/wiki/Property:P235)) (and InChI
 ([P234](https://www.wikidata.org/wiki/Property:P233)), of course), as well various database identifiers (see what I wrote about that
-[here](http://chem-bla-ics.blogspot.nl/2015/12/new-edition-getting-cas-registry.html)]). It also allows storing of the provenance, and has predicates
+[here <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2015/12/22/new-edition-getting-cas-registry.html)]). It also allows storing of the provenance, and has predicates
 for that too.
 
 So, to enter a new structure for a compound, you should enter the compound information to Wikidata. Of course, make sure to create the needed accounts,

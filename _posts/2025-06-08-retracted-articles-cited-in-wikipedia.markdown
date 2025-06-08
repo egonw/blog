@@ -10,7 +10,7 @@ Last week, the [Wikidata and Sister Projects](https://www.wikidata.org/wiki/Even
 The presentations are recorded, and I strongly encourage you to check the schedule. One presentation I liked (there are more),
 was the one by [Mike Peel](https://www.wikidata.org/wiki/User:Mike_Peel) with the title
 *"Best practices for reusing Wikidata’s data in the Wikimedia Projects"*. At some point he walks us through the
-[{{Cite Q}}](https://en.wikipedia.org/wiki/Template:Cite_Q) template, [around 26:07](https://www.youtube.com/live/xanSjW30g2o?feature=shared&t=1561).
+[{%raw%}{{Cite Q}}{%endraw%}](https://en.wikipedia.org/wiki/Template:Cite_Q) template, [around 26:07](https://www.youtube.com/live/xanSjW30g2o?feature=shared&t=1561).
 
 I learned that this template will highlight when an article cited in Wikipedia is actually retracted (withdrawn or replaced).
 Now, for the past months, I have been using the Crossref API to the [Retraction Watch Database](http://retractiondatabase.org)
@@ -22,7 +22,7 @@ readers have seen the results from running that script. That is pretty awesome! 
 
 But it made me also wonder something else. The Retraction Watch Database has over 60 thousand articles and
 Wikidata only about 22 thousand (at the time of writing). What if Wikipedia has an article not in Wikidata?
-Well, obviously, it cannot use `{{Cite Q}}`. But wouldn't we want to have that article in Wikidata? Clearly,
+Well, obviously, it cannot use {%raw%}`{{Cite Q}}`{%endraw%}. But wouldn't we want to have that article in Wikidata? Clearly,
 the article is notable; at least, in Wikipedia notability-sense. So, I was wondering, of those 40 thousand
 retracted articles not in Wikidata, how many are cited in English Wikipedia (to start with).
 

@@ -2,6 +2,7 @@
 layout: post
 title:  "The 9th International Conference on Chemical Structures (ICCS)"
 date:   2011-01-17
+modified_date: 2011-06-06
 blogger-link: https://chem-bla-ics.blogspot.com/2011/01/9th-international-conference-on.html
 doi: 10.59350/x4cvj-yw944
 tags: iccs
@@ -11,7 +12,7 @@ image: /assets/images/iccs_logo_2011.png
 ![](/assets/images/iccs_logo_2011.png)
 
 Later this year the ninth [International Conference on Chemical Structures](http://www.int-conf-chem-structures.org/home.html)
-(ICSS) conference will be held in the Netherlands. I had the pleasure of joining this meeting, I think, eight years ago, when
+(ICSS) conference will be held in the Netherlands. I had the pleasure of joining this meeting, I think, six years ago, when
 I was doing my PhD in Nijmegen. Mind you, I did not *attend* the conference; I helped with the organization ;) That was a good
 deal, particularly because I got to meet many cheminformaticians while working behind the registration desk ;)
 

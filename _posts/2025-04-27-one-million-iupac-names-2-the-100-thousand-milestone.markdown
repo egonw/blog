@@ -2,6 +2,7 @@
 layout: post
 title:  "One Million IUPAC names #2: the 100 thousand milestone"
 date:   2025-04-27
+modified_date: 2025-06-09
 doi: 10.59350/dycsw-qeq51
 tags: iupac textmining oscar cito:citesForInformation:10.1186/s13321-021-00512-4
  cito:citesAsPotentialSolution:10.1093/bioinformatics/btn181
@@ -76,7 +77,7 @@ find an additional number of names, even with just the literature I already cove
 
 Well, you get the idea.
 
-## ICCS post rejected
+## ICCS poster rejected
 
 Unfortunately, the [ICCS poster](https://iccs-nl.org/) abstract did not make the cut. The score was high enough,
 but they received many abstracts and had to make a selection (of course, I am part of the ICCS organization,

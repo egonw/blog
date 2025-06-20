@@ -5,7 +5,7 @@ date:   2008-03-09
 blogger-link: https://chem-bla-ics.blogspot.com/2008/03/chemical-object-identifier-or-freedom.html
 doi: 10.59350/ed8nt-n6a25
 tags: cas cheminf justdoi:10.1021/ci049758i
-image: /blog/assets/images/cas-number.png
+image: /assets/images/cas-number.png
 ---
 
 IUPAC chemical names, [SMILES](http://opensmiles.org/) and InChIs are too long. [InChIKeys](http://en.wikipedia.org/wiki/International_Chemical_Identifier#InChIKey)
@@ -19,7 +19,7 @@ DOI:[10.1021/ci049758i](https://doi.org/10.1021/ci049758i)).
 The [CAS registry number](http://en.wikipedia.org/wiki/CAS_registry_number) has serviced this purpose for a long time. For example, as used on bottles visible
 in this picture (copyright: [CC BY-SA](http://creativecommons.org/licenses/by-sa/3.0/), [Science in the Open](http://blog.openwetware.org/scienceintheopen/)):
 
-![](/blog/assets/images/cas-number.png)
+![](/assets/images/cas-number.png)
 
 Now, when [Anthony reported](http://www.chemspider.com/blog/cas-discourages-using-scifinder-to-help-curate-wikipedia-structures-and-cas-numbers.html) that CAS,
 the organization that builds the proprietary lookup service, which has done an amazing job in the past, that they do not wish to see CAS numbers in Wikipedia

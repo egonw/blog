@@ -5,7 +5,7 @@ date:   2008-03-18
 blogger-link: https://chem-bla-ics.blogspot.com/2008/03/my-foaf-network-4-tabulating-my.html
 doi: 10.59350/5gmnt-8b189
 tags: foaf rdf
-image: /blog/assets/images/tabulator1.png
+image: /assets/images/tabulator1.png
 ---
 
 [Richard](http://dowhatimean.net/) informed me (via [Planet RDF](http://planetrdf.com/)) about [N3 support in Tabulator](http://dowhatimean.net/2008/03/tabulator-does-n3).
@@ -26,11 +26,11 @@ interesting when you have [Tabulator](http://dig.csail.mit.edu/2007/tab/) instal
 Firefox will now show it like this:
 
 
-![](/blog/assets/images/tabulator.png)
+![](/assets/images/tabulator.png)
 
 And, in the *under the hood* mode it looks like:
 
-![](/blog/assets/images/tabulator1.png)
+![](/assets/images/tabulator1.png)
 
 Now, my FOAF file does not seem to work well. Not sure what goes wrong there, but given the fact that Tabulator seems to be able to
 recurse into referenced RDF files, I think it nicely complements what we already have.

@@ -5,7 +5,7 @@ date:   2008-04-07 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2008/04/cdkmetabolomicschemometrics.html
 doi: 10.59350/f2ajz-tmr63
 tags: cdk defense phd metabolomics cheminf chemometrics justdoi:10.18637/jss.v018.i02
-image: /blog/assets/images/riPred.png
+image: /assets/images/riPred.png
 ---
 
 As [announced earlier](http://chem-bla-ics.blogspot.com/2008/04/t-plus-18-hours-dr-and-preparing-for.html), Miguel, Velitchka,
@@ -42,7 +42,7 @@ savehistory("finalHistory.R")
 The `AminoAcidCountDescriptor` threw us a `NullPointerException` and there were a few NAs in the resulting matrix. The CV results were
 not so good as Velitchka's best models, but still a good start:
 
-![](/blog/assets/images/riPred.png)
+![](/assets/images/riPred.png)
 
 No variable selection; 200 objects, 190 variables.
 

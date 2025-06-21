@@ -5,13 +5,13 @@ date:   2008-03-23
 blogger-link: https://chem-bla-ics.blogspot.com/2008/03/cdk-module-dependencies-2.html
 doi: 10.59350/e7qrk-ypg78
 tags: cdk
-image: /blog/assets/images/cdkdeps.dot.png
+image: /assets/images/cdkdeps.dot.png
 ---
 
 A bit over 2 years ago I published a [UML diagram showing the dependencies between CDK modules](http://chem-bla-ics.blogspot.com/2005/12/uml-diagram-of-cdk-module-dependencies.html).
 Since then I lot of new modules have been defined, added or factored out from the extra module (click to zoom):
 
-![](/blog/assets/images/cdkdeps.dot.png)
+![](/assets/images/cdkdeps.dot.png)
 
 These kind of diagrams help us maintain the library, and apply some design goals, as explained in the first post on this.
 

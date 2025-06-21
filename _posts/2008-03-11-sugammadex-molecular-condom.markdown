@@ -4,7 +4,7 @@ title:  "Sugammadex: the molecular condom"
 date:   2008-03-11
 blogger-link: https://chem-bla-ics.blogspot.com/2008/03/sugammadex-molecular-condom.html
 doi: 10.59350/wxszb-3fk40
-tags: sugammadex drugdiscovery blog
+tags: drugdiscovery blog inchikey:KMGKABOMYQLLDJ-VKHHSAQNSA-F
 ---
 
 Two things I like blogging: 1. the turn-over of information; 2. the informal nature. There are [more](http://chem-bla-ics.blogspot.com/2007/01/why-do-i-blog.html).

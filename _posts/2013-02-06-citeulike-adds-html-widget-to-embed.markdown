@@ -5,7 +5,7 @@ date:   2013-02-06
 modified_date: 2025-06-22
 blogger-link: https://chem-bla-ics.blogspot.com/2013/02/citeulike-adds-html-widget-to-embed.html
 doi: 10.59350/zmvjh-41p57
-tags: citeulike
+tags: citeulike doi:10.2174/156802612804910287
 ---
 
 <div class="cul_citation" id="cul_citation_11962023">

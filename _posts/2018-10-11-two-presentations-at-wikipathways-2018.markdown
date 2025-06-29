@@ -2,6 +2,7 @@
 layout: post
 title:  "Two presentations at WikiPathways 2018 Summit #WP18Summit"
 date:   2018-10-11
+modified_date: 2025-06-29
 blogger-link: https://chem-bla-ics.blogspot.com/2018/10/two-presentations-at-wikipathways-2018.html
 doi: 10.59350/wsyrx-kkf55
 tags: curation wikipathways
@@ -44,10 +45,14 @@ an eye on the [GitHub repo for WikiPathways](https://github.com/wikipathways).
 
 That leave me only, right now, to return to the title of this post. And below they are, my two contributions to this summit:
 
-<iframe allowfullscreen="" frameborder="0" height="485" marginheight="0" marginwidth="0" scrolling="no" src="//www.slideshare.net/slideshow/embed_code/key/47BuD6lYkAsY92" style="border-width: 1px; border: 1px solid #ccc; margin-bottom: 5px; max-width: 100%;" width="595"> </iframe> <br />
+[![](/assets/images/wpsummit_PDF_slide1_andabit.png)](https://doi.org/10.5281/zenodo.3544361)
+
 <div style="margin-bottom: 5px;">
-<strong> <a href="https://www.slideshare.net/egonw/automated-curation-with-internal-and-external-validation" target="_blank" title="Automated Curation with Internal and External Validation">Automated Curation with Internal and External Validation</a> </strong> from <strong><a href="https://www.slideshare.net/egonw" target="_blank">Egon Willighagen</a></strong> </div>
+<strong> <a href="https://zenodo.org/records/3544361" target="_blank" title="Automated Curation with Internal and External Validation">Automated Curation with Internal and External Validation</a> </strong> from <strong><a href="https://zenodo.org/search?q=metadata.creators.person_or_org.name:%22Willighagen,+Egon%22" target="_blank">Egon Willighagen</a></strong> </div>
+
 <br />
-<iframe allowfullscreen="" frameborder="0" height="485" marginheight="0" marginwidth="0" scrolling="no" src="//www.slideshare.net/slideshow/embed_code/key/5JQ9kCEg4sUGNN" style="border-width: 1px; border: 1px solid #ccc; margin-bottom: 5px; max-width: 100%;" width="595"> </iframe> <br />
+
+[![](/assets/images/wpsummit_PDF2_slide1_andabit.png)](https://doi.org/10.5281/zenodo.3544363)
+
 <div style="margin-bottom: 5px;">
-<strong> <a href="https://www.slideshare.net/egonw/using-wikipathways-with-its-resource-description-framework-format" target="_blank" title="Using WikiPathways with Its Resource Description Framework Format">Using WikiPathways with Its Resource Description Framework Format</a> </strong> from <strong><a href="https://www.slideshare.net/egonw" target="_blank">Egon Willighagen</a></strong> </div>
+<strong> <a href="https://zenodo.org/records/3544363" target="_blank" title="Using WikiPathways with Its Resource Description Framework Format">Using WikiPathways with Its Resource Description Framework Format</a> </strong> from <strong><a href="https://zenodo.org/search?q=metadata.creators.person_or_org.name:%22Willighagen,+Egon%22" target="_blank">Egon Willighagen</a></strong> </div>

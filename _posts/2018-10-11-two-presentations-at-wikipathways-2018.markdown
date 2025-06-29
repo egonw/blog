@@ -5,7 +5,7 @@ date:   2018-10-11
 modified_date: 2025-06-29
 blogger-link: https://chem-bla-ics.blogspot.com/2018/10/two-presentations-at-wikipathways-2018.html
 doi: 10.59350/wsyrx-kkf55
-tags: curation wikipathways
+tags: curation wikipathways justdoi:10.5281/zenodo.3544361 justdoi:10.5281/zenodo.3544363
 image: /assets/images/430px-Wp18summit.png
 ---
 

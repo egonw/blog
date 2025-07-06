@@ -24,8 +24,10 @@ of all tested people. Another nine compounds are found in at least 1-in-10 peopl
 Because there is relevant data in the report on the 28 studied PFAS compound, I wanted to
 have the report more FAIR than it is on the website. Why this report? Well, the chemistry and the
 history is fascinating and brutal (I like [this Veritasium video](https://www.youtube.com/watch?v=SC2eSujzrUY)).
+
 The history tells me that our society may sound woke and leftish, in reality it is a continous fight
-for basic human rights. In this case, so a healthy life. (Something that plenty have been saying for years.)
+for basic human rights. (Something that plenty have been saying for years.)
+In this case, a healtht life is the human right.
 
 So, what can I do to make this report more FAIR?
 

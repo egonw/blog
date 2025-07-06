@@ -3,8 +3,9 @@ layout: post
 title:  "PFAS in the blood of the Dutch population"
 date:   2025-07-06
 doi: 10.59350/fhb6w-2ge30
+modified_date: 2025-07-06
 tags: pfas chemistry fair
-  scholia wikidata vhp4safety doi:10.26434/chemrxiv-2025-53n0w
+  scholia wikidata vhp4safety doi:10.26434/CHEMRXIV-2025-53N0W
   cito:citesAsRecommendedReading:10.1021/acs.est.3c04855
 image: /assets/images/pfas_report.png
 grants:

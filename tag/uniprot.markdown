@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: UniProt"
+title: "Tag: UniProtKB"
 tag: uniprot
 ---

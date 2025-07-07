@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: MyExperiment"
+title: "Tag: myExperiment"
 tag: myexperiment
 ---
 

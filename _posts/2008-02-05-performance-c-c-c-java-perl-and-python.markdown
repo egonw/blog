@@ -4,8 +4,8 @@ title:  "Performance: C, C++, C#, Java, Perl and Python"
 date:   2008-02-05
 blogger-link: https://chem-bla-ics.blogspot.com/2008/02/performance-c-c-c-java-perl-and-python.html
 doi: 10.59350/kktab-e6159
-tags: java justdoi:10.1186/1471-2105-9-82
-image: /assets/images/alignment.gif
+tags: java doi:10.1186/1471-2105-9-82
+image: /blog/assets/images/alignment.gif
 ---
 
 Mathieu Fourment (et al.) just published a paper on some performance testing on 6 programming languages in
@@ -13,7 +13,7 @@ Mathieu Fourment (et al.) just published a paper on some performance testing on 
 in bioinformatics* (doi:[10.1186/1471-2105-9-82](https://doi.org/10.1186/1471-2105-9-82)). The below figure is from
 the paper, for a sequence alignment exercise (copyright with paper authors, OpenAccess license of journal):
 
-![](/assets/images/alignment.gif)
+![](/blog/assets/images/alignment.gif)
 
 Nothing shocking, I'd say; Java is similar in performance to C++.
 

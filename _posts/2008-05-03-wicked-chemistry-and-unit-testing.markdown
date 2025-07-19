@@ -5,7 +5,7 @@ date:   2008-05-03
 blogger-link: https://chem-bla-ics.blogspot.com/2008/05/wicked-chemistry-and-unit-testing.html
 doi: 10.59350/fwsac-99191
 tags: cdk pubchem
-image: /blog/assets/images/sid12279910.png
+image: /assets/images/sid12279910.png
 ---
 
 After a discussion on starting development releases for [CDK](http://cdk.sf.net/) on [cdk-devel](https://lists.sourceforge.net/lists/listinfo/cdk-devel),
@@ -81,7 +81,7 @@ For example, I am currently debugging a sulphur atom type perception problem, fo
 substructure looks like ([sid=12279910](https://chem-bla-ics.blogspot.com/2008/05/wicked-chemistry-and-unit-testing.html),
 `InChI=1/C2H7NS/c1-4(2)3/h3H,1-2H3)`:
 
-![](/blog/assets/images/sid12279910.png)
+![](/assets/images/sid12279910.png)
 
 I can convert this PubChem entry to CDK source code with:
 

@@ -4,7 +4,7 @@ title:  "John Wilbanks replies to the ChemSpider/OpenData discussion"
 date:   2008-05-10
 blogger-link: https://chem-bla-ics.blogspot.com/2008/05/john-wilbanks-replies-to.html
 doi: 10.59350/1x0d5-we437
-tags: chemspider opendata
+tags: chemspider opendata copyright
 ---
 
 Not long after I posted my view on things, [John posted his reply](http://network.nature.com/blogs/user/wilbanks/2008/05/10/chemspider-good-intentions-and-the-fog-of-licensing)

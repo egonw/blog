@@ -5,7 +5,7 @@ date:   2008-05-19
 blogger-link: https://chem-bla-ics.blogspot.com/2008/05/development-of-new-jchempaint.html
 doi: 10.59350/1bbpk-5ye80
 tags: jchempaint cdk bioclipse
-image: /blog/assets/images/jchempaintNew.png
+image: /assets/images/jchempaintNew.png
 ---
 
 A quick screenshot, after some work on the JChemPaint code based on [CDK](http://cdk.sf.net/) `trunk/`. Nothing much to see, but a rather small
@@ -14,7 +14,7 @@ code base, which is good. Today, I have set up [cdk/cdk/trunk/](http://cdk.svn.s
 So, no more use of svn:externals. This is what it now looks like, and basically formalizes the end result of
 [Niels](http://progz-jchem.blogspot.com/)' work of last year:
 
-![](/blog/assets/images/jchempaintNew.png)
+![](/assets/images/jchempaintNew.png)
 
 A possible spin of is that [Bioclipse](http://bioclipse.net/)2 can use these plugins too, instead of defining plugins itself.
 

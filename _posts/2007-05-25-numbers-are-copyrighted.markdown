@@ -17,7 +17,7 @@ Some details can be found in this [Linux Weekly News](http://www.lwn.net/) artic
 [How Debian packages a number](http://lwn.net/Articles/233660/).
 
 Interestingly, this is really not problems just regarding commercial publishers, or closed access publishing or so. Yesterday,
-[Christoph](http://wiki.cubic.uni-koeln.de/blog/) and I working on getting [the NMR spectrum text mining](http://chem-bla-ics.blogspot.com/2006/09/chemical-archeology-oscar3-to.html)
+[Christoph](http://wiki.cubic.uni-koeln.de/blog/) and I working on getting [the NMR spectrum text mining <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/09/08/chemical-archeology-oscar3-to.html)
 going in [Bioclipse](http://www.bioclipse.net/) again for the [workshop](http://teacher.bmc.uu.se/BioclipseWS07/),
 we noticed that the open access [Beilstein Journal of Organic Chemistry](http://bjoc.beilstein-journals.org/),
 does not make [Open Data](http://en.wikipedia.org/wiki/Open_Data) reality either: the experimental sections are

@@ -2,14 +2,14 @@
 layout: post
 title:  "Payed summer jobs in chemoinformatics"
 date:   2007-06-16
-modified_date: 2025-02-15
+modified_date: 2025-07-30
 doi: 10.59350/yt9bg-zdp74
 blogger-link: https://chem-bla-ics.blogspot.com/2007/06/payed-summer-jobs-in-chemoinformatics.html
 tags: jmol bioclipse
 ---
 
 Last year the [Programmeerzomer.nl](http://www.programmeerzomer.nl/) sponsored one summer student to work on [Bioclipse](http://www.bioclipse.net/)
-(see the [announcement](http://chem-bla-ics.blogspot.com/2006/06/dutch-summer-of-code-sponsors.html)). The Programmeerzomer is much like the
+(see the [announcement <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/06/20/dutch-summer-of-code-sponsors.html)). The Programmeerzomer is much like the
 [Google Summer of Code where I mentor Alexandr](http://kemistry-desktop.blogspot.com/2007/04/chemical-semantic-desktop.html). However, it is much
 smaller and oriented at just the [NL area](http://en.wikipedia.org/wiki/Netherlands): both the student and the mentor needs to be Dutch,
 but the opensource project does not.

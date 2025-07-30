@@ -2,7 +2,7 @@
 layout: post
 title:  "CDK Literature #2"
 date:   2007-07-14
-modified_date: 2025-02-16
+modified_date: 2025-07-30
 doi: 10.59350/17nhx-htt54
 blogger-link: https://chem-bla-ics.blogspot.com/2007/07/cdk-literature-2.html
 tags: cdk doi:10.1186/1471-2105-8-59 justdoi:10.1021/ac070741j justdoi:10.1186/1471-2105-8-105
@@ -40,7 +40,7 @@ Enumeration, QSAR & Combinatorial Science, 2007, 26(3):407-410, doi:[10.1002/qsa
 ## Molecular Query Language
 
 This article is also from the group of Gisbert. Ewgenij introduces an open standard SMARTS replacement, covered in
-[CDK News in 2005](http://chem-bla-ics.blogspot.com/2005/10/cdk-news.html). There is an interface to the CDK, but the
+[CDK News in 2005 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2005/10/30/cdk-news.html). There is an interface to the CDK, but the
 license of the reference implementation makes it impossible to distribute it with the CDK itself. This is rather
 unfortunate, because if it would have been possible, a number of implementations in the CDK, such as atom type
 perception, could be based on MQL. See also [Jörgs blog on MQL](http://miningdrugs.blogspot.com/2007/01/molecular-query-languages-flexmol-mql.html). <br />

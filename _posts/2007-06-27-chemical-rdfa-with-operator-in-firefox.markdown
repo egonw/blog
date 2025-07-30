@@ -2,24 +2,24 @@
 layout: post
 title:  "Chemical RDFa with Operator in the Firefox toolbar"
 date:   2007-06-27 00:10
-modified_date: 2025-02-15
+modified_date: 2025-07-30
 doi: 10.59350/8hkrb-cb907
 blogger-link: https://chem-bla-ics.blogspot.com/2007/06/chemical-rdfa-with-operator-in-firefox.html
 tags: pubchem rdf userscript inchi
 image: /assets/images/pubchemRDFa.png
 ---
 
-December last year [I proposed the use of microformats and RDFa](http://chem-bla-ics.blogspot.com/2006/12/including-smiles-cml-and-inchi-in.html)
-for simple semantic markup of molecular information. I linked that with the [InChI extension for the Postgenomic.com software](http://chem-bla-ics.blogspot.com/2006/02/hacking-inchi-support-into.html)
+December last year [I proposed the use of microformats and RDFa <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/12/10/including-smiles-cml-and-inchi-in.html)
+for simple semantic markup of molecular information. I linked that with the [InChI extension for the Postgenomic.com software <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/02/25/hacking-inchi-support-into.html)
 for [Chemical blogspace](http://cb.openmolecules.net/) and wrote these tools to work with the markup:
 
-* [wrote a Greasemonkey script to automatically link to webservices](http://chem-bla-ics.blogspot.com/2006/12/smiles-cas-and-inchi-in-blogs.html),
-* [explained how that script can be used on the server](http://chem-bla-ics.blogspot.com/2007/01/chemistry-in-html-javascript-from.html), and
-* [adapted a Greasemonkey script to show blog items related to molecules](http://chem-bla-ics.blogspot.com/2007/05/cb-comments-for-inchis.html).
+* [wrote a Greasemonkey script to automatically link to webservices <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/12/17/smiles-cas-and-inchi-in-blogs.html),
+* [explained how that script can be used on the server <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/01/02/chemistry-in-html-javascript-from.html), and
+* [adapted a Greasemonkey script to show blog items related to molecules <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/05/05/cb-comments-for-inchis.html).
 
 All using the new semantic markup.
 
-Of the two, I think RDFa has the best future. Then I [discovered Operator](http://chem-bla-ics.blogspot.com/2007/05/added-my-hcard-to-my-blog.html),
+Of the two, I think RDFa has the best future. Then I [discovered Operator <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/05/11/added-my-hcard-to-my-blog.html),
 written by [Mike](http://www.kaply.com/weblog/). While the Greasemonkey scripts already allow me to link to, for example, PubChem and eMolecules,
 the [Operator Firefox Addon](https://addons.mozilla.org/en-US/firefox/addon/4106) allowed me to open vCards incorporated in HTML pages directly
 to my address book client. Thus, I could open chemistry directly in [Bioclipse](http://bioclipse.net/) too!
@@ -30,7 +30,7 @@ This version allows user scripts to be written, which define how RDFa should be 
 
 ![](/assets/images/pubchemRDFa.png)
 
-The HTML is almost [as explained before](http://chem-bla-ics.blogspot.com/2006/12/smiles-cas-and-inchi-in-blogs.html), and looks like:
+The HTML is almost [as explained before <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/12/17/smiles-cas-and-inchi-in-blogs.html), and looks like:
 
 ```html
 <html xmlns="http://www.w3.org/2002/06/xhtml2/">

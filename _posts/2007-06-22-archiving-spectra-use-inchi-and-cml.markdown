@@ -2,7 +2,7 @@
 layout: post
 title:  "Archiving spectra: use InChI and CML"
 date:   2007-06-22
-modified_date: 2025-02-15
+modified_date: 2025-07-30
 doi: 10.59350/4n5zx-19r45
 blogger-link: https://chem-bla-ics.blogspot.com/2007/06/archiving-spectra-use-inchi-and-cml.html
 tags: cml inchi nmr
@@ -13,7 +13,7 @@ about some advices from ACD on how to store spectra in your electronic lab noteb
 
 ## Use InChI
 
-This reminded me of a [discussion I had with with Colin](http://chem-bla-ics.blogspot.com/2007/02/rsc-first-publisher-to-go-semantic.html)
+This reminded me of a [discussion I had with with Colin <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/02/01/rsc-first-publisher-to-go-semantic.html)
 when he was at the CUBIC, which was about experimental sections. I proposed that the [InChI](http://www.iupac.org/inchi/) should have a
 prominent place in the experimental section. An important argument for this is that it allows well-defined atom numbering to be used when
 writing down the NMR bits in that section: the InChI gives a unique numbering, so that the numbering used in the experimental section
@@ -25,7 +25,7 @@ The numbers are easily added to 2D diagrams anyway.
 If software vendors (e.g. [ACD](http://www.acdlabs.com/) and [Bioclipse](http://bioclipse.net/)) and publishers (e.g. ACS,
 [RSC](http://www.rsc.org/Publishing/Journals/ProjectProspect/), [Chemistry Central](http://www.chemistrycentral.com/)) could adopt this
 proposal, then experimental sections immediately are better machine parsable and ready for automatic processing, such as discussed in
-my blog item [Chemical Archeology: OSCAR3 to NMRShiftDB.org](http://chem-bla-ics.blogspot.com/2006/09/chemical-archeology-oscar3-to.html)
+my blog item [Chemical Archeology: OSCAR3 to NMRShiftDB.org <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/09/08/chemical-archeology-oscar3-to.html)
 and by [Christoph at the ACS meeting](http://www.acscinf.org/dbx/mtgs/232nm/232cinfprogram.asp), available as
 [PDF](http://acscinf.org/docs/meetings/232nm/presentations/232nm101.pdf) and this 18MB
 [MP3](http://acscinf.org/docs/meetings/232nm/presentations/232nm101.mp3).

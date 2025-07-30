@@ -2,6 +2,7 @@
 layout: post
 title:  "Why chemistry-rich RSS feeds matter..."
 date:   2008-01-30
+modified_date: 2025-07-30
 blogger-link: https://chem-bla-ics.blogspot.com/2008/01/why-chemistry-rich-rss-feeds-matter.html
 doi: 10.59350/cbnqa-gdc49
 tags: rss chemistry doi:10.1021/CI034244P
@@ -12,8 +13,8 @@ Peter [wrote up an item](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=943) on Ni
 chemistry-enriched RSS feeds for some time. CMLRSS has the chemical data inline in the RSS; see
 DOI:[10.1021/ci034244p](http://dx.doi.org/10.1021/ci034244p), the use of CMLRSS in Chemical blogspace
 described [here](http://chemicalblogspace.blogspot.com/2007/01/cb-gets-cmlrss-feed.html) and
-[here](http://chem-bla-ics.blogspot.com/2007/04/improved-cmlrss-feed-for-chemical.html),
-and the [CMLRSS support in Bioclipse](http://chem-bla-ics.blogspot.com/2006/03/progress-with-cmlrss-plugin-for.html).
+[here <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/04/30/improved-cmlrss-feed-for-chemical.html),
+and the [CMLRSS support in Bioclipse <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/03/06/progress-with-cmlrss-plugin-for.html).
 
 Nick's RSS feed does not put the chemistry inline, but does link to the raw CML file:
 
@@ -37,8 +38,8 @@ Done? Checked it? You saw the problem, right? Good.
 I have scanned the CIF source, but that does not seem to contain the problem. It nicely shows a
 general limitation of commonly used chemoinformatics tools: the lack of proper atom typing (a
 problem I have been looking into for the [Chemistry Development Kit](http://cdk.sf.net/);
-see [Atom Typing in the CDK](http://chem-bla-ics.blogspot.com/2007/07/atom-typing-in-cdk.html) and
-[Evidence of Aromaticity](http://chem-bla-ics.blogspot.com/2007/11/evidence-of-aromaticity.html).).
+see [Atom Typing in the CDK <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/07/01/atom-typing-in-cdk.html) and
+[Evidence of Aromaticity <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/11/06/evidence-of-aromaticity.html).).
 
 You will have noted that the 2D diagram in Peter's blog is charged. I checked the
 [*complete* CML source code](http://wwmm.ch.cam.ac.uk/crystaleye/summary/acta/e/2008/01-00/data/xu2383/xu2383sup1_I/xu2383sup1_I.complete.cml.xml)
@@ -66,4 +67,4 @@ tools do not have really support for dative bonds, a covalent bond could be draw
 the oxygens should be uncharged... right, not? :)
 
 Oh, and surely, one can do much, much more with those feeds. I blogged about that earlier in
-[Automatic Classification of thousands of Crystal Structures](http://chem-bla-ics.blogspot.com/2007/08/automatic-classification-of-thousands.html).
+[Automatic Classification of thousands of Crystal Structures <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/08/24/automatic-classification-of-thousands.html).

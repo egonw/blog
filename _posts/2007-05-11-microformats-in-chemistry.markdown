@@ -2,7 +2,7 @@
 layout: post
 title:  "Microformats in chemistry..."
 date:   2007-05-11 00:00
-modified_date: 2025-02-15
+modified_date: 2025-07-30
 doi: 10.59350/rt0kd-kdw56
 blogger-link: https://chem-bla-ics.blogspot.com/2007/05/microformats-in-chemistry.html
 tags: rdf microformat chemistry
@@ -11,7 +11,7 @@ tags: rdf microformat chemistry
 [Peter](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/) blogged some days ago about [microformats and how they could be used in chemistry](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=295).
 Being late and a bit absent minded, I added a short comment that [Chemical blogspace](http://wiki.cubic.uni-koeln.de/cb/)
 [supports](http://chemicalblogspace.blogspot.com/2006/12/hacking-inchi-support-into-cb.html)
-[microformats for chemistry](http://chem-bla-ics.blogspot.com/2006/12/including-smiles-cml-and-inchi-in.html), and that
+[microformats for chemistry <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/12/10/including-smiles-cml-and-inchi-in.html), and that
 [chemistry is harvested from that](http://chemicalblogspace.blogspot.com/2007/02/latest-blogged-molecules-on-front-page.html),
 and actually [semantically distributed again using CMLRSS](http://chemicalblogspace.blogspot.com/2007/01/cb-gets-cmlrss-feed.html).
 

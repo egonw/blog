@@ -2,14 +2,15 @@
 layout: post
 title:  "RDF-ing molecular space"
 date:   2007-07-31
+modified_date: 2025-07-30
 doi: 10.59350/9r29x-8y455
 blogger-link: https://chem-bla-ics.blogspot.com/2007/07/rdf-ing-molecular-space.html
 tags: chemistry rdf inchi
 ---
 
 [RDF](http://en.wikipedia.org/wiki/Resource_Description_Framework) might be the solution we are looking for to get a grip
-on the huge amount of information we are facing. [microformats](http://chem-bla-ics.blogspot.com/2007/05/microformats-in-chemistry.html),
-and [RDFa](http://chem-bla-ics.blogspot.com/2007/06/chemical-rdfa-with-operator-in-firefox.html), are just solutions along the way,
+on the huge amount of information we are facing. [microformats <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/05/11/microformats-in-chemistry.html),
+and [RDFa <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/06/27/chemical-rdfa-with-operator-in-firefox.html), are just solutions along the way,
 and Gleaning Resource Descriptions from Dialects of Languages ([GRDDL](http://www.w3.org/2004/01/rdxh/spec)) might be
 an important tool to get the web RDF-ied.
 

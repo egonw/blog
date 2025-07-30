@@ -2,7 +2,7 @@
 layout: post
 title:  "The CDK data model #1"
 date:   2007-07-16 00:10
-modified_date: 2025-02-15
+modified_date: 2025-07-30
 doi: 10.59350/4xfms-7nn46
 blogger-link: https://chem-bla-ics.blogspot.com/2007/07/cdk-data-model-1.html
 tags: cdk cheminf
@@ -41,7 +41,7 @@ In the CDK a model is defined as anything that occurs in one actual volume of 3D
 crystal structures is, therefore, one IChemModel. A supramolecular aggregation of lipids, e.g. a mono- or bilayer,
 would be IChemModel too. This could be a time step in a molecular dynamics run. Additionally, the IChemModel may
 also be a chemical reaction, possibly a multistep reaction. It could be, for example, a enzyme reaction mechanism
-[entry from the MACiE database](http://chem-bla-ics.blogspot.com/2006/02/chemical-reactions-in-cml.html).
+[entry from the MACiE database <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/02/17/chemical-reactions-in-cml.html).
 These three types of content are captured in the ICrystal, IMoleculeSet, and IReactionSet.
 
 ## Some Examples
@@ -54,4 +54,4 @@ contains a IMoleculeSet with only one IMolecule. Counter-intuitively, because on
 which is a set of molecules, being stored in a IMoleculeSet.
 
 Enough for tonight. More later. For the impatient, previously I wrote up a short blog about
-[the update notification scheme in the CDK interfaces](http://chem-bla-ics.blogspot.com/2006/04/cdk-data-classes-and-change.html).
+[the update notification scheme in the CDK interfaces <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/04/12/cdk-data-classes-and-change.html).

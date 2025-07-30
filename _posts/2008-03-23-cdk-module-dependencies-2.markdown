@@ -2,13 +2,14 @@
 layout: post
 title:  "CDK Module dependencies #2"
 date:   2008-03-23
+modified_date: 2025-07-30
 blogger-link: https://chem-bla-ics.blogspot.com/2008/03/cdk-module-dependencies-2.html
 doi: 10.59350/e7qrk-ypg78
 tags: cdk
 image: /assets/images/cdkdeps.dot.png
 ---
 
-A bit over 2 years ago I published a [UML diagram showing the dependencies between CDK modules](http://chem-bla-ics.blogspot.com/2005/12/uml-diagram-of-cdk-module-dependencies.html).
+A bit over 2 years ago I published a [UML diagram showing the dependencies between CDK modules <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2005/12/06/uml-diagram-of-cdk-module-dependencies.html).
 Since then I lot of new modules have been defined, added or factored out from the extra module (click to zoom):
 
 ![](/assets/images/cdkdeps.dot.png)

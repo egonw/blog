@@ -2,13 +2,13 @@
 layout: post
 title:  "Inter- and Extrapolation: the NMR shift prediction debate"
 date:   2007-07-13
-modified_date: 2025-04-27
+modified_date: 2025-07-30
 doi: 10.59350/tbd0q-67564
 blogger-link: https://chem-bla-ics.blogspot.com/2007/07/inter-and-extrapolation-nmr-shift.html
 tags: nmr
 ---
 
-Chemical blogspace has seen a lengthy discussion on [the quality of a few NMR shift prediction programs](http://chem-bla-ics.blogspot.com/2007/06/quality-of-chemical-database.html),
+Chemical blogspace has seen a lengthy discussion on [the quality of a few NMR shift prediction programs <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/06/19/quality-of-chemical-database.html),
 and Ryan wanted to make [a final statement](http://acdlabs.typepad.com/my_weblog/2007/07/final-note-on-t.html). Down his blog item
 he had this quote from Jeff, discussing the use of the [NMRShiftDB](http://www.nmrshiftdb.org/) as external test set:
 
@@ -62,7 +62,7 @@ The ACD/Labs databases are likely expensive because of various reasons. And this
 [Blue Obelisk](http://www.blueobelisk.org/) comes in. **Open Data**: if publishers would not copyright their data,
 NMR databases would be much cheaper to set up (see [this thread in Peter's blog <i class="fa-solid fa-recycle fa-xs"></i>](https://blogs.ch.cam.ac.uk/pmr/2007/07/12/do-authors-want-to-give-publishers-a-monopoly-over-their-data/));
 assuming ACD/Labs has to pay publishers for actually setting up their database. **Open Source**: the various Blue
-Obelisk projects provide the [tools to automatically create a purgatory NMR database](http://chem-bla-ics.blogspot.com/2006/09/chemical-archeology-oscar3-to.html);
+Obelisk projects provide the [tools to automatically create a purgatory NMR database <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/09/08/chemical-archeology-oscar3-to.html);
 no humans needed for that any more. **Open Standards**: the data from the NMRShiftDB can be downloaded in various
 formats, among which CMLSpect. Being able to easily read the data, made it possible that we actually have this
 discussion. Sure, the open data part of the NMRShiftDB is crucial too! But the database could have used an obscure,

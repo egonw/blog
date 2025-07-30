@@ -2,16 +2,16 @@
 layout: post
 title:  "Web2O, Open Chemistry, and Chemblaics"
 date:   2007-12-03
-modified_date: 2025-04-20
+modified_date: 2025-07-30
 blogger-link: https://chem-bla-ics.blogspot.com/2007/12/web2o-open-chemistry-and-chemblaics.html
 doi: 10.59350/afvyc-7bq58
-tags: openscience
+tags: openscience justdoi:10.63485/9emta-f1x80
 image: /assets/images/coolestCaptcha.png
 ---
 
 Chemistry World December issue features a nice item on the future of data in chemistry:
 [Surfing Web2O](http://www.rsc.org/chemistryworld/Issues/2007/December/SurfingWeb20.asp); Peter
-[gave an excerpt](http://www.earlham.edu/~peters/fos/2007/12/survey-of-open-chemistry.html), and Peter
+[gave an excerpt <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.63485/9emta-f1x80), and Peter
 [commented on it <i class="fa-solid fa-recycle fa-xs"></i>](https://blogs.ch.cam.ac.uk/pmr/2007/12/03/survey-of-open-chemistry-in-chemistry-world/).
 
 The article discusses many of the things that have been happening in the field of chemical data. It

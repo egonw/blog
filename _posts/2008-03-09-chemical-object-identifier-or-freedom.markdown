@@ -2,9 +2,10 @@
 layout: post
 title:  "The Chemical Object Identifier; or, the freedom to identify chemicals"
 date:   2008-03-09
+modified_date: 2025-07-30
 blogger-link: https://chem-bla-ics.blogspot.com/2008/03/chemical-object-identifier-or-freedom.html
 doi: 10.59350/ed8nt-n6a25
-tags: cas cheminf justdoi:10.1021/ci049758i
+tags: cas cheminf justdoi:10.1021/ci049758i justdoi:10.63485/54wv5-hs388
 image: /assets/images/cas-number.png
 ---
 
@@ -27,7 +28,7 @@ curated by means of the official database - it violates the *end user agreement*
 reacted ([here](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=997),
 [here](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=1000),
 [here](http://www.chemconnector.com/chemunicating/the-curation-of-almost-5000-structures-on-wikipedia.html),
-[here](http://www.earlham.edu/~peters/fos/2008/03/acs-blocks-use-of-industry-standard.html) and
+[here <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.63485/54wv5-hs388) and
 [here](http://miningdrugs.blogspot.com/2008/03/cas-numbers-are-not-public-domain-are.html)).
 
 Personally, I agree with the CAS standpoint. It's been a proprietary database which people have been supporting financially for years, and thoughtfully signed

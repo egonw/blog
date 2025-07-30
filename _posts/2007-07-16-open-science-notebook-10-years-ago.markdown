@@ -2,10 +2,10 @@
 layout: post
 title:  "The Open Science Notebook 10 years ago"
 date:   2007-07-16
-modified_date: 2025-04-27
+modified_date: 2025-07-30
 doi: 10.59350/m9z3j-c9093
 blogger-link: https://chem-bla-ics.blogspot.com/2007/07/open-science-notebook-10-years-ago.html
-tags: cdk openscience justdoi:10.1038/npre.2007.39.1 justdoi:10.59350/sk1yv-zxp51
+tags: cdk openscience justdoi:10.1038/npre.2007.39.1 justdoi:10.59350/sk1yv-zxp51 justdoi:10.63485/c9h8f-ee251
 ---
 
 So, with [all](http://mndoci.com/blog/2007/07/14/does-the-open-research-world-need-a-single-access-point/)
@@ -16,7 +16,7 @@ So, with [all](http://mndoci.com/blog/2007/07/14/does-the-open-research-world-ne
 [the](http://scilib.typepad.com/science_library_pad/2007/06/thinking-about-.html)
 [Open <i class="fa-solid fa-recycle fa-xs"></i>](https://blogs.ch.cam.ac.uk/pmr/2007/06/08/alicias-open-science-thesis/)
 [Science](http://lccccollegeenglish.blogspot.com/2007/05/gary-hermans-open-notebook-science.html)
-[Notebook](http://www.earlham.edu/~peters/fos/2007_04_08_fosblogarchive.html#117639147972554644)
+[Notebook <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.63485/c9h8f-ee251)
 (yes, each word is one distinct blog) it is worth looking back in time. To make clear what I put
 under the OSN: a notebook in which experimental details and outcome are written down.
 So, what did the OSN look like almost ten years ago?

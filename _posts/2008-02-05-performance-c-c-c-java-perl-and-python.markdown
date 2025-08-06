@@ -5,7 +5,7 @@ date:   2008-02-05
 modified_date: 2025-07-30
 blogger-link: https://chem-bla-ics.blogspot.com/2008/02/performance-c-c-c-java-perl-and-python.html
 doi: 10.59350/kktab-e6159
-tags: java doi:10.1186/1471-2105-9-82
+tags: java justdoi:10.1186/1471-2105-9-82
 image: /assets/images/alignment.gif
 ---
 

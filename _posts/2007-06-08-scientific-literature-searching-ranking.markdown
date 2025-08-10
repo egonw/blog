@@ -2,7 +2,7 @@
 layout: post
 title:  "Scientific Literature: searching, ranking, storage"
 date:   2007-06-08
-modified_date: 2025-04-27
+modified_date: 2025-08-10
 doi: 10.59350/8rxpp-1e755
 blogger-link: https://chem-bla-ics.blogspot.com/2007/06/scientific-literature-searching-ranking.html
 tags: citeulike publishing chemistry justdoi:10.59350/6zgf4-2wb06 connotea
@@ -34,7 +34,7 @@ to PDF versions of the article.
 
 [Mitch set up](http://www.chemicalforums.com/index.php?topic=17653.msg67580#msg67580) [ChemRank](http://chemrank.com/),
 to which [Peter <i class="fa-solid fa-recycle fa-xs"></i>](https://blogs.ch.cam.ac.uk/pmr/2007/05/30/ranking-chemistry-and-blogosphere-metrics/), the [ChemBlog](http://www.thechemblog.com/?p=552)
-and [I replied](http://chem-bla-ics.blogspot.com/2007/05/chemrank-ranking-scientific-literature.html). Afterwards,
+and [I replied <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/05/30/chemrank-ranking-scientific-literature.html). Afterwards,
 I learned that other services are available too, that allow, in addition to setting up an online personal literature
 database, voting and commenting on articles.
 

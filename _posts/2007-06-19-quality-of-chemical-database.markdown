@@ -2,7 +2,7 @@
 layout: post
 title:  "Quality of Chemical Database"
 date:   2007-06-19 00:10
-modified_date: 2025-02-16
+modified_date: 2025-08-10
 doi: 10.59350/49wqj-62k11
 blogger-link: https://chem-bla-ics.blogspot.com/2007/06/quality-of-chemical-database.html
 tags: justdoi:10.1186/1471-2105-7-517 opendata chemistry doi:10.1021/CI034244P pubchem rdf
@@ -40,5 +40,5 @@ which offers an interface to [PubChem](http://pubchem.ncbi.nlm.nih.gov/).
 German scientists offer a RDF interface to [Wikipedia](http://wikipedia.org/): [DBPedia](http://dbpedia.org/).
 Informal semantic markup in Wikipedia, such as the [Infobox template](http://en.wikipedia.org/wiki/Wikipedia:Infobox_templates),
 [are used to create triples](http://dbpedia.org/docs/). It's a shame that the [ChemBox](http://en.wikipedia.org/wiki/Template:Chembox)
-is not used yet, which would make [detecting molecules in blogs](http://chem-bla-ics.blogspot.com/2007/06/using-wikipedia-to-recognize-molecules.html)
+is not used yet, which would make [detecting molecules in blogs <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/06/19/using-wikipedia-to-recognize-molecules.html)
 even easier.

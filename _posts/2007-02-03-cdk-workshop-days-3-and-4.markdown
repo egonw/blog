@@ -2,21 +2,21 @@
 layout: post
 title:  "CDK Workshop - Days #3 and #4"
 date:   2007-02-03
-modified_date: 2025-04-27
+modified_date: 2025-08-10
 doi: 10.59350/kvq10-snm07
 blogger-link: https://chem-bla-ics.blogspot.com/2007/02/cdk-workshop-days-3-and-4.html
 tags: cdk smiles
 ---
 
 Days #3 and #4 of the [CDK Workshop](http://wiki.cubic.uni-koeln.de/cdkwiki/doku.php?id=spring2007workshop) have been
-quite busy indeed, and I have not been able to summarize them so far. After [a rather interesting day #2 <i class="fa-solid fa-recycle fa-xs"></i>](http://chem-bla-ics.blogspot.com/2007/01/cdk-workshop-day-2.html),
+quite busy indeed, and I have not been able to summarize them so far. After [a rather interesting day #2 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/01/30/cdk-workshop-day-2.html),
 the third day was the last one with scheduled presentations. Kai Hartmann showed how he used the CDK in his systems
 biology research, and contributed the code he wrote to predict Gibbs energies based on fragment contributions.
 Miguel Rojas showed his MS prediction work, which is based on the CDK too.
 
 Much of the rest of day and Thursday continued on the work started yesterday: making the 3D structure builder a
 singleton class, and applying and testing an optimization for the AllRingsFinder to address
-[molecules like Choloyl-CoA <i class="fa-solid fa-recycle fa-xs"></i>](http://chem-bla-ics.blogspot.com/2007/01/cdk-workshop-day-2.html). The trick
+[molecules like Choloyl-CoA <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/01/30/cdk-workshop-day-2.html). The trick
 basically consists of applying the all rings finding algorithm to isolated systems only. The effect is
 considerable: the total computation time for Choloyl-CoA decreases by a 93 fold! We found that the
 fingerprints used in the template library for the 3D structure builder are outdated, and Christoph worked

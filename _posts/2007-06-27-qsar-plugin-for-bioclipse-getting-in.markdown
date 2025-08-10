@@ -2,7 +2,7 @@
 layout: post
 title:  "QSAR plugin for Bioclipse getting in shape"
 date:   2007-06-27
-modified_date: 2025-02-15
+modified_date: 2025-08-10
 doi: 10.59350/ht8k2-aed07
 blogger-link: https://chem-bla-ics.blogspot.com/2007/06/qsar-plugin-for-bioclipse-getting-in.html
 tags: bioclipse qsar cdk ambit
@@ -14,7 +14,7 @@ Over the last few weeks I continued the work on getting (descriptor-based) [QSAR
 opensource engines that can calculate molecular descriptors, and [AMBIT](http://ambit.acad.bg/) a front-end.
 
 To be able to do QSAR/QSPR model building from start to end in Bioclipse, I worked in April
-[on an architecture for selecting descriptors](http://chem-bla-ics.blogspot.com/2007/04/bioclipse-now-allows-qsar-descriptor.html).
+[on an architecture for selecting descriptors <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/04/24/bioclipse-now-allows-qsar-descriptor.html).
 Being busy with so many things, it took me some time to get around to completing that, but here are the screenshots:
 
 ![](/assets/images/bioQSAR1.png)

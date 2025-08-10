@@ -2,7 +2,7 @@
 layout: post
 title:  "Molecules in Wikipedia"
 date:   2007-08-02
-modified_date: 2025-02-15
+modified_date: 2025-08-10
 doi: 10.59350/jv7te-h3w77
 blogger-link: https://chem-bla-ics.blogspot.com/2007/08/molecules-in-wikipedia.html
 tags: chemistry wikipedia rdf inchi
@@ -14,7 +14,7 @@ nice unique molecular identifier (for example *[http://en.wikipedia.org/wiki/Lac
 conditions, and many [bloggers are using it as such <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/06/19/using-wikipedia-to-recognize-molecules.html).
 But, it only is a useful identifier if one (and only one) InChI is stated on the wiki page.
 
-Now that I am [RDF-ing molecular space](http://chem-bla-ics.blogspot.com/2007/07/rdf-ing-molecular-space.html), I was
+Now that I am [RDF-ing molecular space <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/07/31/rdf-ing-molecular-space.html), I was
 [again](http://del.icio.us/url/e24b896a3398220b76d47f59dbdc2634) interested in [dbpedia](http://dbpedia.org/docs/), a RDF version of Wikipedia.
 See these two [blog <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/06/19/quality-of-chemical-database.html)
 [items](http://radar.oreilly.com/archives/2007/03/different_appro_1.html) and Peter's very nice

@@ -2,7 +2,7 @@
 layout: post
 title:  "CompLife2007, Utrecht/NL. Day 1 and 2"
 date:   2007-10-14
-modified_date: 2025-03-30
+modified_date: 2025-08-10
 blogger-link: https://chem-bla-ics.blogspot.com/2007/10/complife2007-utrechtnl-day-1-and-2.html
 tags: knime chemspider justdoi:10.1002/cmdc.200700041
 doi: 10.59350/62aqh-f9y91
@@ -59,4 +59,4 @@ Jensen, finally, presented his work at the [UCC](http://www-ucc.ch.cam.ac.uk/) o
 he uses the *mean first passage time* as observable to analyze of processes in folding state space. This allows him to
 compare different modeling approaches and, for example, to predict how many time steps are needed to reach folding.
 Being able to measure characteristics of certain modeling methods, one is able to make a objective comparison. Something
-which allows [a fair competition](http://chem-bla-ics.blogspot.com/2007/09/outscoring-old-science.html).
+which allows [a fair competition <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/09/13/outscoring-old-science.html).

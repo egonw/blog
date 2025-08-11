@@ -14,6 +14,10 @@ grants:
     funder:
       name: "Dutch Research Council"
       ror: 04jsz6e67
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 114648281268131560
 ---
 
 This week the 13th [International Conference on Chemical Structures](https://iccs-nl.org/) took place

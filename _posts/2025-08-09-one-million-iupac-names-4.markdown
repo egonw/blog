@@ -6,6 +6,10 @@ doi: 10.59350/krw9n-dv417
 tags: iupac beilstein chembl cito:citesAsRecommendedReading:10.5281/zenodo.16755947
   inchikey:RDOXTESZEPMUJZ-UHFFFAOYSA-N inchikey:QWVGKYWNOKOFNN-UHFFFAOYSA-N
   cito:citesAsRecommendedReading:10.5281/zenodo.15077270
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 114998152156169504
 ---
 
 A lot is happening. If you have been following this project more closesly, you may have already seen some interesting updates, but

@@ -5,6 +5,10 @@ date:   2025-06-09
 doi: 10.59350/6f7he-kxt56
 tags: iupac textmining inchikey:DKPKDPKJVDQUPD-XGBIXEJNSA-M cito:containsAssertionFrom:10.59350/rzepa.28802
 image: /assets/images/iupac_626.png
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 114652819323591144
 ---
 
 I could not find the time earlier to report ([reason](https://chem-bla-ics.linkedchemistry.info/2025/06/08/iccs2025-1-back-in-noordwijkerhout.html)),

@@ -4,6 +4,10 @@ title:  "Retracted articles cited in Wikipedia"
 date:   2025-06-08 00:10
 doi: 10.59350/mjxmp-7ra02
 tags: wikidata wikipedia doi doi:10.1007/978-3-319-70407-4_36
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 114649485103904899
 ---
 
 Last week, the [Wikidata and Sister Projects](https://www.wikidata.org/wiki/Event:Wikidata_and_Sister_Projects) event tooks place.

@@ -5,6 +5,10 @@ date:   2025-06-29
 doi: 10.59350/c4k5q-h8849
 tags: curation openscience justdoi:10.1038/455047A doi:10.1021/CI050400B
 image: /assets/images/biocuration.png
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 114766582264678635
 ---
 
 Depending on your exact definition of doing science, keeping track as precise as possible of your observations

@@ -6,6 +6,10 @@ doi: 10.59350/vwd81-p8z85
 tags: publishing cito:citesAsRecommendedReading:10.59350/svpow.24000 cito:citesAsRecommendedReading:10.1186/s13059-020-02181-2
   cito:describes:10.1186/s13287-025-04166-z cito:obtainsBackgroundFrom:10.1038/sdata.2018.29
 image: /assets/images/imageResolutionLoss.png
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 114980652792683628
 ---
 
 [Mike Taylor](https://sauropods.win/@mike) wrote up [a post](https://doi.org/10.59350/svpow.24000) about the various things a journal article is doing,

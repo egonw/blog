@@ -5,6 +5,10 @@ date:   2025-06-22
 doi: 10.59350/18gr7-6mx88
 tags: biohackrxiv
 image: /assets/images/biohackrxiv_index.png
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 114727446486719671
 ---
 
 One thing I was still missing in [BioHackrXiv](https://biohackrxiv.org) was a place with an overview

@@ -5,7 +5,7 @@ date:   2008-06-05
 blogger-link: https://chem-bla-ics.blogspot.com/2008/06/recovering-full-mass-spectra-from-gc-ms_05.html
 doi: 10.59350/j9rb9-ns27
 tags: metabolomics rstats
-image: /blog/assets/images/map6.png
+image: /assets/images/map6.png
 ---
 
 Steffen reminded me over email that the particular machine only has a 1 dalton accuracy, and that the 150ppm
@@ -17,12 +17,12 @@ as clean as before, but that's where the peak fitting with (Modified) Gaussians 
 
 The original 150ppm results:
 
-![](/blog/assets/images/ionChromPlot4.png)
+![](/assets/images/ionChromPlot4.png)
 
 The 750ppm results:
 
-![](/blog/assets/images/map5.png)
+![](/assets/images/map5.png)
 
 And for 1000ppm (1250ppm did not further improve):
 
-![](/blog/assets/images/map6.png)
+![](/assets/images/map6.png)

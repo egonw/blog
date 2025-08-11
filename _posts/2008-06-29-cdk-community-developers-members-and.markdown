@@ -5,7 +5,7 @@ date:   2008-06-29
 blogger-link: https://chem-bla-ics.blogspot.com/2008/06/cdk-community-developers-members-and.html
 doi: 10.59350/n2k7b-f1d65
 tags: cdk
-image: /blog/assets/images/cdkMap.png
+image: /assets/images/cdkMap.png
 ---
 
 An open source project is as good as its community. [Jmol](http://www.jmol.org/) has a brilliant community, but [CDK](http://cdk.sf.net/) is not doing
@@ -42,7 +42,7 @@ A CDK User is basically anyone who uses any of the CDK products, but in particul
 
 A limited overview of developers, members and users can be found on [this Google map](http://cdk.sourceforge.net/maps/people/):
 
-![](/blog/assets/images/cdkMap.png)
+![](/assets/images/cdkMap.png)
 
 Just email me (or cdk-user) your latitude/longtitude to have yourself or your research group (URL) linked on this map as user
 or developer.

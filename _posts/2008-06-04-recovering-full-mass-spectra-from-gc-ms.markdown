@@ -5,7 +5,7 @@ date:   2008-06-04
 blogger-link: https://chem-bla-ics.blogspot.com/2008/06/recovering-full-mass-spectra-from-gc-ms.html
 doi: 10.59350/r7fav-92885
 tags: metabolomics rstats
-image: /blog/assets/images/ionChromPlot3.png
+image: /assets/images/ionChromPlot3.png
 ---
 
 One aspect not covered in detail by the [ongoing](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=1134)
@@ -39,7 +39,7 @@ The number of databases are growing, and likewise the openness and accessibility
 
 Now, unit tests could, for example, tests that some algorithm can deconvolute the following GC-MS data:
 
-![](/blog/assets/images/ionChromPlot3.png)
+![](/assets/images/ionChromPlot3.png)
 
 The red line is the TIC for the chromatogram, while the black lines are the extracted ion chromatograms of individual m/z (ion) peaks in
 the mass spectral dimension, and, only of peaks detected using [XCMS](http://masspec.scripps.edu/xcms/xcms.php) using the new centWave
@@ -72,7 +72,7 @@ p <- findPeaks(xr, method="centWave", ppm=150, peakwidth=c(5,25))
 
 But it fails to detect some of the metabolites in the long tail:
 
-![](/blog/assets/images/ionChromPlot4.png)
+![](/assets/images/ionChromPlot4.png)
 
 As you can observe from the low S/N ratio on the red TIC line, you can notice that we are at low intensity metabolites. Assuming some
 peak shape is at such noise levels much more difficult than with better S/N ratios. The `centWave` uses a really nice non-parametric approach

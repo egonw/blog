@@ -76,12 +76,12 @@ loadComment.addEventListener('click', function () {
                             ${reply.account.display_name} @ ${reply.created_at.substr(0, 10)}
                           </a>
                         </h4>
-                        <div class="author__bio" style="font-size:1.5rem;width:89%">${fediCommentContent}</div>
+                        <div class="post-meta" style="width:89%">${fediCommentContent}</div>
                         </div>
-                        <div class="status">
-                          <i class="fa fa-reply fa-fw"></i>${reply.replies_count}&nbsp;|&nbsp; 
-                          <i class="fa fa-retweet fa-fw"></i>${reply.reblogs_count}&nbsp;|&nbsp;
-                          <i class="fa fa-star fa-fw"></i>${reply.favourites_count}
+                        <div class="status" style="font-size: 0.9rem;">
+                          <i class="fa fa-reply fa-fw grey"></i>&nbsp;${reply.replies_count}&nbsp;|&nbsp; 
+                          <i class="fa fa-retweet fa-fw grey"></i>&nbsp;${reply.reblogs_count}&nbsp;|&nbsp;
+                          <i class="fa fa-star fa-fw grey"></i>&nbsp;${reply.favourites_count}
                         </div> 
                        </div>
                     </article>`;

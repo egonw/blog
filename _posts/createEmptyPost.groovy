@@ -33,6 +33,10 @@ title:  "${title}"
 date:   ${date}
 doi: ${doi}
 tags:
+#comments:
+#  host: social.edu.nl
+#  username: egonw
+#  id: ...
 ---
 
 <i class="fa-solid fa-box-archive fa-xs"></i>

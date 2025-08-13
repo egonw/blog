@@ -4,7 +4,7 @@ title:  "Peer reviewed Chemoinformatics: Why OpenSource Chemoinformatics should 
 date:   2008-07-22
 blogger-link: https://chem-bla-ics.blogspot.com/2008/07/peer-reviewed-chemoinformatics-why.html
 doi: 10.59350/7z23e-kmf12
-tags: cheminf doi:10.1021/CI050400B bo doi:10.1186/1471-2105-8-59 doi:10.2174/138161206777585274
+tags: cheminf doi:10.1021/CI050400B blue-obelisk doi:10.1186/1471-2105-8-59 doi:10.2174/138161206777585274
 ---
 
 The battle for scientific publishing is continuing: openaccess, peer reviewing, how much does it cost, who should

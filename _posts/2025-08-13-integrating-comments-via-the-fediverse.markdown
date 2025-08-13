@@ -5,10 +5,10 @@ date:   2025-08-13
 doi: 10.59350/r4mbg-yyb06
 tags: blog cito:usesMethodIn:10.59350/pr6zx-10397 mastodon
 image: /assets/images/fedicomments2.png
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 115020983724055256
 ---
 
 My [old blog](https://chem-bla-ics.linkedchemistry.info/2023/07/27/archiving-and-updating-my-blog.html)

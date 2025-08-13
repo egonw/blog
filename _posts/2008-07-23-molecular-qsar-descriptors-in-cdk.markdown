@@ -5,7 +5,7 @@ date:   2008-07-23
 blogger-link: https://chem-bla-ics.blogspot.com/2008/07/molecular-qsar-descriptors-in-cdk.html
 doi: 10.59350/4a21q-zaj66
 tags: cdk qsar
-image: /blog/assets/images/descNames.png
+image: /assets/images/descNames.png
 ---
 
 Rajarshi has patched trunk last night with his work to address a few practical issues in the molecular descriptor
@@ -18,4 +18,4 @@ descriptor matrix. *Just make sure your molecular structures have explicit hydro
 Anyway, Rajarshi also added a new page to [CDK Nightly](http://cheminfo.informatics.indiana.edu/~rguha/code/java/nightly/)
 to [list the available descriptors](http://cheminfo.informatics.indiana.edu/~rguha/code/java/nightly/dnames.html):
 
-![](/blog/assets/images/descNames.png)
+![](/assets/images/descNames.png)

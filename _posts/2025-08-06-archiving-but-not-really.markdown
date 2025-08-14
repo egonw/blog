@@ -9,7 +9,7 @@ image: /assets/images/imageResolutionLoss.png
 comments:
   host: mastodon.social
   username: egonw
-  id: 114980652792683628
+  id: 114980652687570297
 ---
 
 [Mike Taylor](https://sauropods.win/@mike) wrote up [a post](https://doi.org/10.59350/svpow.24000) about the various things a journal article is doing,

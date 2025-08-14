@@ -5,6 +5,10 @@ date:   2024-12-27
 doi: 10.59350/vjvdy-6p110
 tags: blog openlab
 image: /assets/images/depth-first-on-rogue-scholar.png
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 113726345985032949
 ---
 
 Blogs come and go. Sometimes they move from one location to another. However, blogs have not been systematically

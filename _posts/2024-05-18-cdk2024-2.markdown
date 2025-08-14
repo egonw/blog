@@ -13,6 +13,10 @@ grants:
     funder:
       name: "Dutch Research Council"
       ror: 04jsz6e67
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 112478197975562227
 ---
 
 Publishing grant proposal is still not very common. The proposal published in Research Ideas and Outcomes)

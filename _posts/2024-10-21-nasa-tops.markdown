@@ -5,6 +5,10 @@ date:   2024-10-21
 tags: openscience justdoi:10.5281/zenodo.10161527
 image: /assets/images/nasa_tops.png
 doi: 10.59350/w7kzh-8y965
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 113349401081461719
 ---
 
 It was on my radar for some time already, but did not get around to finishing it. But I completed all

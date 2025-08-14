@@ -8,6 +8,10 @@ tags: bioschemas rdf chemistry cito:citesForInformation:10.59350/ne4rf-wey66 cit
   cito:citesForInformation:10.1021/jm5002056 cito:usesDataFrom:10.3762/bjoc.21.21 cito:usesMethodIn:10.21105/joss.02558
   cito:citesForInformation:10.59350/40377-hz881 beilstein
 image: /assets/images/bjoc_bioschemas.png
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 113996255362160514
 ---
 
 Two weeks ago, the [Beilstein Institute announced Bioschemas support in their journals](https://www.beilstein-journals.org/bjoc/news/LAFGBV6PT5ASC5R7JOKSEXOQYM):

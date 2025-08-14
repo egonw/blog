@@ -5,6 +5,10 @@ date:   2025-02-16
 doi: 10.59350/w4zj3-mbw53
 tags: wikidata wikipathways doi:10.1093/NAR/GKAD960 cito:citesAsEvidence:10.13003/c23rw1d9
 image: /assets/images/retraction_SPARQL.png
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 114013109899779234
 ---
 
 A good number of years ago, a colleague and I explored if we could get access to the [Retraction Watch Database](retractiondatabase.org/),

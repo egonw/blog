@@ -5,6 +5,10 @@ date:   2024-09-07
 doi: 10.59350/7hjzg-ngr66
 tags: wikidata bioclipse opencitations justdoi:10.1002/JLAC.18721620110
 image: /assets/images/opencitationsImport.png
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 113101190345140627
 ---
 
 Scholarly articles provide context to the factualness of statements in [Wikidata](https://wikidata.org/),

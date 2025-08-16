@@ -2,6 +2,7 @@
 layout: post
 title:  "One Million IUPAC names #3: the 200 thousand milestone and 1 million IUPAC names"
 date:   2025-06-09
+modified_date:   2025-08-16
 doi: 10.59350/6f7he-kxt56
 tags: iupac textmining inchikey:DKPKDPKJVDQUPD-XGBIXEJNSA-M cito:containsAssertionFrom:10.59350/rzepa.28802
 image: /assets/images/iupac_626.png
@@ -85,6 +86,6 @@ variations for hyphens, I still have 1,162,107 IUPAC names.
 
 Something interesting I cannot fully understand at this moment yet, however, is the following.
 When I calculate the number of unique InChIKeys for the milestone, I get 117,726 keys, and when I do
-this for the list of name variations, I get 203,979 names. So, while the IUPAC name list is about five
+this for the list of name variations, I get 203,979 keys. So, while the IUPAC name list is about five
 times as long, the list of InChIKeys is not even twice as long. Well, I guess that is why this is called
 research.

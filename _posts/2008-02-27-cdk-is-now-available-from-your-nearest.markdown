@@ -2,13 +2,15 @@
 layout: post
 title:  "CDK is now available from your nearest Debian mirror"
 date:   2008-02-27
+modified_date: 2025-08-17
 blogger-link: https://chem-bla-ics.blogspot.com/2008/02/cdk-is-now-available-from-your-nearest.html
 doi: 10.59350/g5s78-zqk90
 tags: cdk debian
 image: /assets/images/cdkbsh.png
 ---
 
-[Some days have passed](http://chem-bla-ics.blogspot.com/2008/02/cdk-close-to-entering-debian.html), and the Debian mirrors have
+[Some days have passed <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/02/20/cdk-close-to-entering-debian.html),
+and the Debian mirrors have
 now picked up the [CDK](http://cdk.sf.net/) package (unstable only so far), allowing you to `sudo aptitude install libcdk-java` from
 your favorite local mirror. The details are available from this [packages.debian.org/libcdk-java](http://packages.debian.org/libcdk-java)
 page. The fact that it is listed as contrib is a small mistake; the package is really *main* material.

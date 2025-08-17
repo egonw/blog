@@ -2,6 +2,7 @@
 layout: post
 title:  "My FOAF network #2: XSLT for a HTML GUI"
 date:   2008-03-08
+modified_date: 2025-08-17
 blogger-link: https://chem-bla-ics.blogspot.com/2008/03/my-foaf-network-2-xslt-for-html-gui.html
 doi: 10.59350/p1n99-9sa03
 tags: semweb blue-obelisk
@@ -10,7 +11,7 @@ image: /assets/images/foafExplorer.png
 
 
 Because the ACS meeting where [Henry](http://www.ch.ic.ac.uk/rzepa/) will present something about FOAF in chemistry,
-is nearing very fast now (here's the [first blog it this series](http://chem-bla-ics.blogspot.com/2007/10/my-foaf-network-1-foafexplorer.html)),
+is nearing very fast now (here's the [first blog it this series <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/10/26/my-foaf-network-1-foafexplorer.html)),
 it becomes urgent to beef up the [Blue Obelisk](http://www.blueobelisk.org/) FOAF network, now consisting of
 [7 members](http://blueobelisk.sourceforge.net/wiki/Members). All do now show up in
 [the FOAFExplorer](http://blueobelisk.sourceforge.net/people/egonw/):

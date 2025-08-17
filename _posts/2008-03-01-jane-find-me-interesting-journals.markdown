@@ -2,6 +2,7 @@
 layout: post
 title:  "Jane, find me interesting journals, please."
 date:   2008-03-01 00:10
+modified_date: 2025-08-17
 blogger-link: https://chem-bla-ics.blogspot.com/2008/03/jane-find-me-interesting-journals.html
 doi: 10.59350/z6s2y-1an09
 tags: publishing doi:10.1021/CI050400B justdoi:10.1093/bioinformatics/btn006
@@ -24,6 +25,6 @@ The next screenshot shows the results for the abstract of the [Blue Obelisk](htt
 
 The *Show articles* feature as well as the journal annotation are rather useful to get a quick overview of what is being suggested.
 The list of authors seems, at first sight, populated by co-authors, and lacks any form of annotation.
-[Room for FOAF here](http://chem-bla-ics.blogspot.com/2007/10/my-foaf-network-1-foafexplorer.html)? They used PubMed as content
+[Room for FOAF here <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/10/26/my-foaf-network-1-foafexplorer.html)? They used PubMed as content
 provider, and text mining to *align* articles, but nothing really semantic, despite the group's name. The output does not seem to
 provide semantics either.

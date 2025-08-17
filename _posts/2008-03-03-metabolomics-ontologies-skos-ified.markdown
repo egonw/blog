@@ -2,16 +2,19 @@
 layout: post
 title:  "Metabolomics Ontologies: SKOS-ified the ArMet specification"
 date:   2008-03-03
+modified_date: 2025-08-17
 blogger-link: https://chem-bla-ics.blogspot.com/2008/03/metabolomics-ontologies-skos-ified.html
 doi: 10.59350/ne3f5-6kt41
-tags: bioclipse metware ontology semweb
+tags: bioclipse metware ontology semweb owl xml
 ---
 
-The [MetWare project](http://chem-bla-ics.blogspot.com/2007/11/metware-metabolomics-database-project.html) is going to make use of ontology
+The [MetWare project <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/11/22/metware-metabolomics-database-project.html)
+is going to make use of ontology
 technologies to control the content of the database, and a first step is to convert [our MetWare database design](http://metware.svn.sourceforge.net/viewvc/metware/trunk/metware/design/)
-into something using a formal ontology language. I have played with [OWL](http://en.wikipedia.org/wiki/Web_Ontology_Language) in the past (see for example
-[its use in Bioclipse](http://chem-bla-ics.blogspot.com/2007/04/bioclipse-now-allows-qsar-descriptor.html)), but was not overly happy with
-it in all situations.
+into something using a formal ontology language. I have played with [OWL](http://en.wikipedia.org/wiki/Web_Ontology_Language)
+in the past (see for example
+[its use in Bioclipse <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/04/24/bioclipse-now-allows-qsar-descriptor.html)),
+but was not overly happy with it in all situations.
 
 Then I read about [SKOS](http://en.wikipedia.org/wiki/SKOS), Simplified Knowledge Organisation System. Unlike OWL, SKOS is less strict on relations
 between concepts being marked up. Often these concepts are loosely bound, instead following a strict *is_a* hierarchy.

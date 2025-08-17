@@ -2,12 +2,13 @@
 layout: post
 title:  "My FOAF network #3: My publications"
 date:   2008-03-10
+modified_date: 2025-08-17
 blogger-link: https://chem-bla-ics.blogspot.com/2008/03/my-foaf-network-3-my-publications.html
 doi: 10.59350/3qtf0-89n45
 tags: foaf
 ---
 
-[As promised](http://chem-bla-ics.blogspot.com/2008/03/my-foaf-network-2-xslt-for-html-gui.html), I'll write a bit about using
+[As promised <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/03/08/my-foaf-network-2-xslt-for-html-gui.html), I'll write a bit about using
 *Bibliographic Ontology Specification* (BIBO) over as [bibliontology.com](http://bibliontology.com/). I have written a
 [basic XSLT](http://blueobelisk.sourceforge.net/people/egonw/bibo2xhtml.xsl) to create a HTML GUI (open the
 [RDF source](http://blueobelisk.sourceforge.net/people/egonw/biblio.xml) in e.g. Firefox). Really basic: it only converts articles,

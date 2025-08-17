@@ -10,7 +10,7 @@ tags: linux postgenomic
 
 That's why blogging works! I reported last Friday on [using my Wii for reading <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/11/09/using-nintendo-wii-for-serious-science.html)
 [Scintilla](http://scintilla.nature.com/) and [Postgenomic.com](http://www.postgenomic.com/).
-[Alf replied](http://chem-bla-ics.blogspot.com/2007/11/using-nintendo-wii-for-serious-science.html#c9163469498026561308):
+[Alf replied](http://chem-bla-ics.blogspot.com/2007/11/using-nintendo-wii-for-serious-science.html#c9163469498026561308): <!-- keep link -->
 
 > It is the Linux kernel, yes: TCP window scaling was switched on by default in kernels since about a year ago
 > (and in Vista too, I think), and one of our routers or firewalls doesn't like it. We're trying to get them

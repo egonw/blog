@@ -45,7 +45,7 @@ Jmol or a message "Could not find 3D coordinates".
 
 ## Summarize molecular details hidden in CML:
 
-This is likely the most exiting possibility. I blogged about CMLRSS [many times](http://search.blogger.com/?as_q=CMLRSS&ie=UTF-8&ui=blg&bl_url=chem-bla-ics.blogspot.com&x=0&y=0)
+This is likely the most exiting possibility. I blogged about CMLRSS [many times](http://search.blogger.com/?as_q=CMLRSS&ie=UTF-8&ui=blg&bl_url=chem-bla-ics.blogspot.com&x=0&y=0) <!-- keep link -->
 now (check the AVI, the [article](https://doi.org/10.1021/ci034244p), etc), and combining these two
 technologies will take the semantic, chemistry internet to the next level. CMLRSS describes how CML
 can be embedded in blog items (e.g. [Blogging chemistry on blogspot.com <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/02/18/blogging-chemistry-on-blogspotcom.html)),

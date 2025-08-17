@@ -8,7 +8,7 @@ tags: jchempaint java jmol linux
 doi: 10.59350/4dgp8-dtq30
 ---
 
-Thanx to [Mark's encouragements](https://chem-bla-ics.blogspot.com/2005/11/goal-live-chemblaics-cd.html?showComment=1132422120000), I tried to run
+Thanx to [Mark's encouragements](https://chem-bla-ics.blogspot.com/2005/11/goal-live-chemblaics-cd.html?showComment=1132422120000), I tried to run <!-- keep link -->
 [Jmol](http://www.jmol.org/) and [JChemPaint](http://jchempaint.sf.net/) with
 [jamvm](http://jamvm.sourceforge.net/).
 

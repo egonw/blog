@@ -10,7 +10,7 @@ image: /assets/images/emmaCoverage1.png
 ---
 
 Recently I [discussed JUnit testing from within Eclipse <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/10/26/running-single-junit-tests-in-eclipse.html),
-and blogged at [several occasions](http://search.blogger.com/?as_q=JUnit&ie=UTF-8&x=0&y=0&q=JUnit+blogurl:chem-bla-ics.blogspot.com&ui=blg&start=0)
+and blogged at [several occasions](http://search.blogger.com/?as_q=JUnit&ie=UTF-8&x=0&y=0&q=JUnit+blogurl:chem-bla-ics.blogspot.com&ui=blg&start=0) <!-- keep link -->
 about it in other situations. I cannot stress enough how useful unit testing is: it adds this extra set of
 [eyeballs to make bugs shallow](http://en.wikipedia.org/wiki/Given_enough_eyeballs,_all_bugs_are_shallow).
 And it does that, indeed.

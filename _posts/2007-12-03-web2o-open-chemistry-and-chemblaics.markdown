@@ -27,5 +27,5 @@ It also cited [Rich](http://depth-first.com/)' blog item on [32 free chemical da
 [Project Prospect <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/02/01/rsc-first-publisher-to-go-semantic.html),
 and CML which recently saw [its the 7th research paper](http://cmlexplained.blogspot.com/2007/09/chemical-markup-language-for-spectra.html).
 
-Of course, this is the arena of *chemblaics*, but unfortunately [my blog](http://chem-bla-ics.blogspot.com/)
+Of course, this is the arena of *chemblaics*, but unfortunately [my blog](http://chem-bla-ics.blogspot.com/) <!-- keep link -->
 is not cited (though my name mentioned). So, what is wrong with my blog??

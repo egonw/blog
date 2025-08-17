@@ -8,7 +8,7 @@ doi: 10.59350/kk9bs-x2a77
 tags: crystal
 ---
 
-[Jim](http://wwmm.ch.cam.ac.uk/blogs/downing/) replied to the [request by Anthony in my blog](http://chem-bla-ics.blogspot.com/2008/01/why-chemistry-rich-rss-feeds-matter.html#c9123182507496435262)
+[Jim](http://wwmm.ch.cam.ac.uk/blogs/downing/) replied to the [request by Anthony in my blog](http://chem-bla-ics.blogspot.com/2008/01/why-chemistry-rich-rss-feeds-matter.html#c9123182507496435262) <!-- keep link -->
 for a bug track system for [CrystalEye](http://wwmm.ch.cam.ac.uk/crystaleye/) (in beta), after a discussion on the CIF
 processing pipeline (see [here] <i class="fa-solid fa-recycle fa-xs"></i>(https://chem-bla-ics.linkedchemistry.info/2008/01/30/why-chemistry-rich-rss-feeds-matter.html),
 [here](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=943), [here](http://www.chemspider.com/blog/why-we-cant-publish-scraped-crystaleye-data-yetand-science-commons-declare-a-protocol-for-implementing-open-access-data.html)

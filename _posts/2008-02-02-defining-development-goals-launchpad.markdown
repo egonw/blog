@@ -2,13 +2,14 @@
 layout: post
 title:  "Defining Development Goals: LaunchPad complements SourceForge"
 date:   2008-02-02 00:10
+modified_date: 2025-08-17
 blogger-link: https://chem-bla-ics.blogspot.com/2008/02/defining-development-goals-launchpad.html
 doi: 10.59350/nks4k-n7e69
 tags: cdk
 image: /assets/images/ipPredictionDeps.png
 ---
 
-Today, Miguel (who made [the 10000th CDK commit](http://chem-bla-ics.blogspot.com/2008/02/10000-cdk-commits.html)) and I gave
+Today, Miguel (who made [the 10000th CDK commit <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/02/02/10000-cdk-commits.html)) and I gave
 [LaunchPad](http://launchpad.net/) a go, because if offers a nice GUI for planning and monitoring source code development. We
 have set up a [CDK team](https://launchpad.net/~cdk-developers) and a [CDK project](https://launchpad.net/cdk/). LaunchPad
 has overlap with [SourceForge](http://www.sf.net/) functionality, but they idea is not to duplicate functionality. Moreover,

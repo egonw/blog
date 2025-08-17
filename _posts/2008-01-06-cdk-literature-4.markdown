@@ -2,18 +2,18 @@
 layout: post
 title:  "CDK Literature #4"
 date:   2008-01-06
-modified_date: 2025-04-20
+modified_date: 2025-08-17
 blogger-link: https://chem-bla-ics.blogspot.com/2008/01/cdk-literature-4.html
 doi: 10.59350/es4e7-esh15
 tags: cdk doi:10.2174/138161206777585274 doi:10.1021/CI025584Y justdoi:10.1021/ci700043u
   justdoi:10.1093/bioinformatics/btm363 justdoi:10.2174/138920307781369391
 ---
 
-Fourth in the *CDK Literature* series. Really, a follow up on [#3](http://chem-bla-ics.blogspot.com/2008/01/cdk-literature-3.html) which I
+Fourth in the *CDK Literature* series. Really, a follow up on [#3 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/01/03/cdk-literature-3.html) which I
 wanted to get out, even though not really finished yet. But, after 3 comes 4, not 3b. Maybe 3.1, but that suggests at least 3.2-3.9 too,
 let alone full R (that was supposed to the space of all reals...) I'll stick to positive non-zero integers.
-[#1](http://chem-bla-ics.blogspot.com/2007/01/cdk-literature-1.html) and
-[#2](http://chem-bla-ics.blogspot.com/2007/07/cdk-literature-2.html) are still available too.
+[#1 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/01/14/cdk-literature-1.html) and
+[#2 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/07/14/cdk-literature-2.html) are still available too.
 
 Another thing I should remark is that this series does not provide full reviews of the cited papers. Instead, it provides a list of papers
 that cite one of the two CDK papers (doi:[10.1021/ci025584y](https://doi.org/10.1021/ci025584y) and
@@ -64,7 +64,7 @@ doi:[10.2174/138920307781369391](http://dx.doi.org/10.2174/138920307781369391)*
 Fangping Mu et al. have set up a [KEGG](http://www.genome.jp/kegg/)-derived database with annotated reactions where atoms between
 reactants and products are mapped, to help data analysis of isotopomeromics data. The CDK rendering features are used for
 visualization purposes. The software also builds on
-[BioMeta, work by Martin Ott](http://chem-bla-ics.blogspot.com/2007/01/cdk-workshop-day-2.html),
+[BioMeta, work by Martin Ott <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/01/30/cdk-workshop-day-2.html),
 presented at last years CDK Workshop. <br />
 *Fangping Mu, Robert Williams, Clifford Unkefer, Pat Unkefer, James Faeder, William Hlavacek, Carbon-fate maps for metabolic reactions,
 Bioinformatics, 2007, 23(23):3193-3199, doi:[10.1093/bioinformatics/btm498](http://dx.doi.org/10.1093/bioinformatics/btm498)*

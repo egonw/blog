@@ -2,13 +2,14 @@
 layout: post
 title:  "Java Server Pages with CDK functionality"
 date:   2008-01-20
+modified_date: 2025-08-17
 blogger-link: https://chem-bla-ics.blogspot.com/2008/01/java-server-pages-with-cdk.html
 doi: 10.59350/3kvks-pdb73
-tags: java cdk metware
+tags: java cdk metware justdoi:10.59350/4gxzp-tds81
 ---
 
 Setting up interactive web pages can be done in many way. [Java Server Pages](http://en.wikipedia.org/wiki/JavaServer_Pages) are just one of them.
-They are quite similar to PHP pages or [Ruby](http://depth-first.com/articles/2006/11/21/build-a-rails-cheminformatics-application-in-thirty-minutes),
+They are quite similar to PHP pages or [Ruby <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/4gxzp-tds81),
 and combine plain HTML (and likely any other output) code with fragments of code; Java source code in this case.
 
 [Ubuntu](http://www.ubuntu.com/)'s [tomcat5.5](http://packages.ubuntu.com/gutsy/web/tomcat5.5) package installs quite easily, and sets up a server
@@ -69,5 +70,5 @@ double accurateMass = Math.round(analyser.getMass()*10000.0)/10000.0;
 Now, a lot of improvement can be achieved. For example, the `<head>` stuff can be split out in a `header.include`. And, after proper integration with the
 Apache server, [rewrites](http://httpd.apache.org/docs/2.0/misc/rewriteguide.html) could be used to create a REST service. But, the above is just to give you an idea.
 
-In case you wonder, this work is related to the opensource [MetWare](http://chem-bla-ics.blogspot.com/2007/11/metware-metabolomics-database-project.html)
+In case you wonder, this work is related to the opensource [MetWare <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/11/22/metware-metabolomics-database-project.html)
 database software development our group is involved in.

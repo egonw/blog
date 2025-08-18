@@ -117,7 +117,7 @@ there there is something seriously wrong with your R&R.
 > industry funding, and reasoned resistance must always be an option.
 
 Yeah, this is something that is underestimated. Part of our academic teaching is this critical thinking.
-It returns in academic reading (did you already read "What Little Red Riding Hood Can Teach Us about Reading Science",
+It returns in academic reading (did you already read *"What Little Red Riding Hood Can Teach Us about Reading Science"*,
 doi:[10.1515/9783110782844-010](https://doi.org/10.1515/9783110782844-010),
 by [Monica Gonzalez-Marquez](https://scholar.google.com/citations?user=0KRmIbcAAAAJ&hl=nl&oi=ao) *et al.*?),
 scientific programming, data analysis, and our teaching has been
@@ -126,5 +126,10 @@ scientific literature is riddled with mistakes, just because our peer reviewers 
 skilled. This will take effort. I know, it was a major part of
 [my PhD thesis](https://chem-bla-ics.linkedchemistry.info/2008/03/01/todo-april-2nd-defend-my-phd-work.html).
 
+Of course, this is exactly why I have been so active in Open Science. Without Open Science,
+we cannot work *in the spirit* of the EU AI Act. It's nothing new. It's just that the big money
+has found in AI a way to profit at the expense of humans.
+
 So, go read that [Open Letter](https://openletter.earth/open-letter-stop-the-uncritical-adoption-of-ai-technologies-in-academia-b65bba1e)
 and sign too!
+

@@ -11,7 +11,7 @@ tags: cheminf chemometrics justdoi:10.1515/9783110782844-010
 ---
 
 I have had the [Open Letter: Stop the Uncritical Adoption of AI Technologies in Academia](https://openletter.earth/open-letter-stop-the-uncritical-adoption-of-ai-technologies-in-academia-b65bba1e)
-from June 27 open for some time now. I thought I want to sign it, but got stuck on the first paragraphs multiple times:
+from June 27 open for some time now. I thought I wanted to sign it, but got stuck on the first paragraphs multiple times:
 
 > With this letter we take a principled stand against the proliferation of so-called 'AI' technologies in universities. As an educational institution,
 > we cannot condone the uncritical use of AI by students, faculty, or leadership. We also call for reconsidering any direct financial relationships

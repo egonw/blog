@@ -118,7 +118,7 @@ there there is something seriously wrong with your R&R.
 
 Yeah, this is something that is underestimated. Part of our academic teaching is this critical thinking.
 It returns in academic reading (did you already read *"What Little Red Riding Hood Can Teach Us about Reading Science"*,
-doi:[10.1515/9783110782844-010](https://doi.org/10.1515/9783110782844-010),
+doi:[10.1515/9783110782844-010](https://uplopen.com/chapters/e/10.1515/9783110782844-010),
 by [Monica Gonzalez-Marquez](https://scholar.google.com/citations?user=0KRmIbcAAAAJ&hl=nl&oi=ao) *et al.*?),
 scientific programming, data analysis, and our teaching has been
 lacking here. Not just for new AI forms, but also for the old algorihmts. I have seen this, and

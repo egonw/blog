@@ -3,11 +3,11 @@ layout: post
 title:  "AI Technologies in Academia"
 date:   2025-08-18
 doi: 10.59350/hr4y6-kwq16
-tags: cheminf chemometrics justdoi:10.1515/9783110782844-010
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+tags: cheminf chemometrics justdoi:10.1515/9783110782844-010 openscience
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 115048690368544631
 ---
 
 I have had the [Open Letter: Stop the Uncritical Adoption of AI Technologies in Academia](https://openletter.earth/open-letter-stop-the-uncritical-adoption-of-ai-technologies-in-academia-b65bba1e)

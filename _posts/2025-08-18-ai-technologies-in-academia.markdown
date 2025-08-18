@@ -2,6 +2,7 @@
 layout: post
 title:  "AI Technologies in Academia"
 date:   2025-08-18
+modified_data: 2025-08-18 11:13
 doi: 10.59350/hr4y6-kwq16
 tags: cheminf chemometrics justdoi:10.1515/9783110782844-010 openscience
 comments:
@@ -21,7 +22,7 @@ from June 27 open for some time now. I thought I wanted to sign it, but got stuc
 
 These few lines contain for me more than 25 years of research and I know the complexities. Before I can co-sign this letter,
 I need to understand the details. There is no definition of 'AI' here and it mentiones the [EU AI Act](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32024R1689)
-(I guess, the least actually writes "Al" (with an `l` of letter) act, I notice now after I read the content in another font),
+(I guess, the letter actually writes "Al" (with an `l` of letter) act, I notice now after I read the content in another font),
 but I have not read the EU AI Act yet (it is 144 pages of legal text).
 
 ## The legal context of the Open Letter

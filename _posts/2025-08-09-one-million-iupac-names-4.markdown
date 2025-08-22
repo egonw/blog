@@ -2,6 +2,7 @@
 layout: post
 title:  "One Million IUPAC names #4: a lot is happening"
 date:   2025-08-09
+modified_date: 2025-08-22
 doi: 10.59350/krw9n-dv417
 tags: iupac beilstein chembl cito:citesAsRecommendedReading:10.5281/zenodo.16755947
   inchikey:RDOXTESZEPMUJZ-UHFFFAOYSA-N inchikey:QWVGKYWNOKOFNN-UHFFFAOYSA-N
@@ -42,7 +43,8 @@ in the project issue tracker, for future reference (like now, here). I have not 
 ## Other large collections of IUPAC names
 
 **4M, CCZero**<br />
-Let's start with the news yesterday. The ChEMBL team [released 4 million IUPAC names from patent literature as CCZero](https://chembl.blogspot.com/2025/08/unleashing-4-million-iupac-names-into.html)!
+Let's start with the news yesterday. The [Chemical Biology Services team](https://www.ebi.ac.uk/about/teams/chemical-biology-services/)
+[released 4 million IUPAC names from patent literature as CCZero](https://chembl.blogspot.com/2025/08/unleashing-4-million-iupac-names-into.html)!
 The CCZero license/waiver makes it compatible with our list. Their Zenodo release:
 
 > ... contains IUPAC names text-mined from patents (US, WIPO, EPO, Chinese, Japanese).

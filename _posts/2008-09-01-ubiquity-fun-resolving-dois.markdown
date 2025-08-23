@@ -4,7 +4,7 @@ title:  "Ubiquity fun: resolving DOIs"
 date:   2008-09-01
 blogger-link: https://chem-bla-ics.blogspot.com/2008/09/ubiquity-fun-resolving-dois.html
 doi: 10.59350/gfjz7-ykc12
-tags: javascript web doi
+tags: javascript web doi ubiquity
 ---
 
 Now, I'm really after something else, but here's my first [Ubiquity](https://wiki.mozilla.org/Labs/Ubiquity)

@@ -4,7 +4,7 @@ title:  "Wrapping up..."
 date:   2005-10-23
 modified_date: 2023-07-29
 blogger-link: https://chem-bla-ics.blogspot.com/2005/10/wrapping-up.html
-tags: phd cdk
+tags: phd cdk career
 doi: 10.59350/6tezh-5a955
 ---
 

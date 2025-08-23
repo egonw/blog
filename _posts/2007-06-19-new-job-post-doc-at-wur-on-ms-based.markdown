@@ -5,6 +5,7 @@ date:   2007-06-19 00:20
 modified_date: 2025-08-10
 doi: 10.59350/yeg40-ebt62
 blogger-link: https://chem-bla-ics.blogspot.com/2007/06/new-job-post-doc-at-wur-on-ms-based.html
+tags: career metabolomics
 ---
 
 On July 1st I will start a post-doc in [Wageningen](http://en.wikipedia.org/wiki/Wageningen), The Netherlands at the

@@ -1,7 +1,7 @@
 ---
 layout: work
-title: "Work: Conflict of Interest. Or why I am stepping down as Editor-in-Chief of the Journal of Cheminformatics."
-type: CreativeWork
+title: "Work: MetWare - Aiding metabolite identification (and more)"
+type: PresentationDigitalDocument
 tag: doi:10.5281/ZENODO.2639469
 doi: doi:10.5281/ZENODO.2639469
 ---

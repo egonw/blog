@@ -21,10 +21,10 @@ grants:
     funder:
       name: "European Commission"
       ror: 00k4n6c32
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 115083782941172358
 ---
 
 This is a bit of an administrative post and historic, but keep coming back to the question, where are all the deliverable

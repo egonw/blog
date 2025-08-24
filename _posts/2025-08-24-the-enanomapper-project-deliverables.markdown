@@ -28,8 +28,8 @@ comments:
 ---
 
 This is a bit of an administrative post and historic, but keep coming back to the question, where are all the deliverable
-of the (past) project. Now, since many [eNanoMapper](https://chem-bla-ics.linkedchemistry.info/tag/enanomapper) projects
-were public, we were able to release most of them on Zenodo. This post makes an overview.
+of the (past) project. Now, since many [eNanoMapper](https://chem-bla-ics.linkedchemistry.info/tag/enanomapper) project
+deliverables were public, we were able to release most of them on Zenodo. This post makes an overview.
 
 To former partners and collaborators, thanks for this awesome journey!
 

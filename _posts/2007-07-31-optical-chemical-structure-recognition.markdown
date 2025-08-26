@@ -2,6 +2,7 @@
 layout: post
 title:  "Optical Chemical Structure Recognition"
 date:   2007-07-31 00:10
+modified_date: 2025-08-26
 blogger-link: https://chem-bla-ics.blogspot.com/2007/07/optical-chemical-structure-recognition.html
 doi: 10.59350/gh6e5-t2g74
 tags: cheminfo justdoi:10.1021/ci9601022 justdoi:10.1021/ci00008a018 justdoi:10.1016/S1359-6446(05)03682-2
@@ -15,7 +16,7 @@ written by [René Gerritsen](http://tweakers.net/plan/crew/134). The article dis
 [German Conference on Chemoinformatics](http://scholle.oc.uni-kiel.de/users/cic/tagungen/workshop06/) (to be held again
 [this year](http://www.gdch.de/gcc2007/)). Meanwhile, the CCL.net mailing list had a
 [discussion on the alternatives](http://www.ccl.net/cgi-bin/ccl/day-index.cgi?2007+07+20) too; I think it is fair to say that
-the chemical community realizes the important of these tools. Below is a short overview of the available tools, including some
+the chemical community realizes the importance of these tools. Below is a short overview of the available tools, including some
 important information regarding integration into workflows.
 
 ## ChemoCR

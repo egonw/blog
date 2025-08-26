@@ -2,6 +2,7 @@
 layout: post
 title:  "CDK development with branches using Git"
 date:   2008-09-07
+modified_date: 2025-08-26
 blogger-link: https://chem-bla-ics.blogspot.com/2008/09/cdk-development-with-branches-using-git.html
 doi: 10.59350/vt3yd-8nb03
 tags: cdk svn
@@ -21,7 +22,7 @@ for (IAtom atom : molecule.atoms()) {
 ```
 
 Now, while branching in SVN is easy (`svn copy`), merging is a pain, something Miguel and I found out in the last half year, where
-he and I experimented with using branches in development (see also [Comparing Branches](http://chem-bla-ics.blogspot.com/2008/05/comparing-junit-test-results-between.html)).
+he and I experimented with using branches in development (see also [Comparing Branches <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/05/02/comparing-junit-test-results-between.html)).
 We discovered that porting bug fixes from trunk to a branch, or just keeping the branch synchronized with trunk, simply does not work.
 And merging itself, after a while, became a tedious process. So, when watching Linus' movie on Git where he mentions being able to
 merge several branches a day, I knew I had to switch. A full switch for the CDK [depends](http://www.steinbeck-molecular.de/steinblog/index.php/2008/08/26/linus-on-git-on-google-techtalks/#comment-1294)

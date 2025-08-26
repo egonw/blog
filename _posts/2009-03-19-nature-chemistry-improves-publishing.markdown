@@ -2,7 +2,7 @@
 layout: post
 title:  "Nature Chemistry improves publishing chemistry: a detailed analysis"
 date:   2009-03-19
-modified_date: 2025-03-30
+modified_date: 2025-08-26
 doi: 10.59350/40377-hz881
 image: /assets/images/nchem4.png
 blogger-link: https://chem-bla-ics.blogspot.com/2009/03/nature-chemistry-improves-publishing.html
@@ -13,14 +13,14 @@ tags: inchi justdoi:10.1038/nchem.110 chemistry jmol
 like *Asymmetric total syntheses of (+)- and (-)-versicolamide B and biosynthetic implications* by Miller et al.
 (DOI:[10.1038/nchem.110](https://doi.org/10.1038/nchem.110)).
 
-Now, we've seen the Royal Society of Chemistry's [Project Prospect](http://chem-bla-ics.blogspot.com/search?q=project+prospect)
-(see [RSC: the first publisher to go semantic!](https://chem-bla-ics.blogspot.com/2007/02/rsc-first-publisher-to-go-semantic.html))
+Now, we've seen the Royal Society of Chemistry's [Project Prospect](http://chem-bla-ics.blogspot.com/search?q=project+prospect) <!-- keep link -->
+(see [RSC: the first publisher to go semantic! <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/02/01/rsc-first-publisher-to-go-semantic.html))
 and ChemSpiders recent [ChemMantis](http://www.chemmantis.com/) system which enriches
 the papers with machine readable representations of the molecules discussed in those
 papers. The new Nature publication has been in the works for a while, and they
 [asked](http://blogs.nature.com/thescepticalchymist/2008/05/jj_day_98_service_with_a_simpl.html)
 the community before what a Nature Chemistry paper should like like, and I replied in
-[Re: What should a Nature Chemistry paper look like?](http://chem-bla-ics.blogspot.com/2008/05/re-what-should-nature-chemistry-paper.html).
+[Re: What should a Nature Chemistry paper look like? <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/05/08/re-what-should-nature-chemistry-paper.html).
 
 ## The verdict
 

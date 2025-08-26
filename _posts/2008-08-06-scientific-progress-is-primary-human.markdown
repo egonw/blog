@@ -2,6 +2,7 @@
 layout: post
 title:  "Scientific progress is a primary human need"
 date:   2008-08-06
+modified_date: 2025-08-26
 blogger-link: https://chem-bla-ics.blogspot.com/2008/08/scientific-progress-is-primary-human.html
 doi: 10.59350/na9qg-p4f95
 tag: cheminf openscience
@@ -34,5 +35,6 @@ can best be opensource? So I replied:
 > Pokemon cards, want their DNA sequenced, sure, no problem. But don't start making money from primary needs. Scientific progress is a
 > primary need.
 
-Some more details on my background on these issues can be found in [I don't blame Individuals in Commercial Chemoinformatics](http://chem-bla-ics.blogspot.com/2007/12/i-dont-blame-individuals-in-commercial.html)
-and [Why ODOSOS is important](http://chem-bla-ics.blogspot.com/2007/10/why-odosos-is-important.html).
+Some more details on my background on these issues can be found in
+[I don't blame Individuals in Commercial Chemoinformatics <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/12/13/i-dont-blame-individuals-in-commercial.html)
+and [Why ODOSOS is important <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/10/14/why-odosos-is-important.html).

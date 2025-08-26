@@ -2,6 +2,7 @@
 layout: post
 title:  "Recovering full mass spectra from GC-MS data"
 date:   2008-06-04
+modified_date: 2025-08-26
 blogger-link: https://chem-bla-ics.blogspot.com/2008/06/recovering-full-mass-spectra-from-gc-ms.html
 doi: 10.59350/r7fav-92885
 tags: metabolomics rstats
@@ -33,7 +34,7 @@ Though I believe there are other uses too, for example, in between sample alignm
 important for metabolite identification of new, yet unknown compounds (yes, even dereplication is already non-trivial, because of the lack
 of free (open data preferably), machine accessible (open standards!) database of mass spectra (using different ionization methods). Look
 up by monoisotopic mass is possible in, for example, [ChemSpider](http://www.chemspider.com/) (see
-[this blog](http://chem-bla-ics.blogspot.com/2007/11/metabolomics-workflows-in-taverna.html)), but look up via full spectrum is less common.
+[this blog <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/11/26/metabolomics-workflows-in-taverna.html)), but look up via full spectrum is less common.
 The number of databases are growing, and likewise the openness and accessibility. Who know what the
 [Netherlands Metabolomics Center](http://www.metabolomicscentre.nl/)'s support platform will be able to offer in a year or two.
 
@@ -81,7 +82,7 @@ here... well, not entirely, otherwise it would not have failed over my parameter
 Now, I found these missed metabolites by manual browsing the data, data exploration. SBS [wrote](http://www.simbiosys.ca/blog/2008/06/03/research-and-software-testing/)
 *[t]here are four distinct type of tests: Func, Speed, Error and Robust*. I believe the above situation is really a fifth class: it's
 neither a true *functional test*, but it is not an true *robustness test* either. The input is valid, but of such that it moves towards
-invalid input. Scientific data is a continuous spectrum of input (remember the [oil in, oil out](http://chem-bla-ics.blogspot.com/2008/06/good-scientists-pimp-there-research-was.html)).
+invalid input. Scientific data is a continuous spectrum of input (remember the [oil in, oil out <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/06/03/good-scientists-pimp-there-research-was.html)).
 Software must be tested against such borderline data; repeatedly, over and over again, for any version, for any code change, for any
 platform.
 

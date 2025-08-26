@@ -2,6 +2,7 @@
 layout: post
 title:  "CDK Literature #5"
 date:   2008-07-26
+modified_date: 2025-08-26
 blogger-link: https://chem-bla-ics.blogspot.com/2008/07/cdk-literature-5.html
 doi: 10.59350/bsv98-6bz80
 tags: cdk justdoi:10.1093/bioinformatics/btn181 justdoi:10.1016/j.pnmrs.2007.04.003
@@ -9,10 +10,12 @@ tags: cdk justdoi:10.1093/bioinformatics/btn181 justdoi:10.1016/j.pnmrs.2007.04.
   justdoi:10.1016/j.jmb.2007.10.065
 ---
 
-Time flies. Another CDK Literature (see also [#1](http://chem-bla-ics.blogspot.com/2007/01/cdk-literature-1.html),
-[#2](http://chem-bla-ics.blogspot.com/2007/07/cdk-literature-2.html), [#3](http://chem-bla-ics.blogspot.com/2008/01/cdk-literature-3.html),
-[#4](http://chem-bla-ics.blogspot.com/2008/01/cdk-literature-4.html)). Quite a few papers have been published again,
-and I'll briefly discuss a few of them.
+Time flies. Another CDK Literature (see also
+[#1 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/01/14/cdk-literature-1.html),
+[#2 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/07/14/cdk-literature-2.html),
+[#3 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/01/03/cdk-literature-3.html),
+[#4 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/01/06/cdk-literature-4.html)).
+Quite a few papers have been published again, and I'll briefly discuss a few of them.
 
 ## Detection of IUPAC names
 Klinger et al. have written a paper on detection of IUPAC names. As long as semantic markup languages are not the default,

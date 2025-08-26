@@ -5,7 +5,7 @@ date:   2008-08-26
 blogger-link: https://chem-bla-ics.blogspot.com/2008/08/metware-screenshot-propagating-xml.html
 doi: 10.59350/9se4x-ewm11
 tags: metware xml skos doi:10.1186/1471-2105-8-487
-image: /blog/assets/images/boolDataType.png
+image: /assets/images/boolDataType.png
 ---
 
 Just a quick screenshot. Remember our use of [SKOS in MetWare](http://chem-bla-ics.blogspot.com/2008/05/metware-status-report.html)?
@@ -19,7 +19,7 @@ for this, as [mentioned ealier](http://chem-bla-ics.blogspot.com/2008/08/metware
 mentioned generation of search pages. That example showed the creation of range input on `xsd:integer` types. The below screenshot
 shows the different output for `xsd:string` (input text box) and `xsd:boolean`:
 
-![](/blog/assets/images/boolDataType.png)
+![](/assets/images/boolDataType.png)
 
 Now, this example is not really shocking, but MetWare defines additional types, for example an InChI data type:
 

@@ -5,7 +5,7 @@ date:   2008-09-01 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2008/09/ubiquity-fun-entering-semantic-markup.html
 doi: 10.59350/s6bgg-e7a38
 tags: rdf javascript web ubiquity
-image: /blog/assets/images/ubiSechemticStep1.5.png
+image: /assets/images/ubiSechemticStep1.5.png
 ---
 
 Now, the [DOI ubiquity scripts](http://chem-bla-ics.blogspot.com/2008/09/ubiquity-fun-resolving-dois.html) I just blogged about,
@@ -22,19 +22,19 @@ Well, no worries, no more. Here comes *sechemtic-inchi* ([installer here](http:/
 
 I type in the InChI I want in my blog (example showing that of [methane](http://en.wikipedia.org/wiki/Methane)):
 
-![](/blog/assets/images/ubiSechemticStep1.png)
+![](/assets/images/ubiSechemticStep1.png)
 
 And, I select the InChI:
 
-![](/blog/assets/images/ubiSechemticStep1.5.png)
+![](/assets/images/ubiSechemticStep1.5.png)
 
 After which I hit the Ubiquity shortcut (ALT-SPACE on Linux) and I type *sechemtic-inchi*:
 
-![](/blog/assets/images/ubiSechemticStep2.png)
+![](/assets/images/ubiSechemticStep2.png)
 
 And, viola, there is my RDFa HTML code for chemistry:
 
-![](/blog/assets/images/ubiSechemticStep3.png)
+![](/assets/images/ubiSechemticStep3.png)
 
 Now, with only minor amounts of fantasy, you can imagine where this is going: SMILES, InChiKey, etc, etc. Hook it up with
 [chemistry webservices](http://rguha.wordpress.com/2008/08/30/ubiquity-and-chemical-information/) to autoconvert

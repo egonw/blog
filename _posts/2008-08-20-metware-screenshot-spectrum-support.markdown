@@ -5,7 +5,7 @@ date:   2008-08-20
 blogger-link: https://chem-bla-ics.blogspot.com/2008/08/metware-screenshot-spectrum-support.html
 doi: 10.59350/9m75g-4rh11
 tags: metware xml java
-image: /blog/assets/images/msTable.png
+image: /assets/images/msTable.png
 ---
 
 Not visually attractive, but that will be solved when Steffen gets his hands on it. For now, I'm happy with a table formatting.
@@ -35,7 +35,7 @@ rename to reuse the code for NMR support :).
 
 So, here's the outcome:
 
-![](/blog/assets/images/msTable.png)
+![](/assets/images/msTable.png)
 
 Final note, given the dataType, the MetWare bean also has the logic to convert the data back and forth into a SQL serialization,
 which may eventually use base64 encoding, but currently looks like *61.0,100.0;62.0,1.1*, as defined by the regular expression of

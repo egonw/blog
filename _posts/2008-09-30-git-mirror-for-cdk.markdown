@@ -5,7 +5,7 @@ date:   2008-09-30
 blogger-link: https://chem-bla-ics.blogspot.com/2008/09/git-mirror-for-cdk.html
 doi: 10.59350/assax-tmx60
 tags: git cdk
-image: /assets/images/punchCard.png
+image: /blog/assets/images/punchCard.png
 ---
 
 While slowly [merging with Sweden](http://chem-bla-ics.blogspot.com/2008/09/moved-to-sweden-post-doc-in-bioclipse.html), and ADSL which should
@@ -50,4 +50,4 @@ $ git push
 So, does this mean no goodies for people who stick to SVN? No, there are some, like this
 [PunchCard](http://github.com/egonw/cdk/graphs/punch_card):
 
-![](/assets/images/punchCard.png)
+![](/blog/assets/images/punchCard.png)

@@ -4,7 +4,7 @@ title:  "Chemoinformatics p0wned by cheminformatics... #2"
 date:   2008-10-18
 blogger-link: https://chem-bla-ics.blogspot.com/2008/10/chemoinformatics-p0wned-by.html
 doi: 10.59350/srpzr-0ar34
-tags: cheminfo jcheminf
+tags: cheminf jcheminf
 image: /blog/assets/images/cheminfoPoll.png
 ---
 

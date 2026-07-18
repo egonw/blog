@@ -4,7 +4,7 @@ title:  "December wrap up. X-mas holidays at last!"
 date:   2009-12-19
 blogger-link: https://chem-bla-ics.blogspot.com/2009/12/december-wrap-up-x-mas-holidays-at-last.html
 doi: 10.59350/pxwbm-2wn02
-tags: bioclipse bioinf cheminfo doi:10.1186/1471-2105-10-397 latex
+tags: bioclipse bioinf cheminf doi:10.1186/1471-2105-10-397 latex
 ---
 
 Wow, I just saw it has been **17 days** since my last post already :( That's a new record, I think! A lot has happened

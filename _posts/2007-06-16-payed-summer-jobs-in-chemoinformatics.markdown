@@ -3,7 +3,7 @@ layout: post
 title:  "Payed summer jobs in chemoinformatics"
 date:   2007-06-16
 blogger-link: https://chem-bla-ics.blogspot.com/2007/06/payed-summer-jobs-in-chemoinformatics.html
-tags: jmol bioclipse
+tags: jmol bioclipse gsoc
 ---
 
 Last year the [Programmeerzomer.nl](http://www.programmeerzomer.nl/) sponsored one summer student to work on [Bioclipse](http://www.bioclipse.net/)

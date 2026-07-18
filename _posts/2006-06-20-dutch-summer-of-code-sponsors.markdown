@@ -3,7 +3,7 @@ layout: post
 title:  "Dutch Summer of Code sponsors a Bioclipse project"
 date:   2006-06-20
 blogger-link: https://chem-bla-ics.blogspot.com/2006/06/dutch-summer-of-code-sponsors.html
-tags: programmeerzomer bioclipse ghemical
+tags: programmeerzomer bioclipse ghemical gsoc
 ---
 
 The Dutch version of the [Google Summer of Code](http://code.google.com/soc), [Programmeerzomer.nl](http://www.programmeerzomer.nl/),

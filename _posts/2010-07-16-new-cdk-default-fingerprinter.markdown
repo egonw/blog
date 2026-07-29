@@ -2,6 +2,7 @@
 layout: post
 title:  "A new CDK default fingerprinter?"
 date:   2010-07-16
+modified_date: 2011-05-22
 blogger-link: https://chem-bla-ics.blogspot.com/2010/07/new-cdk-default-fingerprinter.html
 doi: 10.59350/485a6-g8f87
 tags: cdk fingerprint
@@ -25,3 +26,5 @@ this new fingerprint in his [excellent analysis](http://blog.rguha.net/?p=29) he
 
 The source code can be found in [my GitHub repository](http://github.com/egonw/cdk/tree/165-sp2Fingerprinter), with the new class
 [HybridOnlyFingerprinter](http://github.com/egonw/cdk/blob/165-sp2Fingerprinter/src/main/org/openscience/cdk/fingerprint/HybridOnlyFingerprinter.java).
+
+*Update:* The fingerprinter has been renamed to HybridizationFingerprinter, and is part of the CDK 1.3.9 release.

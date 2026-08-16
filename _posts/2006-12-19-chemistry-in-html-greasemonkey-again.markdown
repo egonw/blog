@@ -3,7 +3,7 @@ layout: post
 title:  "Chemistry in HTML: Greasemonkey again"
 date:   2006-12-19
 blogger-link: https://chem-bla-ics.blogspot.com/2006/12/chemistry-in-html-greasemonkey-again.html
-tags: userscript html rdf doi:10.1021/CI034244P
+tags: userscript html rdf doi:10.1021/CI034244P rdfa
 ---
 
 Here's a quick update on my blog about [SMILES, CAS and InChI in blogs: Greasemonkey](http://chem-bla-ics.blogspot.com/2006/12/smiles-cas-and-inchi-in-blogs.html)

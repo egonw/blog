@@ -4,7 +4,7 @@ title:  "Outscoring old science"
 date:   2007-09-13
 doi: 10.59350/dze3k-zky17
 blogger-link: https://chem-bla-ics.blogspot.com/2007/09/outscoring-old-science.html
-tags: publishing
+tags: publishing rdfa
 ---
 
 Rich [posted a nice quote](http://depth-first.com/articles/2007/09/12/the-forward-pass-has-been-legalized-will-you-use-it)

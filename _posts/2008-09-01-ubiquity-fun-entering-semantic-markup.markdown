@@ -4,7 +4,7 @@ title:  "Ubiquity fun: entering semantic markup as easy as running a Ubiquity co
 date:   2008-09-01 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2008/09/ubiquity-fun-entering-semantic-markup.html
 doi: 10.59350/s6bgg-e7a38
-tags: rdf javascript web ubiquity
+tags: rdf javascript web ubiquity rdfa
 image: /blog/assets/images/ubiSechemticStep1.5.png
 ---
 

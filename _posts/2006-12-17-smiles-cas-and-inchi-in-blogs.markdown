@@ -3,7 +3,7 @@ layout: post
 title:  "SMILES, CAS and InChI in blogs: Greasemonkey"
 date:   2006-12-17
 blogger-link: https://chem-bla-ics.blogspot.com/2006/12/smiles-cas-and-inchi-in-blogs.html
-tags: chemistry userscript smiles pubchem inchi
+tags: chemistry userscript smiles pubchem inchi rdfa
 image: /blog/assets/images/sechemticWebScript.png
 ---
 

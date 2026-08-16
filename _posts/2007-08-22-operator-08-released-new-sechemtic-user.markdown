@@ -3,7 +3,7 @@ layout: post
 title:  "Operator 0.8 released: a new Sechemtic user script"
 date:   2007-08-22
 blogger-link: https://chem-bla-ics.blogspot.com/2007/08/operator-08-released-new-sechemtic-user.html
-tags: semweb chemistry
+tags: semweb chemistry rdfa
 image: /blog/assets/images/options1.png
 ---
 

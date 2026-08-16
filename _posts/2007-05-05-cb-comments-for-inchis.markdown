@@ -3,7 +3,7 @@ layout: post
 title:  "Cb comments for InChI's"
 date:   2007-05-05
 blogger-link: https://chem-bla-ics.blogspot.com/2007/05/cb-comments-for-inchis.html
-tags: cb inchi userscript rdf
+tags: cb inchi userscript rdf rdfa
 image: /blog/assets/images/cb_inchi_greasemonkey1.png
 ---
 

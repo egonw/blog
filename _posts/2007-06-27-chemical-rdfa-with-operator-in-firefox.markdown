@@ -3,7 +3,7 @@ layout: post
 title:  "Chemical RDFa with Operator in the Firefox toolbar"
 date:   2007-06-27 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2007/06/chemical-rdfa-with-operator-in-firefox.html
-tags: pubchem rdf userscript inchi
+tags: pubchem rdf userscript inchi rdfa
 image: /blog/assets/images/pubchemRDFa.png
 ---
 

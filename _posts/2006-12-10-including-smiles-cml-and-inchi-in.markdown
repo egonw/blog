@@ -3,7 +3,7 @@ layout: post
 title:  "Including SMILES, CML and InChI in blogs"
 date:   2006-12-10
 blogger-link: https://chem-bla-ics.blogspot.com/2006/12/including-smiles-cml-and-inchi-in.html
-tags: cml inchi blog cb doi:10.1021/CI034244P microformat rdf html
+tags: cml inchi blog cb doi:10.1021/CI034244P microformat rdf html rdfa
 ---
 
 The blogs [ChemBark](http://blog.chembark.com/) and [KinasePro](http://kinasepro.wordpress.com/) have been discussing

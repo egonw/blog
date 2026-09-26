@@ -3,4 +3,5 @@ _site/
 _posts/template.markdown
 .bundle/
 
+package-lock.json
 node_modules/

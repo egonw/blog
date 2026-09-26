@@ -2,7 +2,7 @@
 layout: post
 title:  "A new job: post-doc at the WUR on MS based structure elucidation"
 date:   2007-06-19 00:20
-modified_data: 2024-12-01
+modified_date: 2024-12-01
 blogger-link: https://chem-bla-ics.blogspot.com/2007/06/new-job-post-doc-at-wur-on-ms-based.html
 ---
 

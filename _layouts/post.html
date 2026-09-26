@@ -58,6 +58,12 @@ layout: base
         {% elsif check[0] == "doi" %}
           {% assign type = "work" %}
           {% assign icon = "file" %}
+        {% elsif check[0] == "cito" %}
+          {% assign type = "skip" %}
+        {% elsif check[0] == "mycito" %}
+          {% capture tag_name %}{{ check[2] }}{% endcapture %}
+          {% assign type = "work" %}
+          {% assign icon = "file" %}
         {% else %}
           {% assign type = "tag" %} <!-- failsafe -->
           {% assign icon = "tag" %}
@@ -74,41 +80,20 @@ layout: base
   </div>
 
 {% if page.tags.size > 0 %}
-  <div class="post-footer" id="bibliographyDIV" style="visibility: hidden">
-  <b class="post">References</b>
-  <p class="post-meta" id="bibliography"></p>
-  </div>
-  <script>
-const cite = new Cite()
-dois = []
-{% for tag in page.tags %}
-  {% assign check = tag | split:':' %}
-  {% if check.size > 1 %}
-    {% if check[0] == "doi" %}
-      {% capture doi %}{{ check[1] }}{% endcapture %}
-dois.push("{{ doi }}")
-    {% elsif check[0] == "justdoi" %}
-      {% capture doi %}{{ check[1] }}{% endcapture %}
-dois.push("{{ doi }}")
-    {% endif %}
-  {% endif %}
-{% endfor %}
-if (dois.length > 0) {
-  Cite.async(dois).then(function(cite) {
-    content = cite.format('bibliography', {
-      format: 'html', template : 'apa',
-      prepend: function (entry) {
-        return '<i class="fa-solid fa-file fa-xs"></i>&nbsp;'
-      },
-      append: function (entry) {
-        return ' <a href="https://doi.org/' + entry.DOI + '">CrossRef</a> <a href="https://scholia.toolforge.org/doi/' + entry.DOI + '">Scholia</a>'
-      }
-    })
-    document.getElementById('bibliography').innerHTML = content
-    document.getElementById('bibliographyDIV').style.visibility = "visible"
-  })
-}
-  </script>
+  {%- assign dois = "" | split: "" -%}
+  {%- for tag in page.tags -%}
+    {%- assign check = tag | split:':' -%}
+    {%- if check.size > 1 -%}
+      {%- if check[0] == "doi" or check[0] == "justdoi" -%}
+        {%- assign dois = dois | push: check[1] -%}
+      {%- elsif check[0] == "cito" or check[0] == "mycito" -%}
+        {%- comment -%} cito:intent1,intent2:DOI, the CiTO intents are passed after '@@' {%- endcomment -%}
+        {%- capture doi_intents %}{{ check[2] }}@@{{ check[1] }}{% endcapture -%}
+        {%- assign dois = dois | push: doi_intents -%}
+      {%- endif -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {%- include references.html dois=dois title="References" prepend="icon" -%}
 {% endif %}
 
   {%- if site.disqus.shortname -%}

@@ -3,3 +3,4 @@ _site/
 _posts/template.markdown
 .bundle/
 
+node_modules/

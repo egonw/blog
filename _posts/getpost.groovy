@@ -9,17 +9,36 @@ bioclipse = new net.bioclipse.managers.BioclipseManager("..");
 ui = new net.bioclipse.managers.UIManager("..");
 jsoup = new net.bioclipse.managers.JSoupManager("..");
 
-blogpost = args[0]
-dayOverride = args.length > 1 ? args[1] : null // this 2nd parameter is now optional. it will take it from the Atom feed entry
+// Command line options
+def cli = new groovy.cli.commons.CliBuilder(usage: 'groovy getpost.groovy [options] <blogger-url> [day]', stopAtNonOption: false)
+cli.h(longOpt: 'help', 'show this help')
+cli._(longOpt: 'doi', args: 1, argName: 'doi', 'use this DOI instead of creating one with commonmeta')
+cli._(longOpt: 'fakedoi', 'use 10.fake/xxxx as DOI instead of creating one with commonmeta (for testing)')
+def options = cli.parse(args)
+if (!options) System.exit(1)
+if (options.h || options.arguments().isEmpty()) { cli.usage(); System.exit(0) }
+if (options.doi && options.fakedoi) {
+  System.err.println("Use only one of --doi and --fakedoi")
+  System.exit(1)
+}
 
-def sout = new StringBuilder(), serr = new StringBuilder()
-def proc = 'commonmeta encode 10.59350'.execute()
-proc.consumeProcessOutput(sout, serr)
-proc.waitForOrKill(5000)
-println "out> $sout\nerr> $serr"
-doi = serr.toString().replace("https://doi.org/10.", "10.").replace("\n","").replace("\r","")
-if (doi == null || doi.isEmpty()) {
-  doi = sout.toString().replace("https://doi.org/10.", "10.").replace("\n","").replace("\r","")
+blogpost = options.arguments()[0]
+dayOverride = options.arguments().size() > 1 ? options.arguments()[1] : null // this 2nd parameter is now optional. it will take it from the Atom feed entry
+
+if (options.doi) {
+  doi = options.doi.replace("https://doi.org/", "")
+} else if (options.fakedoi) {
+  doi = "10.fake/xxxx"
+} else {
+  def sout = new StringBuilder(), serr = new StringBuilder()
+  def proc = 'commonmeta encode 10.59350'.execute()
+  proc.consumeProcessOutput(sout, serr)
+  proc.waitForOrKill(5000)
+  println "out> $sout\nerr> $serr"
+  doi = serr.toString().replace("https://doi.org/10.", "10.").replace("\n","").replace("\r","")
+  if (doi == null || doi.isEmpty()) {
+    doi = sout.toString().replace("https://doi.org/10.", "10.").replace("\n","").replace("\r","")
+  }
 }
 
 htmlContent = bioclipse.download(blogpost)

@@ -2,10 +2,17 @@
 layout: post
 title:  "ChemWriter, Google Chrome, and Many Eyes in Open Source"
 date:   2010-12-03
+modified_date: 2010-12-10
 doi: 10.59350/w1acd-1d323
 blogger-link: https://chem-bla-ics.blogspot.com/2010/12/chemwriter-google-chrome-and-many-eyes.html
 tags: opensource justdoi:10.59350/x4j7q-m6h98
 ---
+
+**Update**: Wow, how tired can you be. I have to apologize for this post: as Andrew points out in the comments, Rich
+did not analyze the Chrome source code, but his own source code. That is not so special indeed. I have misread Rich'
+post. This completely ruins the point I was making. He did not take advantage of Chrome being Open Source, and find
+the problem that way, but in an old fashion debugging session on ChemWriter. The below could have happened, but it
+didn't.
 
 [Linus' law](http://en.wikipedia.org/wiki/Linus'_Law):
 

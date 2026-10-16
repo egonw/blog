@@ -4,7 +4,7 @@ title:  "Karolinska Institutet"
 date:   2011-01-12
 blogger-link: https://chem-bla-ics.blogspot.com/2011/01/karolinska-institutet.html
 doi: 10.59350/j1r9d-bwc69
-tags: cheminf chemometrics toxicology
+tags: cheminf chemometrics toxicology justdoi:10.1039/C0NR00535E
 ---
 
 Hi all, and a happy 2011! After a turbulent December (finishing up in the Oscar

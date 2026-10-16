@@ -4,7 +4,7 @@ title:  "The 100th Blue Obelisk 2006 paper citation"
 date:   2010-12-30 00:20
 blogger-link: https://chem-bla-ics.blogspot.com/2010/12/100th-blue-obelisk-2006-paper-citation.html
 doi: 10.59350/h2ytg-x6f83
-tags: blue-obelisk publishing
+tags: blue-obelisk publishing doi:10.1021/CI050400B justdoi:10.1021/jm100780c
 ---
 
 Two and a half months after the CDK milestone, the Blue Obelisk paper also reached

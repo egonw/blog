@@ -9,6 +9,8 @@ tags: iccs
 image: /blog/assets/images/iccs.png
 ---
 
+&nbsp;
+
 ![](/blog/assets/images/iccs.png)
 
 Later this year the ninth [International Conference on Chemical Structures](http://www.int-conf-chem-structures.org/home.html)

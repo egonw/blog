@@ -5,7 +5,7 @@ date:   2010-12-14 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2010/12/bmc-open-research-computation.html
 doi: 10.59350/eb8a9-cyr70
 image: /blog/assets/images/orc.png
-tags: opensource publishing
+tags: opensource publishing orc
 ---
 
 Yesterday, a new journal launched, but your regular new journal. This journal

@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: bmc"
+title: "Tag: BioMed Central"
 tag: bmc
 ---
